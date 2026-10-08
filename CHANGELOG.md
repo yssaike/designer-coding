@@ -5177,3 +5177,4 @@
 - `2026-10-07 17:16` — polish accordion padding in the mobile nav
 - `2026-10-07 17:16` — resolve alert font weight for RTL layouts
 - `2026-10-07 17:16` — tweak accordion transition timing
+- `2026-10-07 17:16` — normalize exit animation duration tokens
