@@ -5183,3 +5183,4 @@
 - `2026-10-07 17:16` — patch slider divider color
 - `2026-10-07 17:16` — add high-contrast mode token set
 - `2026-10-07 17:16` — tune breadcrumb icon size in compact density
+- `2026-10-07 17:16` — update menu item min-width in modal context
