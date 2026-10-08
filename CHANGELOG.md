@@ -5171,3 +5171,4 @@
 - `2026-10-07 17:16` — normalize segmented control opacity in high-contrast mode
 - `2026-10-07 17:16` — fix token export pipeline
 - `2026-10-07 17:16` — extend the color scale
+- `2026-10-07 17:16` — add high-visibility focus token for forced-colors mode
