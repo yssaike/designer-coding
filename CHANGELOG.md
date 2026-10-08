@@ -5190,3 +5190,4 @@
 - `2026-10-07 17:16` — correct misaligned icon in button component
 - `2026-10-07 17:16` — move hardcoded values to tokens
 - `2026-10-08 11:15` — document spacing token usage
+- `2026-10-08 11:15` — soften textarea exit animation
