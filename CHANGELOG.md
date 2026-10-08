@@ -5191,3 +5191,4 @@
 - `2026-10-07 17:16` — move hardcoded values to tokens
 - `2026-10-08 11:15` — document spacing token usage
 - `2026-10-08 11:15` — soften textarea exit animation
+- `2026-10-08 11:15` — remove deprecated spacing tokens
