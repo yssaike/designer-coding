@@ -5169,3 +5169,4 @@
 - `2026-09-29 08:34` — normalize card letter spacing in dark mode
 - `2026-09-29 08:34` — update dropdown border color at small breakpoints
 - `2026-10-07 17:16` — normalize segmented control opacity in high-contrast mode
+- `2026-10-07 17:16` — fix token export pipeline
