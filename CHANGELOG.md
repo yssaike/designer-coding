@@ -5193,3 +5193,4 @@
 - `2026-10-08 11:15` — soften textarea exit animation
 - `2026-10-08 11:15` — remove deprecated spacing tokens
 - `2026-10-08 11:15` — refine card transition
+- `2026-10-08 11:15` — patch input spacing
