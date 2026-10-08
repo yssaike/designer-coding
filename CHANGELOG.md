@@ -1,0 +1,5170 @@
+# Design Code — Changelog
+
+- `2026-02-12 10:04` — margin alignment
+- `2026-02-12 10:04` — screen reader label add
+- `2026-02-12 10:04` — secondary palette refinement
+- `2026-02-12 10:04` — checkbox style refresh
+- `2026-02-12 10:04` — color change
+- `2026-02-12 10:04` — brand spacing alignment
+- `2026-02-12 10:04` — layout spacing refinement
+- `2026-02-12 10:04` — focus indicator update
+- `2026-02-12 10:04` — scroll animation fix
+- `2026-02-12 10:04` — UI fixes
+- `2026-02-12 10:04` — z-index adjustment
+- `2026-02-12 10:04` — brand asset refresh
+- `2026-02-12 10:04` — heading hierarchy fix
+- `2026-02-12 10:04` — font family swap
+- `2026-02-12 10:04` — dropdown menu update
+- `2026-02-12 10:04` — surface color update
+- `2026-02-12 10:04` — aria attribute update
+- `2026-02-12 10:04` — brand color alignment
+- `2026-02-12 10:04` — tab component refinement
+- `2026-02-12 10:04` — keyboard navigation fix
+- `2026-02-12 10:04` — button style update
+- `2026-02-12 10:04` — micro-interaction refinement
+- `2026-02-12 10:04` — modal design update
+- `2026-02-12 10:04` — line height refinement
+- `2026-02-12 10:04` — hover state fix
+- `2026-02-12 10:04` — focus ring update
+- `2026-02-12 11:29` — secondary palette refinement
+- `2026-02-12 11:29` — disabled state styling
+- `2026-02-12 11:29` — letter spacing tweak
+- `2026-02-12 11:29` — surface color update
+- `2026-02-12 11:29` — modal design update
+- `2026-02-12 11:29` — heading hierarchy fix
+- `2026-02-12 11:29` — section spacing update
+- `2026-02-12 11:29` — brand font update
+- `2026-02-12 11:29` — brand token change
+- `2026-02-12 11:29` — accent color adjustment
+- `2026-02-12 11:29` — typography scale update
+- `2026-02-12 11:29` — line height refinement
+- `2026-02-12 11:29` — font weight adjustment
+- `2026-02-12 11:29` — spacing token update
+- `2026-02-12 11:29` — layout spacing refinement
+- `2026-02-12 11:29` — accessibility contrast fix
+- `2026-02-12 11:29` — brand guideline sync
+- `2026-02-12 11:29` — brand color alignment
+- `2026-02-13 09:37` — checkbox style refresh
+- `2026-02-13 09:37` — brand spacing alignment
+- `2026-02-13 09:37` — loading animation tweak
+- `2026-02-13 09:37` — transition easing change
+- `2026-02-13 09:37` — tab component refinement
+- `2026-02-13 09:37` — brand asset refresh
+- `2026-02-13 09:37` — semantic color token fix
+- `2026-02-13 09:37` — shadow refinement
+- `2026-02-13 09:37` — navigation styling fix
+- `2026-02-13 09:37` — body text improvement
+- `2026-02-13 09:37` — heading hierarchy fix
+- `2026-02-13 09:37` — primary color update
+- `2026-02-13 09:37` — brand token change
+- `2026-02-13 09:37` — scroll animation fix
+- `2026-02-13 09:37` — brand font update
+- `2026-02-13 09:37` — layout spacing refinement
+- `2026-02-13 09:37` — letter spacing tweak
+- `2026-02-13 09:37` — brand color alignment
+- `2026-02-13 09:37` — color change
+- `2026-02-13 09:37` — micro-interaction refinement
+- `2026-02-13 09:37` — aria attribute update
+- `2026-02-17 09:20` — color contrast fix
+- `2026-02-17 09:20` — typography scale update
+- `2026-02-17 09:20` — body text improvement
+- `2026-02-17 09:20` — aria attribute update
+- `2026-02-17 09:20` — animation duration update
+- `2026-02-17 09:20` — overflow fix
+- `2026-02-17 09:20` — brand color alignment
+- `2026-02-17 09:20` — font weight adjustment
+- `2026-02-17 09:20` — loading animation tweak
+- `2026-02-17 09:20` — transition easing change
+- `2026-02-17 09:20` — surface color update
+- `2026-02-17 09:20` — section spacing update
+- `2026-02-17 09:20` — modal design update
+- `2026-02-17 09:20` — input field refinement
+- `2026-02-17 09:20` — checkbox style refresh
+- `2026-02-17 09:20` — secondary palette refinement
+- `2026-02-17 09:20` — scroll animation fix
+- `2026-02-17 09:20` — alignment correction
+- `2026-02-17 09:20` — color change
+- `2026-02-17 09:20` — letter spacing tweak
+- `2026-02-17 09:20` — brand guideline sync
+- `2026-02-17 09:20` — padding consistency fix
+- `2026-02-17 09:20` — brand asset refresh
+- `2026-02-17 09:20` — margin alignment
+- `2026-02-17 09:20` — UI fixes
+- `2026-02-17 09:20` — screen reader label add
+- `2026-02-17 09:20` — micro-interaction refinement
+- `2026-02-17 09:20` — brand token change
+- `2026-02-17 09:20` — brand font update
+- `2026-02-17 09:20` — heading hierarchy fix
+- `2026-02-17 09:20` — spacing token update
+- `2026-02-17 09:20` — primary color update
+- `2026-02-17 09:20` — tab component refinement
+- `2026-02-17 09:20` — accessibility contrast fix
+- `2026-02-18 08:13` — surface color update
+- `2026-02-18 08:13` — overflow fix
+- `2026-02-18 08:13` — line height refinement
+- `2026-02-18 08:13` — layout spacing refinement
+- `2026-02-18 08:13` — focus ring update
+- `2026-02-18 08:13` — micro-interaction refinement
+- `2026-02-18 08:13` — brand font update
+- `2026-02-18 08:13` — margin alignment
+- `2026-02-18 08:13` — keyboard navigation fix
+- `2026-02-18 08:13` — heading hierarchy fix
+- `2026-02-18 08:13` — letter spacing tweak
+- `2026-02-18 08:13` — grid gap adjustment
+- `2026-02-18 08:13` — aria attribute update
+- `2026-02-18 08:13` — input field refinement
+- `2026-02-18 08:13` — secondary palette refinement
+- `2026-02-18 08:13` — accessibility contrast fix
+- `2026-02-18 08:13` — brand asset refresh
+- `2026-02-18 08:13` — primary color update
+- `2026-02-18 08:13` — card component update
+- `2026-02-18 08:13` — dropdown menu update
+- `2026-02-18 08:13` — visual regression fix
+- `2026-02-18 08:13` — screen reader label add
+- `2026-02-18 08:13` — responsive layout tweak
+- `2026-02-18 08:13` — body text improvement
+- `2026-02-18 08:13` — z-index adjustment
+- `2026-02-18 08:13` — tab component refinement
+- `2026-02-18 08:13` — brand color alignment
+- `2026-02-18 08:13` — dark mode color tweak
+- `2026-02-19 15:39` — loading animation tweak
+- `2026-02-19 15:39` — brand guideline sync
+- `2026-02-19 15:39` — button style update
+- `2026-02-19 15:39` — dark mode color tweak
+- `2026-02-19 15:39` — UI fixes
+- `2026-02-19 15:39` — heading hierarchy fix
+- `2026-02-19 15:39` — accent color adjustment
+- `2026-02-19 15:39` — scroll animation fix
+- `2026-02-19 15:39` — hover state fix
+- `2026-02-19 15:39` — brand spacing alignment
+- `2026-02-19 15:39` — font weight adjustment
+- `2026-02-19 15:39` — focus indicator update
+- `2026-02-19 15:39` — semantic color token fix
+- `2026-02-19 15:39` — transition easing change
+- `2026-02-19 15:39` — color change
+- `2026-02-19 15:39` — alignment correction
+- `2026-02-19 15:39` — brand token change
+- `2026-02-19 15:39` — disabled state styling
+- `2026-02-19 15:39` — line height refinement
+- `2026-02-19 15:39` — tab component refinement
+- `2026-02-19 15:39` — keyboard navigation fix
+- `2026-02-19 15:39` — dropdown menu update
+- `2026-02-19 15:39` — typography scale update
+- `2026-02-19 15:39` — screen reader label add
+- `2026-02-19 15:39` — letter spacing tweak
+- `2026-02-19 15:39` — accessibility contrast fix
+- `2026-02-19 15:39` — padding consistency fix
+- `2026-02-19 15:39` — margin alignment
+- `2026-02-19 15:39` — badge design update
+- `2026-02-19 15:39` — layout spacing refinement
+- `2026-02-19 15:39` — surface color update
+- `2026-02-19 15:39` — tooltip design tweak
+- `2026-02-19 15:39` — body text improvement
+- `2026-02-19 15:39` — micro-interaction refinement
+- `2026-02-19 15:39` — input field refinement
+- `2026-02-19 15:39` — secondary palette refinement
+- `2026-02-19 15:39` — color contrast fix
+- `2026-02-19 15:39` — border radius update
+- `2026-02-19 15:39` — navigation styling fix
+- `2026-02-20 10:56` — responsive layout tweak
+- `2026-02-20 10:56` — focus indicator update
+- `2026-02-20 10:56` — grid gap adjustment
+- `2026-02-20 10:56` — accessibility contrast fix
+- `2026-02-20 10:56` — z-index adjustment
+- `2026-02-20 10:56` — badge design update
+- `2026-02-20 10:56` — padding consistency fix
+- `2026-02-20 10:56` — animation duration update
+- `2026-02-20 10:56` — heading hierarchy fix
+- `2026-02-20 10:56` — brand asset refresh
+- `2026-02-20 10:56` — scroll animation fix
+- `2026-02-20 10:56` — brand guideline sync
+- `2026-02-20 10:56` — brand font update
+- `2026-02-20 10:56` — line height refinement
+- `2026-02-20 10:56` — loading animation tweak
+- `2026-02-20 10:56` — screen reader label add
+- `2026-02-20 10:56` — body text improvement
+- `2026-02-20 10:56` — spacing token update
+- `2026-02-20 10:56` — card component update
+- `2026-02-20 10:56` — secondary palette refinement
+- `2026-02-20 10:56` — color contrast fix
+- `2026-02-22 17:23` — dropdown menu update
+- `2026-02-22 17:23` — input field refinement
+- `2026-02-22 17:23` — brand font update
+- `2026-02-22 17:23` — heading hierarchy fix
+- `2026-02-22 17:23` — micro-interaction refinement
+- `2026-02-22 17:23` — brand asset refresh
+- `2026-02-22 17:23` — color palette expansion
+- `2026-02-22 17:23` — font family swap
+- `2026-02-22 17:23` — loading animation tweak
+- `2026-02-22 17:23` — brand guideline sync
+- `2026-02-22 17:23` — accent color adjustment
+- `2026-02-22 17:23` — checkbox style refresh
+- `2026-02-22 17:23` — font weight adjustment
+- `2026-02-22 17:23` — z-index adjustment
+- `2026-02-22 17:23` — button style update
+- `2026-02-22 17:23` — visual regression fix
+- `2026-02-22 17:23` — scroll animation fix
+- `2026-02-22 17:23` — animation duration update
+- `2026-02-22 17:23` — shadow refinement
+- `2026-02-22 17:23` — overflow fix
+- `2026-02-22 17:23` — line height refinement
+- `2026-02-22 17:23` — brand color alignment
+- `2026-02-22 17:23` — secondary palette refinement
+- `2026-02-22 17:23` — border radius update
+- `2026-02-22 17:23` — primary color update
+- `2026-02-22 17:23` — padding consistency fix
+- `2026-02-22 17:23` — active state refinement
+- `2026-02-22 17:23` — surface color update
+- `2026-02-22 17:23` — hover state fix
+- `2026-02-22 17:23` — brand token change
+- `2026-02-22 17:23` — accessibility contrast fix
+- `2026-02-22 17:23` — margin alignment
+- `2026-02-22 17:23` — transition easing change
+- `2026-02-22 17:23` — alignment correction
+- `2026-02-22 17:23` — focus indicator update
+- `2026-02-22 17:23` — screen reader label add
+- `2026-02-22 17:23` — spacing token update
+- `2026-02-22 17:23` — aria attribute update
+- `2026-02-22 17:23` — tooltip design tweak
+- `2026-02-22 17:23` — brand spacing alignment
+- `2026-02-22 17:23` — badge design update
+- `2026-02-22 17:23` — body text improvement
+- `2026-02-22 17:23` — letter spacing tweak
+- `2026-02-22 17:23` — typography scale update
+- `2026-02-22 17:23` — section spacing update
+- `2026-02-23 06:55` — grid gap adjustment
+- `2026-02-23 06:55` — checkbox style refresh
+- `2026-02-23 06:55` — brand asset refresh
+- `2026-02-23 06:55` — accessibility contrast fix
+- `2026-02-23 06:55` — brand font update
+- `2026-02-23 06:55` — responsive layout tweak
+- `2026-02-23 06:55` — micro-interaction refinement
+- `2026-02-23 06:55` — brand guideline sync
+- `2026-02-23 06:55` — focus indicator update
+- `2026-02-23 06:55` — focus ring update
+- `2026-02-23 06:55` — card component update
+- `2026-02-23 06:55` — scroll animation fix
+- `2026-02-23 06:55` — loading animation tweak
+- `2026-02-23 06:55` — aria attribute update
+- `2026-02-23 06:55` — alignment correction
+- `2026-02-23 06:55` — transition easing change
+- `2026-02-23 06:55` — padding consistency fix
+- `2026-02-23 06:55` — font weight adjustment
+- `2026-02-23 06:55` — heading hierarchy fix
+- `2026-02-23 06:55` — color change
+- `2026-02-23 06:55` — brand token change
+- `2026-02-23 06:55` — brand spacing alignment
+- `2026-02-23 06:55` — dropdown menu update
+- `2026-02-23 06:55` — section spacing update
+- `2026-02-23 06:55` — secondary palette refinement
+- `2026-02-23 06:55` — tab component refinement
+- `2026-02-23 06:55` — color palette expansion
+- `2026-02-23 06:55` — typography scale update
+- `2026-02-23 06:55` — letter spacing tweak
+- `2026-02-23 06:55` — z-index adjustment
+- `2026-02-23 06:55` — font family swap
+- `2026-02-23 06:55` — spacing token update
+- `2026-02-24 08:09` — heading hierarchy fix
+- `2026-02-24 08:09` — focus indicator update
+- `2026-02-24 08:09` — typography scale update
+- `2026-02-24 08:09` — scroll animation fix
+- `2026-02-24 08:09` — micro-interaction refinement
+- `2026-02-24 08:09` — responsive layout tweak
+- `2026-02-24 08:09` — UI fixes
+- `2026-02-24 08:09` — body text improvement
+- `2026-02-24 08:09` — loading animation tweak
+- `2026-02-24 08:09` — margin alignment
+- `2026-02-24 08:09` — brand asset refresh
+- `2026-02-24 08:09` — padding consistency fix
+- `2026-02-24 08:09` — accent color adjustment
+- `2026-02-24 08:09` — input field refinement
+- `2026-02-24 08:09` — color contrast fix
+- `2026-02-24 08:09` — brand guideline sync
+- `2026-02-24 08:09` — dropdown menu update
+- `2026-02-24 08:09` — brand spacing alignment
+- `2026-02-24 08:09` — animation duration update
+- `2026-02-24 08:09` — font family swap
+- `2026-02-24 08:09` — brand color alignment
+- `2026-02-24 08:09` — grid gap adjustment
+- `2026-02-24 08:09` — section spacing update
+- `2026-02-24 08:09` — z-index adjustment
+- `2026-02-24 08:09` — shadow refinement
+- `2026-02-24 08:09` — transition easing change
+- `2026-02-24 08:09` — tooltip design tweak
+- `2026-02-25 11:55` — overflow fix
+- `2026-02-25 11:55` — dropdown menu update
+- `2026-02-25 11:55` — secondary palette refinement
+- `2026-02-25 11:55` — tooltip design tweak
+- `2026-02-25 11:55` — dark mode color tweak
+- `2026-02-25 11:55` — brand token change
+- `2026-02-25 11:55` — keyboard navigation fix
+- `2026-02-25 11:55` — input field refinement
+- `2026-02-25 11:55` — color contrast fix
+- `2026-02-25 11:55` — brand asset refresh
+- `2026-02-25 11:55` — tab component refinement
+- `2026-02-25 11:55` — micro-interaction refinement
+- `2026-02-25 11:55` — accessibility contrast fix
+- `2026-02-25 11:55` — body text improvement
+- `2026-02-25 11:55` — section spacing update
+- `2026-02-25 11:55` — animation duration update
+- `2026-02-26 16:09` — micro-interaction refinement
+- `2026-02-26 16:09` — animation duration update
+- `2026-02-26 16:09` — heading hierarchy fix
+- `2026-02-26 16:09` — brand guideline sync
+- `2026-02-26 16:09` — checkbox style refresh
+- `2026-02-26 16:09` — secondary palette refinement
+- `2026-02-26 16:09` — layout spacing refinement
+- `2026-02-26 16:09` — margin alignment
+- `2026-02-26 16:09` — font family swap
+- `2026-02-26 16:09` — accessibility contrast fix
+- `2026-02-26 16:09` — letter spacing tweak
+- `2026-02-26 16:09` — color palette expansion
+- `2026-02-26 16:09` — hover state fix
+- `2026-02-26 16:09` — shadow refinement
+- `2026-02-26 16:09` — dark mode color tweak
+- `2026-02-26 16:09` — navigation styling fix
+- `2026-02-26 16:09` — line height refinement
+- `2026-02-26 16:09` — brand token change
+- `2026-02-26 16:09` — scroll animation fix
+- `2026-02-26 16:09` — disabled state styling
+- `2026-02-26 16:09` — surface color update
+- `2026-02-26 16:09` — aria attribute update
+- `2026-02-26 16:09` — spacing token update
+- `2026-02-26 16:09` — padding consistency fix
+- `2026-02-26 16:09` — keyboard navigation fix
+- `2026-02-26 16:09` — responsive layout tweak
+- `2026-02-26 16:09` — typography scale update
+- `2026-02-27 10:41` — modal design update
+- `2026-02-27 10:41` — z-index adjustment
+- `2026-02-27 10:41` — card component update
+- `2026-02-27 10:41` — accessibility contrast fix
+- `2026-02-27 10:41` — scroll animation fix
+- `2026-02-27 10:41` — screen reader label add
+- `2026-02-27 10:41` — brand guideline sync
+- `2026-02-27 10:41` — border radius update
+- `2026-02-27 10:41` — hover state fix
+- `2026-02-27 10:41` — transition easing change
+- `2026-02-27 10:41` — overflow fix
+- `2026-02-27 10:41` — brand spacing alignment
+- `2026-02-27 10:41` — font weight adjustment
+- `2026-02-27 10:41` — spacing token update
+- `2026-02-27 10:41` — brand token change
+- `2026-02-27 10:41` — typography scale update
+- `2026-02-27 10:41` — active state refinement
+- `2026-02-27 10:41` — navigation styling fix
+- `2026-02-27 10:41` — brand font update
+- `2026-02-27 10:41` — tooltip design tweak
+- `2026-02-27 10:41` — tab component refinement
+- `2026-02-27 10:41` — accent color adjustment
+- `2026-02-27 10:41` — padding consistency fix
+- `2026-02-27 10:41` — dark mode color tweak
+- `2026-02-27 10:41` — layout spacing refinement
+- `2026-02-27 10:41` — font family swap
+- `2026-02-27 10:41` — color palette expansion
+- `2026-02-27 10:41` — aria attribute update
+- `2026-02-27 10:41` — animation duration update
+- `2026-02-27 10:41` — margin alignment
+- `2026-02-27 10:41` — color contrast fix
+- `2026-02-27 10:41` — shadow refinement
+- `2026-02-27 10:41` — letter spacing tweak
+- `2026-02-27 10:41` — focus indicator update
+- `2026-02-27 10:41` — primary color update
+- `2026-02-27 10:41` — line height refinement
+- `2026-02-27 10:41` — section spacing update
+- `2026-02-27 10:41` — brand asset refresh
+- `2026-02-27 10:41` — dropdown menu update
+- `2026-02-27 10:41` — keyboard navigation fix
+- `2026-02-27 10:41` — button style update
+- `2026-02-27 10:41` — disabled state styling
+- `2026-02-27 10:41` — surface color update
+- `2026-02-27 10:41` — badge design update
+- `2026-02-27 10:41` — semantic color token fix
+- `2026-02-27 10:42` — keyboard navigation fix
+- `2026-02-27 10:42` — tab component refinement
+- `2026-02-27 10:42` — checkbox style refresh
+- `2026-02-27 10:42` — micro-interaction refinement
+- `2026-02-27 10:42` — z-index adjustment
+- `2026-02-27 10:42` — accent color adjustment
+- `2026-02-27 10:42` — secondary palette refinement
+- `2026-02-27 10:42` — section spacing update
+- `2026-02-27 10:42` — card component update
+- `2026-02-27 10:42` — brand token change
+- `2026-02-27 10:42` — grid gap adjustment
+- `2026-02-27 10:42` — screen reader label add
+- `2026-02-27 10:42` — shadow refinement
+- `2026-02-27 10:42` — semantic color token fix
+- `2026-02-27 10:42` — badge design update
+- `2026-02-27 10:42` — scroll animation fix
+- `2026-02-27 10:42` — heading hierarchy fix
+- `2026-02-27 10:42` — focus indicator update
+- `2026-02-27 10:42` — font family swap
+- `2026-02-27 10:42` — color palette expansion
+- `2026-02-27 10:42` — focus ring update
+- `2026-02-27 10:42` — input field refinement
+- `2026-02-27 10:42` — hover state fix
+- `2026-02-27 10:42` — line height refinement
+- `2026-02-27 10:42` — brand font update
+- `2026-02-27 10:42` — color contrast fix
+- `2026-02-27 10:42` — spacing token update
+- `2026-02-27 10:42` — primary color update
+- `2026-02-27 10:42` — accent color adjustment
+- `2026-02-27 10:42` — loading animation tweak
+- `2026-02-27 10:42` — brand font update
+- `2026-02-27 10:42` — aria attribute update
+- `2026-02-27 10:42` — alignment correction
+- `2026-02-27 10:42` — typography scale update
+- `2026-02-27 10:42` — accessibility contrast fix
+- `2026-02-27 10:42` — animation duration update
+- `2026-02-27 10:42` — font family swap
+- `2026-02-27 10:42` — grid gap adjustment
+- `2026-02-27 10:42` — focus indicator update
+- `2026-02-27 10:42` — section spacing update
+- `2026-02-27 10:42` — brand token change
+- `2026-02-27 10:42` — visual regression fix
+- `2026-02-27 10:42` — modal design update
+- `2026-02-27 10:42` — card component update
+- `2026-02-27 10:42` — screen reader label add
+- `2026-02-27 10:42` — brand spacing alignment
+- `2026-02-27 10:42` — color change
+- `2026-02-27 10:42` — heading hierarchy fix
+- `2026-02-27 10:42` — micro-interaction refinement
+- `2026-02-27 10:42` — brand color alignment
+- `2026-02-27 10:42` — navigation styling fix
+- `2026-02-27 10:42` — transition easing change
+- `2026-02-27 10:42` — font weight adjustment
+- `2026-02-27 10:42` — hover state fix
+- `2026-02-27 10:42` — brand asset refresh
+- `2026-02-27 10:42` — disabled state styling
+- `2026-02-27 10:42` — input field refinement
+- `2026-02-27 10:42` — padding consistency fix
+- `2026-02-27 10:42` — body text improvement
+- `2026-02-27 10:42` — focus ring update
+- `2026-02-27 10:42` — keyboard navigation fix
+- `2026-02-27 10:42` — overflow fix
+- `2026-02-27 10:42` — layout spacing refinement
+- `2026-02-27 10:42` — responsive layout tweak
+- `2026-02-27 10:42` — dropdown menu update
+- `2026-02-27 10:42` — active state refinement
+- `2026-02-27 10:42` — z-index adjustment
+- `2026-02-27 10:42` — dark mode color tweak
+- `2026-02-27 10:42` — color palette expansion
+- `2026-02-27 10:42` — margin alignment
+- `2026-03-01 03:00` — section spacing update
+- `2026-03-01 03:01` — padding consistency fix
+- `2026-03-01 03:01` — line height refinement
+- `2026-03-01 03:01` — body text improvement
+- `2026-03-01 03:01` — alignment correction
+- `2026-03-01 03:01` — accessibility contrast fix
+- `2026-03-01 03:01` — spacing token update
+- `2026-03-01 03:01` — semantic color token fix
+- `2026-03-01 03:01` — layout spacing refinement
+- `2026-03-01 03:01` — grid gap adjustment
+- `2026-03-01 03:01` — brand spacing alignment
+- `2026-03-01 03:01` — scroll animation fix
+- `2026-03-01 03:01` — color change
+- `2026-03-01 03:01` — loading animation tweak
+- `2026-03-01 03:01` — overflow fix
+- `2026-03-01 03:01` — font family swap
+- `2026-03-01 03:01` — animation duration update
+- `2026-03-01 03:01` — brand asset refresh
+- `2026-03-01 03:01` — dropdown menu update
+- `2026-03-01 03:01` — modal design update
+- `2026-03-01 03:01` — active state refinement
+- `2026-03-01 03:01` — color palette expansion
+- `2026-03-01 03:01` — transition easing change
+- `2026-03-01 03:01` — surface color update
+- `2026-03-01 03:01` — input field refinement
+- `2026-03-01 03:01` — letter spacing tweak
+- `2026-03-01 03:01` — button style update
+- `2026-03-01 03:01` — margin alignment
+- `2026-03-01 03:01` — screen reader label add
+- `2026-03-01 03:01` — tab component refinement
+- `2026-03-01 03:01` — keyboard navigation fix
+- `2026-03-01 03:01` — brand token change
+- `2026-03-01 03:01` — UI fixes
+- `2026-03-01 03:01` — navigation styling fix
+- `2026-03-01 03:01` — heading hierarchy fix
+- `2026-03-01 03:01` — hover state fix
+- `2026-03-02 14:41` — screen reader label add
+- `2026-03-02 14:41` — brand asset refresh
+- `2026-03-02 14:41` — tooltip design tweak
+- `2026-03-02 14:41` — section spacing update
+- `2026-03-02 14:41` — grid gap adjustment
+- `2026-03-02 14:41` — primary color update
+- `2026-03-02 14:41` — body text improvement
+- `2026-03-02 14:41` — font weight adjustment
+- `2026-03-02 14:41` — brand font update
+- `2026-03-02 14:41` — spacing token update
+- `2026-03-02 14:41` — navigation styling fix
+- `2026-03-02 14:41` — color contrast fix
+- `2026-03-03 09:11` — scroll animation fix
+- `2026-03-03 09:11` — micro-interaction refinement
+- `2026-03-03 09:11` — input field refinement
+- `2026-03-03 09:11` — brand spacing alignment
+- `2026-03-03 09:11` — tab component refinement
+- `2026-03-03 09:11` — color palette expansion
+- `2026-03-03 09:11` — transition easing change
+- `2026-03-03 09:11` — brand asset refresh
+- `2026-03-03 09:11` — border radius update
+- `2026-03-03 09:11` — accent color adjustment
+- `2026-03-03 09:11` — layout spacing refinement
+- `2026-03-03 09:11` — brand font update
+- `2026-03-03 09:11` — line height refinement
+- `2026-03-03 09:11` — UI fixes
+- `2026-03-03 09:11` — brand color alignment
+- `2026-03-03 09:11` — alignment correction
+- `2026-03-03 09:11` — grid gap adjustment
+- `2026-03-03 09:11` — overflow fix
+- `2026-03-03 09:11` — animation duration update
+- `2026-03-03 09:11` — letter spacing tweak
+- `2026-03-03 09:11` — body text improvement
+- `2026-03-03 09:11` — semantic color token fix
+- `2026-03-03 09:11` — modal design update
+- `2026-03-03 09:11` — font weight adjustment
+- `2026-03-03 09:11` — visual regression fix
+- `2026-03-03 09:11` — aria attribute update
+- `2026-03-03 09:11` — heading hierarchy fix
+- `2026-03-03 09:11` — hover state fix
+- `2026-03-03 09:11` — brand guideline sync
+- `2026-03-03 09:11` — z-index adjustment
+- `2026-03-03 09:11` — font family swap
+- `2026-03-03 09:11` — padding consistency fix
+- `2026-03-03 09:11` — secondary palette refinement
+- `2026-03-03 09:11` — margin alignment
+- `2026-03-03 09:11` — checkbox style refresh
+- `2026-03-03 09:11` — accessibility contrast fix
+- `2026-03-03 09:11` — dropdown menu update
+- `2026-03-03 09:11` — brand token change
+- `2026-03-03 09:11` — typography scale update
+- `2026-03-03 09:11` — shadow refinement
+- `2026-03-03 09:11` — keyboard navigation fix
+- `2026-03-03 09:11` — dark mode color tweak
+- `2026-03-03 09:11` — spacing token update
+- `2026-03-04 08:04` — scroll animation fix
+- `2026-03-04 08:04` — brand token change
+- `2026-03-04 08:04` — input field refinement
+- `2026-03-04 08:04` — border radius update
+- `2026-03-04 08:04` — surface color update
+- `2026-03-04 08:04` — brand color alignment
+- `2026-03-04 08:04` — transition easing change
+- `2026-03-04 08:04` — line height refinement
+- `2026-03-04 08:04` — margin alignment
+- `2026-03-04 08:04` — font family swap
+- `2026-03-04 08:04` — responsive layout tweak
+- `2026-03-04 08:04` — layout spacing refinement
+- `2026-03-04 08:04` — spacing token update
+- `2026-03-04 08:04` — tab component refinement
+- `2026-03-04 08:04` — brand guideline sync
+- `2026-03-04 08:04` — section spacing update
+- `2026-03-04 08:04` — letter spacing tweak
+- `2026-03-04 08:04` — brand font update
+- `2026-03-04 08:04` — shadow refinement
+- `2026-03-04 08:04` — color palette expansion
+- `2026-03-04 08:04` — animation duration update
+- `2026-03-04 08:04` — modal design update
+- `2026-03-04 08:04` — font weight adjustment
+- `2026-03-04 08:04` — heading hierarchy fix
+- `2026-03-04 08:04` — micro-interaction refinement
+- `2026-03-04 08:04` — dark mode color tweak
+- `2026-03-04 08:04` — active state refinement
+- `2026-03-04 08:04` — checkbox style refresh
+- `2026-03-04 08:05` — navigation styling fix
+- `2026-03-04 08:05` — color change
+- `2026-03-04 08:05` — section spacing update
+- `2026-03-04 08:05` — focus ring update
+- `2026-03-04 08:05` — checkbox style refresh
+- `2026-03-04 08:05` — padding consistency fix
+- `2026-03-04 08:05` — focus indicator update
+- `2026-03-04 08:05` — brand spacing alignment
+- `2026-03-04 08:05` — color palette expansion
+- `2026-03-04 08:05` — accessibility contrast fix
+- `2026-03-04 08:05` — modal design update
+- `2026-03-04 08:05` — transition easing change
+- `2026-03-04 08:05` — tab component refinement
+- `2026-03-04 08:05` — loading animation tweak
+- `2026-03-04 08:05` — scroll animation fix
+- `2026-03-04 08:05` — font family swap
+- `2026-03-04 08:05` — body text improvement
+- `2026-03-04 08:05` — responsive layout tweak
+- `2026-03-04 08:05` — input field refinement
+- `2026-03-04 08:05` — line height refinement
+- `2026-03-04 08:05` — disabled state styling
+- `2026-03-04 08:05` — animation duration update
+- `2026-03-04 08:05` — screen reader label add
+- `2026-03-04 08:05` — surface color update
+- `2026-03-06 08:11` — aria attribute update
+- `2026-03-06 08:11` — shadow refinement
+- `2026-03-06 08:11` — body text improvement
+- `2026-03-06 08:11` — primary color update
+- `2026-03-06 08:11` — spacing token update
+- `2026-03-06 08:11` — brand font update
+- `2026-03-06 08:11` — overflow fix
+- `2026-03-06 08:11` — brand asset refresh
+- `2026-03-06 08:11` — card component update
+- `2026-03-06 08:11` — brand guideline sync
+- `2026-03-06 08:11` — micro-interaction refinement
+- `2026-03-06 08:11` — transition easing change
+- `2026-03-06 08:11` — z-index adjustment
+- `2026-03-06 08:11` — keyboard navigation fix
+- `2026-03-06 08:11` — brand color alignment
+- `2026-03-06 08:11` — scroll animation fix
+- `2026-03-06 08:11` — brand spacing alignment
+- `2026-03-06 08:11` — font family swap
+- `2026-03-06 08:11` — brand token change
+- `2026-03-06 08:11` — badge design update
+- `2026-03-06 08:11` — button style update
+- `2026-03-06 08:11` — border radius update
+- `2026-03-06 08:11` — input field refinement
+- `2026-03-06 08:11` — layout spacing refinement
+- `2026-03-07 12:49` — transition easing change
+- `2026-03-07 12:49` — grid gap adjustment
+- `2026-03-07 12:49` — accessibility contrast fix
+- `2026-03-07 12:49` — checkbox style refresh
+- `2026-03-07 12:49` — shadow refinement
+- `2026-03-07 12:49` — body text improvement
+- `2026-03-07 12:49` — spacing token update
+- `2026-03-07 12:49` — overflow fix
+- `2026-03-07 12:49` — navigation styling fix
+- `2026-03-07 12:49` — loading animation tweak
+- `2026-03-07 12:49` — semantic color token fix
+- `2026-03-07 12:49` — dark mode color tweak
+- `2026-03-07 12:49` — color change
+- `2026-03-07 12:49` — focus ring update
+- `2026-03-07 12:49` — typography scale update
+- `2026-03-07 12:49` — layout spacing refinement
+- `2026-03-07 12:49` — modal design update
+- `2026-03-07 12:49` — brand font update
+- `2026-03-07 12:49` — font weight adjustment
+- `2026-03-07 12:49` — UI fixes
+- `2026-03-07 12:49` — animation duration update
+- `2026-03-07 12:49` — screen reader label add
+- `2026-03-07 12:49` — input field refinement
+- `2026-03-07 12:49` — button style update
+- `2026-03-07 12:49` — card component update
+- `2026-03-07 12:49` — responsive layout tweak
+- `2026-03-07 12:49` — secondary palette refinement
+- `2026-03-07 12:49` — dropdown menu update
+- `2026-03-07 12:49` — surface color update
+- `2026-03-07 12:49` — heading hierarchy fix
+- `2026-03-07 12:49` — scroll animation fix
+- `2026-03-07 12:49` — margin alignment
+- `2026-03-07 12:49` — tab component refinement
+- `2026-03-07 12:49` — badge design update
+- `2026-03-07 12:49` — brand guideline sync
+- `2026-03-07 12:49` — letter spacing tweak
+- `2026-03-07 12:49` — color palette expansion
+- `2026-03-07 12:49` — aria attribute update
+- `2026-03-07 12:49` — keyboard navigation fix
+- `2026-03-07 12:49` — micro-interaction refinement
+- `2026-03-07 12:49` — visual regression fix
+- `2026-03-07 12:49` — disabled state styling
+- `2026-03-07 12:49` — section spacing update
+- `2026-03-07 12:49` — brand token change
+- `2026-03-07 12:49` — brand asset refresh
+- `2026-03-07 12:49` — alignment correction
+- `2026-03-07 12:49` — brand spacing alignment
+- `2026-03-07 12:49` — focus indicator update
+- `2026-03-07 12:49` — font family swap
+- `2026-03-08 00:18` — layout spacing refinement
+- `2026-03-08 00:18` — accessibility contrast fix
+- `2026-03-08 00:18` — loading animation tweak
+- `2026-03-08 00:18` — section spacing update
+- `2026-03-08 00:18` — margin alignment
+- `2026-03-08 00:18` — primary color update
+- `2026-03-08 00:18` — screen reader label add
+- `2026-03-08 00:18` — brand color alignment
+- `2026-03-08 00:18` — tooltip design tweak
+- `2026-03-08 00:18` — transition easing change
+- `2026-03-08 00:18` — keyboard navigation fix
+- `2026-03-08 00:18` — brand asset refresh
+- `2026-03-08 00:18` — brand token change
+- `2026-03-08 00:18` — micro-interaction refinement
+- `2026-03-08 00:18` — visual regression fix
+- `2026-03-08 00:18` — button style update
+- `2026-03-08 00:18` — font weight adjustment
+- `2026-03-08 00:18` — grid gap adjustment
+- `2026-03-08 00:18` — typography scale update
+- `2026-03-09 08:02` — transition easing change
+- `2026-03-09 08:02` — margin alignment
+- `2026-03-09 08:02` — micro-interaction refinement
+- `2026-03-09 08:02` — focus indicator update
+- `2026-03-09 08:02` — disabled state styling
+- `2026-03-09 08:02` — loading animation tweak
+- `2026-03-09 08:02` — color change
+- `2026-03-09 08:02` — brand guideline sync
+- `2026-03-09 08:02` — scroll animation fix
+- `2026-03-09 08:02` — grid gap adjustment
+- `2026-03-09 08:02` — typography scale update
+- `2026-03-09 08:02` — accessibility contrast fix
+- `2026-03-09 08:02` — hover state fix
+- `2026-03-09 08:02` — brand font update
+- `2026-03-09 08:02` — brand color alignment
+- `2026-03-09 08:02` — surface color update
+- `2026-03-09 08:02` — focus ring update
+- `2026-03-09 08:02` — shadow refinement
+- `2026-03-09 08:02` — font weight adjustment
+- `2026-03-09 08:02` — heading hierarchy fix
+- `2026-03-09 08:02` — aria attribute update
+- `2026-03-09 08:02` — line height refinement
+- `2026-03-09 08:02` — screen reader label add
+- `2026-03-09 08:02` — padding consistency fix
+- `2026-03-09 08:02` — brand spacing alignment
+- `2026-03-09 08:02` — responsive layout tweak
+- `2026-03-09 08:02` — semantic color token fix
+- `2026-03-09 08:02` — keyboard navigation fix
+- `2026-03-09 08:02` — accent color adjustment
+- `2026-03-09 08:02` — layout spacing refinement
+- `2026-03-09 08:02` — color contrast fix
+- `2026-03-10 08:12` — micro-interaction refinement
+- `2026-03-10 08:12` — margin alignment
+- `2026-03-10 08:12` — focus indicator update
+- `2026-03-10 08:12` — section spacing update
+- `2026-03-10 08:12` — brand guideline sync
+- `2026-03-10 08:12` — screen reader label add
+- `2026-03-10 08:12` — brand token change
+- `2026-03-10 08:12` — overflow fix
+- `2026-03-10 08:12` — visual regression fix
+- `2026-03-10 08:12` — scroll animation fix
+- `2026-03-10 08:12` — dark mode color tweak
+- `2026-03-10 08:12` — letter spacing tweak
+- `2026-03-10 08:12` — keyboard navigation fix
+- `2026-03-10 08:12` — spacing token update
+- `2026-03-10 08:12` — line height refinement
+- `2026-03-10 08:12` — brand font update
+- `2026-03-10 08:12` — input field refinement
+- `2026-03-10 08:12` — font weight adjustment
+- `2026-03-10 08:12` — button style update
+- `2026-03-10 08:12` — accessibility contrast fix
+- `2026-03-10 08:12` — brand asset refresh
+- `2026-03-10 08:12` — surface color update
+- `2026-03-10 08:12` — brand color alignment
+- `2026-03-10 08:12` — body text improvement
+- `2026-03-10 08:12` — navigation styling fix
+- `2026-03-10 08:12` — transition easing change
+- `2026-03-10 08:12` — active state refinement
+- `2026-03-10 08:12` — dropdown menu update
+- `2026-03-11 14:35` — line height refinement
+- `2026-03-11 14:35` — dropdown menu update
+- `2026-03-11 14:35` — screen reader label add
+- `2026-03-11 14:35` — body text improvement
+- `2026-03-11 14:35` — brand spacing alignment
+- `2026-03-11 14:35` — transition easing change
+- `2026-03-11 14:35` — hover state fix
+- `2026-03-11 14:35` — accent color adjustment
+- `2026-03-11 14:35` — card component update
+- `2026-03-11 14:35` — overflow fix
+- `2026-03-11 14:35` — secondary palette refinement
+- `2026-03-11 14:35` — button style update
+- `2026-03-11 14:35` — primary color update
+- `2026-03-11 14:35` — heading hierarchy fix
+- `2026-03-11 14:35` — letter spacing tweak
+- `2026-03-11 14:35` — border radius update
+- `2026-03-11 14:35` — focus indicator update
+- `2026-03-11 14:35` — micro-interaction refinement
+- `2026-03-11 14:35` — margin alignment
+- `2026-03-11 14:35` — UI fixes
+- `2026-03-11 14:35` — accessibility contrast fix
+- `2026-03-12 08:15` — loading animation tweak
+- `2026-03-12 08:15` — animation duration update
+- `2026-03-12 08:15` — active state refinement
+- `2026-03-12 08:15` — micro-interaction refinement
+- `2026-03-12 08:15` — brand font update
+- `2026-03-12 08:15` — letter spacing tweak
+- `2026-03-12 08:15` — border radius update
+- `2026-03-12 08:15` — line height refinement
+- `2026-03-12 08:15` — grid gap adjustment
+- `2026-03-12 08:15` — transition easing change
+- `2026-03-12 08:15` — aria attribute update
+- `2026-03-12 08:15` — button style update
+- `2026-03-12 08:15` — modal design update
+- `2026-03-12 08:15` — brand token change
+- `2026-03-12 08:15` — tooltip design tweak
+- `2026-03-12 08:15` — spacing token update
+- `2026-03-12 08:15` — hover state fix
+- `2026-03-12 08:15` — layout spacing refinement
+- `2026-03-12 08:15` — brand color alignment
+- `2026-03-12 08:15` — visual regression fix
+- `2026-03-12 08:15` — focus ring update
+- `2026-03-12 08:15` — z-index adjustment
+- `2026-03-12 08:15` — font family swap
+- `2026-03-12 08:15` — scroll animation fix
+- `2026-03-13 10:40` — aria attribute update
+- `2026-03-13 10:40` — screen reader label add
+- `2026-03-13 10:40` — brand spacing alignment
+- `2026-03-13 10:40` — brand font update
+- `2026-03-13 10:40` — grid gap adjustment
+- `2026-03-13 10:40` — checkbox style refresh
+- `2026-03-13 10:40` — brand token change
+- `2026-03-13 10:40` — responsive layout tweak
+- `2026-03-13 10:40` — micro-interaction refinement
+- `2026-03-13 10:40` — button style update
+- `2026-03-13 10:40` — card component update
+- `2026-03-13 10:40` — surface color update
+- `2026-03-13 10:40` — primary color update
+- `2026-03-13 10:40` — focus ring update
+- `2026-03-13 10:40` — hover state fix
+- `2026-03-13 10:40` — body text improvement
+- `2026-03-13 10:40` — tab component refinement
+- `2026-03-13 10:40` — badge design update
+- `2026-03-13 10:40` — transition easing change
+- `2026-03-13 10:40` — modal design update
+- `2026-03-13 10:40` — secondary palette refinement
+- `2026-03-13 10:40` — margin alignment
+- `2026-03-13 10:40` — color change
+- `2026-03-13 10:40` — navigation styling fix
+- `2026-03-13 10:40` — layout spacing refinement
+- `2026-03-13 10:40` — keyboard navigation fix
+- `2026-03-13 10:40` — typography scale update
+- `2026-03-13 10:40` — visual regression fix
+- `2026-03-13 10:40` — focus indicator update
+- `2026-03-13 10:40` — brand asset refresh
+- `2026-03-13 10:40` — animation duration update
+- `2026-03-13 10:40` — heading hierarchy fix
+- `2026-03-13 10:40` — loading animation tweak
+- `2026-03-13 10:40` — tooltip design tweak
+- `2026-03-13 10:40` — alignment correction
+- `2026-03-13 10:40` — shadow refinement
+- `2026-03-13 10:40` — font family swap
+- `2026-03-13 10:40` — scroll animation fix
+- `2026-03-13 10:40` — section spacing update
+- `2026-03-13 10:40` — semantic color token fix
+- `2026-03-13 10:40` — brand guideline sync
+- `2026-03-13 10:40` — color contrast fix
+- `2026-03-13 10:40` — padding consistency fix
+- `2026-03-13 10:40` — disabled state styling
+- `2026-03-13 10:40` — z-index adjustment
+- `2026-03-13 10:40` — letter spacing tweak
+- `2026-03-13 10:40` — accessibility contrast fix
+- `2026-03-13 10:40` — brand color alignment
+- `2026-03-13 10:40` — color palette expansion
+- `2026-03-13 10:40` — font weight adjustment
+- `2026-03-13 10:40` — line height refinement
+- `2026-03-14 21:21` — aria attribute update
+- `2026-03-14 21:21` — focus indicator update
+- `2026-03-14 21:21` — section spacing update
+- `2026-03-14 21:21` — modal design update
+- `2026-03-14 21:21` — semantic color token fix
+- `2026-03-14 21:21` — padding consistency fix
+- `2026-03-14 21:21` — margin alignment
+- `2026-03-14 21:21` — transition easing change
+- `2026-03-14 21:21` — shadow refinement
+- `2026-03-14 21:21` — spacing token update
+- `2026-03-14 21:21` — layout spacing refinement
+- `2026-03-14 21:21` — dark mode color tweak
+- `2026-03-14 21:21` — button style update
+- `2026-03-14 21:21` — micro-interaction refinement
+- `2026-03-14 21:21` — scroll animation fix
+- `2026-03-14 21:21` — color palette expansion
+- `2026-03-14 21:21` — screen reader label add
+- `2026-03-14 21:21` — border radius update
+- `2026-03-14 21:21` — secondary palette refinement
+- `2026-03-14 21:21` — navigation styling fix
+- `2026-03-14 21:21` — brand asset refresh
+- `2026-03-14 21:21` — badge design update
+- `2026-03-14 21:21` — dropdown menu update
+- `2026-03-14 21:21` — tooltip design tweak
+- `2026-03-14 21:21` — visual regression fix
+- `2026-03-14 21:21` — color contrast fix
+- `2026-03-15 20:57` — micro-interaction refinement
+- `2026-03-15 20:57` — accent color adjustment
+- `2026-03-15 20:57` — brand asset refresh
+- `2026-03-15 20:57` — screen reader label add
+- `2026-03-15 20:57` — line height refinement
+- `2026-03-15 20:57` — body text improvement
+- `2026-03-15 20:57` — font family swap
+- `2026-03-15 20:57` — focus ring update
+- `2026-03-15 20:57` — transition easing change
+- `2026-03-15 20:57` — focus indicator update
+- `2026-03-15 20:57` — dark mode color tweak
+- `2026-03-15 20:57` — spacing token update
+- `2026-03-15 20:57` — animation duration update
+- `2026-03-15 20:57` — brand font update
+- `2026-03-15 20:57` — loading animation tweak
+- `2026-03-15 20:57` — brand spacing alignment
+- `2026-03-15 20:57` — section spacing update
+- `2026-03-15 20:57` — checkbox style refresh
+- `2026-03-15 20:57` — active state refinement
+- `2026-03-15 20:57` — layout spacing refinement
+- `2026-03-15 20:57` — border radius update
+- `2026-03-15 20:57` — dropdown menu update
+- `2026-03-15 20:57` — surface color update
+- `2026-03-16 07:17` — loading animation tweak
+- `2026-03-16 07:17` — scroll animation fix
+- `2026-03-16 07:17` — padding consistency fix
+- `2026-03-16 07:17` — card component update
+- `2026-03-16 07:17` — focus indicator update
+- `2026-03-16 07:17` — section spacing update
+- `2026-03-16 07:17` — screen reader label add
+- `2026-03-16 07:17` — micro-interaction refinement
+- `2026-03-16 07:17` — margin alignment
+- `2026-03-16 07:17` — brand asset refresh
+- `2026-03-16 07:17` — alignment correction
+- `2026-03-16 07:17` — color palette expansion
+- `2026-03-16 07:17` — color change
+- `2026-03-16 07:17` — brand font update
+- `2026-03-16 07:17` — brand guideline sync
+- `2026-03-16 07:17` — visual regression fix
+- `2026-03-16 07:17` — heading hierarchy fix
+- `2026-03-16 07:17` — line height refinement
+- `2026-03-16 07:17` — accessibility contrast fix
+- `2026-03-16 07:17` — checkbox style refresh
+- `2026-03-16 07:17` — keyboard navigation fix
+- `2026-03-16 07:17` — overflow fix
+- `2026-03-16 07:17` — navigation styling fix
+- `2026-03-16 07:17` — aria attribute update
+- `2026-03-16 07:17` — active state refinement
+- `2026-03-16 07:17` — transition easing change
+- `2026-03-16 07:17` — color contrast fix
+- `2026-03-16 07:17` — animation duration update
+- `2026-03-16 07:17` — semantic color token fix
+- `2026-03-16 07:17` — letter spacing tweak
+- `2026-03-16 07:17` — tab component refinement
+- `2026-03-16 07:17` — grid gap adjustment
+- `2026-03-16 07:17` — dark mode color tweak
+- `2026-03-16 07:17` — shadow refinement
+- `2026-03-16 07:17` — spacing token update
+- `2026-03-16 07:17` — brand token change
+- `2026-03-16 07:17` — accent color adjustment
+- `2026-03-16 07:17` — responsive layout tweak
+- `2026-03-16 07:17` — focus ring update
+- `2026-03-16 07:17` — dropdown menu update
+- `2026-03-16 07:17` — font weight adjustment
+- `2026-03-16 07:17` — badge design update
+- `2026-03-16 07:17` — button style update
+- `2026-03-16 07:17` — layout spacing refinement
+- `2026-03-16 07:17` — brand color alignment
+- `2026-03-17 23:21` — font family swap
+- `2026-03-17 23:21` — screen reader label add
+- `2026-03-17 23:21` — focus indicator update
+- `2026-03-17 23:21` — transition easing change
+- `2026-03-17 23:21` — heading hierarchy fix
+- `2026-03-17 23:21` — brand color alignment
+- `2026-03-17 23:21` — margin alignment
+- `2026-03-17 23:21` — brand asset refresh
+- `2026-03-17 23:21` — overflow fix
+- `2026-03-17 23:21` — layout spacing refinement
+- `2026-03-17 23:21` — body text improvement
+- `2026-03-17 23:21` — dropdown menu update
+- `2026-03-17 23:21` — border radius update
+- `2026-03-17 23:21` — loading animation tweak
+- `2026-03-17 23:21` — button style update
+- `2026-03-17 23:21` — brand guideline sync
+- `2026-03-17 23:21` — typography scale update
+- `2026-03-17 23:21` — tooltip design tweak
+- `2026-03-17 23:21` — line height refinement
+- `2026-03-17 23:21` — card component update
+- `2026-03-17 23:21` — color change
+- `2026-03-17 23:21` — brand spacing alignment
+- `2026-03-17 23:21` — brand token change
+- `2026-03-17 23:21` — scroll animation fix
+- `2026-03-17 23:21` — secondary palette refinement
+- `2026-03-17 23:21` — active state refinement
+- `2026-03-17 23:21` — primary color update
+- `2026-03-17 23:21` — color palette expansion
+- `2026-03-18 23:11` — alignment correction
+- `2026-03-18 23:11` — layout spacing refinement
+- `2026-03-18 23:11` — brand font update
+- `2026-03-18 23:11` — tab component refinement
+- `2026-03-18 23:11` — scroll animation fix
+- `2026-03-18 23:11` — brand spacing alignment
+- `2026-03-18 23:11` — keyboard navigation fix
+- `2026-03-18 23:11` — animation duration update
+- `2026-03-18 23:11` — grid gap adjustment
+- `2026-03-18 23:11` — screen reader label add
+- `2026-03-18 23:11` — accent color adjustment
+- `2026-03-18 23:11` — transition easing change
+- `2026-03-18 23:11` — semantic color token fix
+- `2026-03-18 23:11` — typography scale update
+- `2026-03-18 23:11` — secondary palette refinement
+- `2026-03-18 23:11` — margin alignment
+- `2026-03-21 00:56` — spacing token update
+- `2026-03-21 00:56` — screen reader label add
+- `2026-03-21 00:56` — section spacing update
+- `2026-03-21 00:56` — responsive layout tweak
+- `2026-03-21 00:56` — font family swap
+- `2026-03-21 00:56` — heading hierarchy fix
+- `2026-03-21 00:56` — primary color update
+- `2026-03-21 00:56` — accessibility contrast fix
+- `2026-03-21 00:56` — margin alignment
+- `2026-03-21 00:56` — typography scale update
+- `2026-03-21 00:56` — dark mode color tweak
+- `2026-03-21 00:56` — font weight adjustment
+- `2026-03-21 00:56` — brand font update
+- `2026-03-21 00:56` — navigation styling fix
+- `2026-03-21 00:56` — scroll animation fix
+- `2026-03-21 00:56` — focus ring update
+- `2026-03-21 00:56` — active state refinement
+- `2026-03-21 00:56` — keyboard navigation fix
+- `2026-03-21 00:56` — brand guideline sync
+- `2026-03-21 00:56` — surface color update
+- `2026-03-21 00:56` — letter spacing tweak
+- `2026-03-21 00:56` — layout spacing refinement
+- `2026-03-21 00:56` — accent color adjustment
+- `2026-03-21 00:56` — brand spacing alignment
+- `2026-03-21 00:56` — loading animation tweak
+- `2026-03-21 00:56` — semantic color token fix
+- `2026-03-21 00:56` — color contrast fix
+- `2026-03-21 00:56` — hover state fix
+- `2026-03-22 21:09` — brand token change
+- `2026-03-22 21:09` — secondary palette refinement
+- `2026-03-22 21:09` — grid gap adjustment
+- `2026-03-22 21:09` — spacing token update
+- `2026-03-22 21:09` — screen reader label add
+- `2026-03-22 21:09` — loading animation tweak
+- `2026-03-22 21:09` — accent color adjustment
+- `2026-03-22 21:09` — keyboard navigation fix
+- `2026-03-22 21:09` — scroll animation fix
+- `2026-03-22 21:09` — border radius update
+- `2026-03-22 21:09` — z-index adjustment
+- `2026-03-22 21:09` — disabled state styling
+- `2026-03-22 21:09` — margin alignment
+- `2026-03-22 21:09` — responsive layout tweak
+- `2026-03-22 21:09` — font family swap
+- `2026-03-22 21:09` — input field refinement
+- `2026-03-22 21:09` — animation duration update
+- `2026-03-22 21:09` — micro-interaction refinement
+- `2026-03-22 21:09` — brand guideline sync
+- `2026-03-22 21:09` — line height refinement
+- `2026-03-22 21:09` — focus indicator update
+- `2026-03-22 21:09` — dark mode color tweak
+- `2026-03-22 21:09` — font weight adjustment
+- `2026-03-22 21:09` — UI fixes
+- `2026-03-22 21:09` — heading hierarchy fix
+- `2026-03-22 21:09` — button style update
+- `2026-03-22 21:09` — tooltip design tweak
+- `2026-03-22 21:09` — padding consistency fix
+- `2026-03-22 21:09` — card component update
+- `2026-03-22 21:09` — semantic color token fix
+- `2026-03-22 21:09` — primary color update
+- `2026-03-22 21:09` — layout spacing refinement
+- `2026-03-22 21:09` — body text improvement
+- `2026-03-22 21:09` — brand color alignment
+- `2026-03-22 21:09` — typography scale update
+- `2026-03-22 21:09` — modal design update
+- `2026-03-22 21:09` — brand asset refresh
+- `2026-03-22 21:09` — aria attribute update
+- `2026-03-22 21:09` — color palette expansion
+- `2026-03-22 21:09` — brand spacing alignment
+- `2026-03-22 21:09` — letter spacing tweak
+- `2026-03-22 21:09` — accessibility contrast fix
+- `2026-03-22 21:09` — brand font update
+- `2026-03-22 21:09` — shadow refinement
+- `2026-03-22 21:09` — section spacing update
+- `2026-03-22 21:09` — checkbox style refresh
+- `2026-03-22 21:09` — transition easing change
+- `2026-03-22 21:09` — active state refinement
+- `2026-03-22 21:09` — tab component refinement
+- `2026-03-23 22:43` — focus ring update
+- `2026-03-23 22:43` — focus indicator update
+- `2026-03-23 22:43` — navigation styling fix
+- `2026-03-23 22:43` — button style update
+- `2026-03-23 22:43` — primary color update
+- `2026-03-23 22:43` — shadow refinement
+- `2026-03-23 22:43` — aria attribute update
+- `2026-03-23 22:43` — heading hierarchy fix
+- `2026-03-23 22:43` — accent color adjustment
+- `2026-03-23 22:43` — brand asset refresh
+- `2026-03-23 22:43` — active state refinement
+- `2026-03-23 22:43` — brand guideline sync
+- `2026-03-23 22:43` — keyboard navigation fix
+- `2026-03-23 22:43` — brand font update
+- `2026-03-23 22:43` — section spacing update
+- `2026-03-23 22:43` — responsive layout tweak
+- `2026-03-23 22:43` — alignment correction
+- `2026-03-23 22:43` — visual regression fix
+- `2026-03-23 22:43` — UI fixes
+- `2026-03-24 14:43` — screen reader label add
+- `2026-03-24 14:43` — primary color update
+- `2026-03-24 14:43` — navigation styling fix
+- `2026-03-24 14:43` — focus ring update
+- `2026-03-24 14:43` — aria attribute update
+- `2026-03-24 14:43` — micro-interaction refinement
+- `2026-03-24 14:43` — dropdown menu update
+- `2026-03-24 14:43` — heading hierarchy fix
+- `2026-03-24 14:43` — letter spacing tweak
+- `2026-03-24 14:43` — checkbox style refresh
+- `2026-03-24 14:43` — badge design update
+- `2026-03-24 14:43` — card component update
+- `2026-03-24 14:43` — body text improvement
+- `2026-03-24 14:43` — overflow fix
+- `2026-03-24 14:43` — brand font update
+- `2026-03-24 14:43` — semantic color token fix
+- `2026-03-24 14:43` — disabled state styling
+- `2026-03-24 14:43` — accent color adjustment
+- `2026-03-24 14:43` — surface color update
+- `2026-03-24 14:43` — margin alignment
+- `2026-03-24 14:43` — hover state fix
+- `2026-03-24 14:43` — brand asset refresh
+- `2026-03-24 14:43` — active state refinement
+- `2026-03-24 14:43` — color contrast fix
+- `2026-03-24 14:43` — padding consistency fix
+- `2026-03-24 14:43` — spacing token update
+- `2026-03-24 14:43` — scroll animation fix
+- `2026-03-24 14:43` — focus indicator update
+- `2026-03-24 14:43` — animation duration update
+- `2026-03-24 14:43` — line height refinement
+- `2026-03-24 14:43` — loading animation tweak
+- `2026-03-24 14:43` — section spacing update
+- `2026-03-24 14:43` — input field refinement
+- `2026-03-24 14:43` — font family swap
+- `2026-03-24 14:43` — grid gap adjustment
+- `2026-03-24 14:43` — z-index adjustment
+- `2026-03-25 08:16` — heading hierarchy fix
+- `2026-03-25 08:16` — loading animation tweak
+- `2026-03-25 08:16` — card component update
+- `2026-03-25 08:16` — brand token change
+- `2026-03-25 08:16` — padding consistency fix
+- `2026-03-25 08:16` — accessibility contrast fix
+- `2026-03-25 08:16` — font family swap
+- `2026-03-25 08:16` — aria attribute update
+- `2026-03-25 08:16` — animation duration update
+- `2026-03-25 08:16` — font weight adjustment
+- `2026-03-25 08:16` — transition easing change
+- `2026-03-25 08:16` — tab component refinement
+- `2026-03-25 08:16` — keyboard navigation fix
+- `2026-03-25 08:16` — focus ring update
+- `2026-03-25 08:16` — margin alignment
+- `2026-03-25 08:16` — badge design update
+- `2026-03-25 08:16` — color palette expansion
+- `2026-03-25 08:16` — checkbox style refresh
+- `2026-03-25 08:16` — color change
+- `2026-03-25 08:16` — brand color alignment
+- `2026-03-25 08:16` — micro-interaction refinement
+- `2026-03-25 08:16` — screen reader label add
+- `2026-03-25 08:16` — color contrast fix
+- `2026-03-25 08:16` — disabled state styling
+- `2026-03-25 08:16` — modal design update
+- `2026-03-25 08:16` — accent color adjustment
+- `2026-03-25 08:16` — typography scale update
+- `2026-03-25 08:16` — grid gap adjustment
+- `2026-03-27 10:39` — padding consistency fix
+- `2026-03-27 10:39` — brand spacing alignment
+- `2026-03-27 10:39` — focus indicator update
+- `2026-03-27 10:39` — typography scale update
+- `2026-03-27 10:39` — dropdown menu update
+- `2026-03-27 10:39` — body text improvement
+- `2026-03-27 10:39` — loading animation tweak
+- `2026-03-27 10:39` — accessibility contrast fix
+- `2026-03-27 10:39` — badge design update
+- `2026-03-27 10:39` — brand token change
+- `2026-03-27 10:39` — aria attribute update
+- `2026-03-27 10:39` — brand guideline sync
+- `2026-03-27 10:39` — brand asset refresh
+- `2026-03-27 10:39` — dark mode color tweak
+- `2026-03-27 10:39` — card component update
+- `2026-03-27 10:39` — heading hierarchy fix
+- `2026-03-27 10:39` — alignment correction
+- `2026-03-27 10:39` — accent color adjustment
+- `2026-03-27 10:39` — animation duration update
+- `2026-03-27 10:39` — screen reader label add
+- `2026-03-27 10:39` — spacing token update
+- `2026-03-27 10:39` — font family swap
+- `2026-03-27 10:39` — scroll animation fix
+- `2026-03-27 10:39` — focus ring update
+- `2026-03-27 10:39` — brand color alignment
+- `2026-03-27 10:39` — tooltip design tweak
+- `2026-03-27 10:39` — disabled state styling
+- `2026-03-27 10:39` — margin alignment
+- `2026-03-27 10:39` — color palette expansion
+- `2026-03-27 10:39` — brand font update
+- `2026-03-27 10:39` — UI fixes
+- `2026-03-27 10:39` — primary color update
+- `2026-03-27 10:39` — input field refinement
+- `2026-03-27 10:39` — micro-interaction refinement
+- `2026-03-27 10:39` — layout spacing refinement
+- `2026-03-27 10:39` — line height refinement
+- `2026-03-29 15:56` — section spacing update
+- `2026-03-29 15:56` — focus indicator update
+- `2026-03-29 15:56` — typography scale update
+- `2026-03-29 15:56` — screen reader label add
+- `2026-03-29 15:56` — card component update
+- `2026-03-29 15:56` — font weight adjustment
+- `2026-03-29 15:56` — color palette expansion
+- `2026-03-29 15:56` — responsive layout tweak
+- `2026-03-29 15:56` — transition easing change
+- `2026-03-29 15:56` — overflow fix
+- `2026-03-29 15:56` — hover state fix
+- `2026-03-29 15:56` — loading animation tweak
+- `2026-03-29 15:56` — keyboard navigation fix
+- `2026-03-29 15:56` — font family swap
+- `2026-03-29 15:56` — scroll animation fix
+- `2026-03-29 15:56` — margin alignment
+- `2026-03-29 15:56` — visual regression fix
+- `2026-03-29 15:56` — alignment correction
+- `2026-03-29 15:56` — brand guideline sync
+- `2026-03-29 15:56` — grid gap adjustment
+- `2026-03-29 15:56` — aria attribute update
+- `2026-03-29 15:56` — brand color alignment
+- `2026-03-29 15:56` — animation duration update
+- `2026-03-29 15:56` — micro-interaction refinement
+- `2026-03-29 15:56` — dark mode color tweak
+- `2026-03-29 15:56` — secondary palette refinement
+- `2026-03-31 08:14` — dropdown menu update
+- `2026-03-31 08:14` — margin alignment
+- `2026-03-31 08:14` — color palette expansion
+- `2026-03-31 08:14` — letter spacing tweak
+- `2026-03-31 08:14` — secondary palette refinement
+- `2026-03-31 08:14` — animation duration update
+- `2026-03-31 08:14` — loading animation tweak
+- `2026-03-31 08:14` — UI fixes
+- `2026-03-31 08:14` — heading hierarchy fix
+- `2026-03-31 08:14` — brand color alignment
+- `2026-03-31 08:14` — responsive layout tweak
+- `2026-03-31 08:14` — grid gap adjustment
+- `2026-03-31 08:14` — spacing token update
+- `2026-03-31 08:14` — keyboard navigation fix
+- `2026-03-31 08:14` — brand token change
+- `2026-03-31 08:14` — brand spacing alignment
+- `2026-03-31 08:14` — focus indicator update
+- `2026-03-31 08:14` — section spacing update
+- `2026-03-31 08:14` — color change
+- `2026-03-31 08:14` — brand asset refresh
+- `2026-03-31 08:14` — button style update
+- `2026-03-31 08:14` — transition easing change
+- `2026-03-31 08:14` — color contrast fix
+- `2026-03-31 08:14` — accessibility contrast fix
+- `2026-03-31 08:14` — input field refinement
+- `2026-03-31 08:14` — semantic color token fix
+- `2026-03-31 08:14` — alignment correction
+- `2026-03-31 08:20` — brand token change
+- `2026-03-31 08:20` — screen reader label add
+- `2026-03-31 08:20` — font family swap
+- `2026-03-31 08:20` — line height refinement
+- `2026-03-31 08:20` — keyboard navigation fix
+- `2026-03-31 08:20` — modal design update
+- `2026-03-31 08:20` — primary color update
+- `2026-03-31 08:20` — visual regression fix
+- `2026-03-31 08:20` — accent color adjustment
+- `2026-03-31 08:20` — layout spacing refinement
+- `2026-03-31 08:20` — body text improvement
+- `2026-03-31 08:20` — dark mode color tweak
+- `2026-03-31 08:20` — grid gap adjustment
+- `2026-03-31 08:20` — animation duration update
+- `2026-03-31 08:20` — font weight adjustment
+- `2026-03-31 08:20` — focus ring update
+- `2026-04-01 22:48` — font family swap
+- `2026-04-01 22:48` — keyboard navigation fix
+- `2026-04-01 22:48` — line height refinement
+- `2026-04-01 22:48` — overflow fix
+- `2026-04-01 22:48` — padding consistency fix
+- `2026-04-01 22:48` — semantic color token fix
+- `2026-04-01 22:48` — loading animation tweak
+- `2026-04-01 22:48` — secondary palette refinement
+- `2026-04-01 22:48` — tooltip design tweak
+- `2026-04-01 22:48` — color change
+- `2026-04-01 22:48` — brand token change
+- `2026-04-01 22:48` — letter spacing tweak
+- `2026-04-01 22:48` — brand spacing alignment
+- `2026-04-01 22:48` — focus indicator update
+- `2026-04-01 22:48` — body text improvement
+- `2026-04-01 22:48` — aria attribute update
+- `2026-04-01 22:48` — z-index adjustment
+- `2026-04-01 22:48` — hover state fix
+- `2026-04-01 22:48` — screen reader label add
+- `2026-04-01 22:48` — accessibility contrast fix
+- `2026-04-01 22:48` — margin alignment
+- `2026-04-01 22:48` — animation duration update
+- `2026-04-01 22:48` — layout spacing refinement
+- `2026-04-01 22:48` — heading hierarchy fix
+- `2026-04-01 22:48` — brand font update
+- `2026-04-01 22:48` — responsive layout tweak
+- `2026-04-01 22:48` — UI fixes
+- `2026-04-01 22:48` — visual regression fix
+- `2026-04-01 22:48` — dark mode color tweak
+- `2026-04-01 22:48` — brand asset refresh
+- `2026-04-01 22:48` — color contrast fix
+- `2026-04-01 22:48` — modal design update
+- `2026-04-01 22:48` — spacing token update
+- `2026-04-01 22:48` — brand guideline sync
+- `2026-04-01 22:48` — badge design update
+- `2026-04-01 22:48` — tab component refinement
+- `2026-04-01 22:48` — typography scale update
+- `2026-04-01 22:48` — checkbox style refresh
+- `2026-04-03 09:15` — margin alignment
+- `2026-04-03 09:15` — focus ring update
+- `2026-04-03 09:15` — disabled state styling
+- `2026-04-03 09:15` — padding consistency fix
+- `2026-04-03 09:15` — spacing token update
+- `2026-04-03 09:15` — accessibility contrast fix
+- `2026-04-03 09:15` — brand token change
+- `2026-04-03 09:15` — font family swap
+- `2026-04-03 09:15` — brand asset refresh
+- `2026-04-03 09:15` — semantic color token fix
+- `2026-04-03 09:16` — responsive layout tweak
+- `2026-04-03 09:16` — brand guideline sync
+- `2026-04-03 09:16` — input field refinement
+- `2026-04-03 09:16` — primary color update
+- `2026-04-03 09:16` — loading animation tweak
+- `2026-04-03 09:16` — dropdown menu update
+- `2026-04-03 09:16` — color change
+- `2026-04-03 09:16` — line height refinement
+- `2026-04-03 09:16` — brand font update
+- `2026-04-03 09:16` — hover state fix
+- `2026-04-03 09:16` — modal design update
+- `2026-04-03 09:16` — navigation styling fix
+- `2026-04-03 09:16` — focus indicator update
+- `2026-04-03 09:16` — secondary palette refinement
+- `2026-04-03 09:16` — checkbox style refresh
+- `2026-04-03 09:16` — accent color adjustment
+- `2026-04-03 09:16` — aria attribute update
+- `2026-04-03 09:16` — typography scale update
+- `2026-04-03 09:16` — color contrast fix
+- `2026-04-03 09:16` — visual regression fix
+- `2026-04-03 09:16` — shadow refinement
+- `2026-04-03 09:16` — grid gap adjustment
+- `2026-04-03 09:16` — border radius update
+- `2026-04-03 09:16` — letter spacing tweak
+- `2026-04-03 09:16` — body text improvement
+- `2026-04-03 09:16` — brand color alignment
+- `2026-04-03 09:16` — alignment correction
+- `2026-04-03 09:16` — tab component refinement
+- `2026-04-03 09:16` — scroll animation fix
+- `2026-04-03 09:16` — brand spacing alignment
+- `2026-04-03 09:16` — animation duration update
+- `2026-04-03 09:16` — overflow fix
+- `2026-04-03 09:16` — section spacing update
+- `2026-04-03 09:16` — layout spacing refinement
+- `2026-04-04 14:48` — card component update
+- `2026-04-04 14:48` — badge design update
+- `2026-04-04 14:48` — accessibility contrast fix
+- `2026-04-04 14:48` — transition easing change
+- `2026-04-04 14:48` — brand guideline sync
+- `2026-04-04 14:48` — accent color adjustment
+- `2026-04-04 14:48` — grid gap adjustment
+- `2026-04-04 14:48` — visual regression fix
+- `2026-04-04 14:48` — body text improvement
+- `2026-04-04 14:48` — dark mode color tweak
+- `2026-04-04 14:48` — tab component refinement
+- `2026-04-04 14:48` — spacing token update
+- `2026-04-04 14:48` — primary color update
+- `2026-04-04 14:48` — micro-interaction refinement
+- `2026-04-04 14:48` — border radius update
+- `2026-04-04 14:48` — color change
+- `2026-04-04 14:48` — aria attribute update
+- `2026-04-04 14:48` — font family swap
+- `2026-04-04 14:48` — brand token change
+- `2026-04-04 14:48` — loading animation tweak
+- `2026-04-04 14:48` — button style update
+- `2026-04-04 14:48` — dropdown menu update
+- `2026-04-04 14:48` — padding consistency fix
+- `2026-04-04 14:48` — brand font update
+- `2026-04-04 14:48` — disabled state styling
+- `2026-04-04 14:48` — overflow fix
+- `2026-04-04 14:48` — brand asset refresh
+- `2026-04-04 14:48` — hover state fix
+- `2026-04-04 14:48` — focus indicator update
+- `2026-04-04 14:48` — heading hierarchy fix
+- `2026-04-04 14:48` — scroll animation fix
+- `2026-04-04 14:48` — UI fixes
+- `2026-04-05 17:03` — screen reader label add
+- `2026-04-05 17:03` — semantic color token fix
+- `2026-04-05 17:03` — font family swap
+- `2026-04-05 17:03` — brand spacing alignment
+- `2026-04-05 17:03` — focus ring update
+- `2026-04-05 17:03` — font weight adjustment
+- `2026-04-05 17:03` — accessibility contrast fix
+- `2026-04-05 17:03` — navigation styling fix
+- `2026-04-05 17:03` — brand font update
+- `2026-04-05 17:03` — tab component refinement
+- `2026-04-05 17:03` — brand asset refresh
+- `2026-04-05 17:03` — heading hierarchy fix
+- `2026-04-05 17:03` — keyboard navigation fix
+- `2026-04-05 17:03` — disabled state styling
+- `2026-04-05 17:03` — focus indicator update
+- `2026-04-05 17:03` — micro-interaction refinement
+- `2026-04-05 17:03` — color contrast fix
+- `2026-04-05 17:03` — section spacing update
+- `2026-04-05 17:03` — animation duration update
+- `2026-04-05 17:03` — brand token change
+- `2026-04-05 17:03` — typography scale update
+- `2026-04-05 17:03` — responsive layout tweak
+- `2026-04-05 17:03` — active state refinement
+- `2026-04-05 17:03` — padding consistency fix
+- `2026-04-05 17:03` — dark mode color tweak
+- `2026-04-05 17:03` — brand color alignment
+- `2026-04-05 17:03` — primary color update
+- `2026-04-05 17:03` — visual regression fix
+- `2026-04-05 17:03` — aria attribute update
+- `2026-04-05 17:03` — button style update
+- `2026-04-05 17:03` — transition easing change
+- `2026-04-05 17:03` — badge design update
+- `2026-04-06 08:20` — focus indicator update
+- `2026-04-06 08:20` — tab component refinement
+- `2026-04-06 08:20` — grid gap adjustment
+- `2026-04-06 08:20` — transition easing change
+- `2026-04-06 08:20` — border radius update
+- `2026-04-06 08:20` — body text improvement
+- `2026-04-06 08:20` — section spacing update
+- `2026-04-06 08:20` — brand font update
+- `2026-04-06 08:20` — line height refinement
+- `2026-04-06 08:20` — padding consistency fix
+- `2026-04-06 08:20` — screen reader label add
+- `2026-04-06 08:20` — accessibility contrast fix
+- `2026-04-06 08:20` — letter spacing tweak
+- `2026-04-06 08:20` — brand token change
+- `2026-04-06 08:20` — secondary palette refinement
+- `2026-04-06 08:20` — surface color update
+- `2026-04-06 08:20` — layout spacing refinement
+- `2026-04-06 08:20` — aria attribute update
+- `2026-04-06 08:20` — brand spacing alignment
+- `2026-04-06 08:20` — keyboard navigation fix
+- `2026-04-06 08:20` — animation duration update
+- `2026-04-06 08:20` — brand asset refresh
+- `2026-04-06 08:20` — font family swap
+- `2026-04-06 08:20` — focus ring update
+- `2026-04-06 08:20` — loading animation tweak
+- `2026-04-06 08:20` — badge design update
+- `2026-04-06 08:20` — scroll animation fix
+- `2026-04-06 08:20` — brand guideline sync
+- `2026-04-06 08:20` — primary color update
+- `2026-04-06 08:20` — visual regression fix
+- `2026-04-06 08:20` — color palette expansion
+- `2026-04-06 08:20` — disabled state styling
+- `2026-04-06 08:20` — shadow refinement
+- `2026-04-06 08:20` — heading hierarchy fix
+- `2026-04-06 08:20` — typography scale update
+- `2026-04-06 08:20` — accent color adjustment
+- `2026-04-06 08:20` — tooltip design tweak
+- `2026-04-07 08:14` — modal design update
+- `2026-04-07 08:14` — focus ring update
+- `2026-04-07 08:14` — button style update
+- `2026-04-07 08:14` — card component update
+- `2026-04-07 08:14` — aria attribute update
+- `2026-04-07 08:14` — grid gap adjustment
+- `2026-04-07 08:14` — section spacing update
+- `2026-04-07 08:14` — accent color adjustment
+- `2026-04-07 08:14` — scroll animation fix
+- `2026-04-07 08:14` — brand spacing alignment
+- `2026-04-07 08:14` — checkbox style refresh
+- `2026-04-07 08:14` — dropdown menu update
+- `2026-04-07 08:14` — visual regression fix
+- `2026-04-07 08:14` — semantic color token fix
+- `2026-04-07 08:14` — color palette expansion
+- `2026-04-07 08:14` — line height refinement
+- `2026-04-07 08:14` — disabled state styling
+- `2026-04-07 08:14` — font weight adjustment
+- `2026-04-07 08:14` — accessibility contrast fix
+- `2026-04-07 08:14` — hover state fix
+- `2026-04-07 08:14` — transition easing change
+- `2026-04-07 08:14` — brand token change
+- `2026-04-07 08:14` — tooltip design tweak
+- `2026-04-07 08:14` — loading animation tweak
+- `2026-04-07 08:14` — focus indicator update
+- `2026-04-07 08:14` — brand asset refresh
+- `2026-04-07 08:14` — brand color alignment
+- `2026-04-07 08:14` — font family swap
+- `2026-04-07 08:14` — primary color update
+- `2026-04-07 08:14` — secondary palette refinement
+- `2026-04-07 08:14` — brand guideline sync
+- `2026-04-07 08:14` — brand font update
+- `2026-04-07 08:14` — keyboard navigation fix
+- `2026-04-07 08:14` — color contrast fix
+- `2026-04-07 08:14` — screen reader label add
+- `2026-04-07 08:14` — letter spacing tweak
+- `2026-04-07 08:14` — border radius update
+- `2026-04-07 08:14` — padding consistency fix
+- `2026-04-08 08:05` — keyboard navigation fix
+- `2026-04-08 08:05` — micro-interaction refinement
+- `2026-04-08 08:05` — navigation styling fix
+- `2026-04-08 08:05` — brand font update
+- `2026-04-08 08:05` — layout spacing refinement
+- `2026-04-08 08:05` — spacing token update
+- `2026-04-08 08:05` — badge design update
+- `2026-04-08 08:05` — brand guideline sync
+- `2026-04-08 08:05` — tooltip design tweak
+- `2026-04-08 08:05` — screen reader label add
+- `2026-04-08 08:05` — padding consistency fix
+- `2026-04-08 08:05` — heading hierarchy fix
+- `2026-04-08 08:05` — focus indicator update
+- `2026-04-08 08:05` — overflow fix
+- `2026-04-08 08:05` — tab component refinement
+- `2026-04-08 08:05` — brand spacing alignment
+- `2026-04-08 08:05` — secondary palette refinement
+- `2026-04-08 08:05` — semantic color token fix
+- `2026-04-08 08:05` — body text improvement
+- `2026-04-08 08:05` — letter spacing tweak
+- `2026-04-08 08:05` — dark mode color tweak
+- `2026-04-08 08:05` — transition easing change
+- `2026-04-09 08:08` — accent color adjustment
+- `2026-04-09 08:08` — typography scale update
+- `2026-04-09 08:08` — font family swap
+- `2026-04-09 08:08` — transition easing change
+- `2026-04-09 08:08` — scroll animation fix
+- `2026-04-09 08:08` — z-index adjustment
+- `2026-04-09 08:08` — brand spacing alignment
+- `2026-04-09 08:08` — brand token change
+- `2026-04-09 08:08` — accessibility contrast fix
+- `2026-04-09 08:08` — overflow fix
+- `2026-04-09 08:08` — layout spacing refinement
+- `2026-04-09 08:08` — brand guideline sync
+- `2026-04-09 08:08` — checkbox style refresh
+- `2026-04-09 08:08` — UI fixes
+- `2026-04-09 08:08` — keyboard navigation fix
+- `2026-04-09 08:08` — brand color alignment
+- `2026-04-09 08:08` — margin alignment
+- `2026-04-09 08:08` — focus indicator update
+- `2026-04-09 08:08` — micro-interaction refinement
+- `2026-04-09 08:08` — dropdown menu update
+- `2026-04-09 08:08` — color contrast fix
+- `2026-04-09 08:08` — animation duration update
+- `2026-04-09 08:08` — secondary palette refinement
+- `2026-04-09 08:08` — line height refinement
+- `2026-04-09 08:08` — button style update
+- `2026-04-09 08:08` — padding consistency fix
+- `2026-04-09 08:08` — brand asset refresh
+- `2026-04-09 08:08` — badge design update
+- `2026-04-10 08:13` — border radius update
+- `2026-04-10 08:13` — card component update
+- `2026-04-10 08:13` — input field refinement
+- `2026-04-10 08:13` — hover state fix
+- `2026-04-10 08:13` — animation duration update
+- `2026-04-10 08:13` — padding consistency fix
+- `2026-04-10 08:13` — grid gap adjustment
+- `2026-04-10 08:13` — typography scale update
+- `2026-04-10 08:13` — focus indicator update
+- `2026-04-10 08:13` — brand guideline sync
+- `2026-04-10 08:13` — loading animation tweak
+- `2026-04-10 08:13` — body text improvement
+- `2026-04-10 08:13` — brand font update
+- `2026-04-10 08:13` — color change
+- `2026-04-10 08:13` — section spacing update
+- `2026-04-10 08:13` — shadow refinement
+- `2026-04-10 08:13` — brand spacing alignment
+- `2026-04-10 08:13` — z-index adjustment
+- `2026-04-10 08:13` — accessibility contrast fix
+- `2026-04-10 08:13` — brand asset refresh
+- `2026-04-10 08:13` — margin alignment
+- `2026-04-10 08:13` — overflow fix
+- `2026-04-10 08:13` — dark mode color tweak
+- `2026-04-10 08:13` — color palette expansion
+- `2026-04-10 08:14` — brand token change
+- `2026-04-10 08:14` — line height refinement
+- `2026-04-10 08:14` — tooltip design tweak
+- `2026-04-10 08:14` — transition easing change
+- `2026-04-10 08:14` — heading hierarchy fix
+- `2026-04-10 08:14` — focus ring update
+- `2026-04-10 08:14` — checkbox style refresh
+- `2026-04-10 08:14` — screen reader label add
+- `2026-04-10 08:14` — scroll animation fix
+- `2026-04-10 08:14` — navigation styling fix
+- `2026-04-10 08:14` — visual regression fix
+- `2026-04-10 08:14` — button style update
+- `2026-04-10 08:14` — modal design update
+- `2026-04-10 08:14` — color contrast fix
+- `2026-04-10 08:14` — layout spacing refinement
+- `2026-04-13 08:15` — focus indicator update
+- `2026-04-13 08:15` — dark mode color tweak
+- `2026-04-13 08:15` — line height refinement
+- `2026-04-13 08:15` — navigation styling fix
+- `2026-04-13 08:15` — accessibility contrast fix
+- `2026-04-13 08:15` — padding consistency fix
+- `2026-04-13 08:15` — tab component refinement
+- `2026-04-13 08:15` — brand spacing alignment
+- `2026-04-13 08:15` — scroll animation fix
+- `2026-04-13 08:15` — checkbox style refresh
+- `2026-04-13 08:15` — micro-interaction refinement
+- `2026-04-13 08:15` — overflow fix
+- `2026-04-13 08:15` — animation duration update
+- `2026-04-13 08:15` — grid gap adjustment
+- `2026-04-13 08:15` — screen reader label add
+- `2026-04-13 08:15` — spacing token update
+- `2026-04-13 08:15` — UI fixes
+- `2026-04-13 08:15` — accent color adjustment
+- `2026-04-13 08:15` — input field refinement
+- `2026-04-13 08:15` — typography scale update
+- `2026-04-13 08:15` — brand asset refresh
+- `2026-04-13 08:15` — brand color alignment
+- `2026-04-13 08:15` — keyboard navigation fix
+- `2026-04-13 08:15` — brand font update
+- `2026-04-13 08:15` — brand token change
+- `2026-04-13 08:15` — letter spacing tweak
+- `2026-04-13 08:15` — loading animation tweak
+- `2026-04-13 08:15` — color contrast fix
+- `2026-04-13 08:15` — button style update
+- `2026-04-13 08:15` — secondary palette refinement
+- `2026-04-13 08:15` — margin alignment
+- `2026-04-13 08:15` — font weight adjustment
+- `2026-04-13 08:15` — layout spacing refinement
+- `2026-04-13 08:15` — z-index adjustment
+- `2026-04-13 08:15` — shadow refinement
+- `2026-04-13 08:15` — semantic color token fix
+- `2026-04-13 08:15` — heading hierarchy fix
+- `2026-04-13 08:15` — surface color update
+- `2026-04-13 08:15` — focus ring update
+- `2026-04-13 08:15` — brand guideline sync
+- `2026-04-13 08:15` — body text improvement
+- `2026-04-13 08:15` — dropdown menu update
+- `2026-04-13 08:15` — color change
+- `2026-04-13 08:15` — aria attribute update
+- `2026-04-13 08:15` — badge design update
+- `2026-04-13 08:15` — primary color update
+- `2026-04-13 08:15` — hover state fix
+- `2026-04-14 16:01` — scroll animation fix
+- `2026-04-14 16:01` — brand guideline sync
+- `2026-04-14 16:01` — animation duration update
+- `2026-04-14 16:01` — accent color adjustment
+- `2026-04-14 16:01` — loading animation tweak
+- `2026-04-14 16:01` — aria attribute update
+- `2026-04-14 16:01` — section spacing update
+- `2026-04-14 16:01` — checkbox style refresh
+- `2026-04-14 16:01` — brand color alignment
+- `2026-04-14 16:01` — overflow fix
+- `2026-04-14 16:01` — semantic color token fix
+- `2026-04-14 16:01` — letter spacing tweak
+- `2026-04-14 16:01` — visual regression fix
+- `2026-04-14 16:01` — navigation styling fix
+- `2026-04-14 16:01` — grid gap adjustment
+- `2026-04-14 16:01` — spacing token update
+- `2026-04-14 16:01` — transition easing change
+- `2026-04-14 16:01` — brand font update
+- `2026-04-14 16:01` — card component update
+- `2026-04-14 16:01` — padding consistency fix
+- `2026-04-14 16:01` — border radius update
+- `2026-04-14 16:01` — alignment correction
+- `2026-04-14 16:01` — line height refinement
+- `2026-04-14 16:01` — UI fixes
+- `2026-04-14 16:01` — brand spacing alignment
+- `2026-04-15 08:14` — scroll animation fix
+- `2026-04-15 08:14` — font weight adjustment
+- `2026-04-15 08:14` — UI fixes
+- `2026-04-15 08:14` — focus indicator update
+- `2026-04-15 08:14` — secondary palette refinement
+- `2026-04-15 08:14` — brand guideline sync
+- `2026-04-15 08:14` — brand asset refresh
+- `2026-04-15 08:14` — keyboard navigation fix
+- `2026-04-15 08:14` — loading animation tweak
+- `2026-04-15 08:14` — screen reader label add
+- `2026-04-15 08:14` — surface color update
+- `2026-04-15 08:14` — letter spacing tweak
+- `2026-04-15 08:14` — shadow refinement
+- `2026-04-15 08:14` — transition easing change
+- `2026-04-15 08:14` — modal design update
+- `2026-04-15 08:14` — focus ring update
+- `2026-04-15 08:14` — grid gap adjustment
+- `2026-04-15 08:14` — input field refinement
+- `2026-04-15 08:14` — spacing token update
+- `2026-04-15 08:14` — animation duration update
+- `2026-04-15 08:14` — brand spacing alignment
+- `2026-04-15 08:14` — z-index adjustment
+- `2026-04-15 08:14` — layout spacing refinement
+- `2026-04-15 08:14` — navigation styling fix
+- `2026-04-15 08:14` — responsive layout tweak
+- `2026-04-15 08:14` — color palette expansion
+- `2026-04-15 08:14` — brand font update
+- `2026-04-15 08:14` — active state refinement
+- `2026-04-15 08:14` — micro-interaction refinement
+- `2026-04-15 08:14` — typography scale update
+- `2026-04-15 08:14` — brand token change
+- `2026-04-15 08:14` — margin alignment
+- `2026-04-15 08:14` — section spacing update
+- `2026-04-15 08:14` — dark mode color tweak
+- `2026-04-15 08:14` — heading hierarchy fix
+- `2026-04-15 08:14` — accessibility contrast fix
+- `2026-04-16 08:15` — primary color update
+- `2026-04-16 08:15` — focus indicator update
+- `2026-04-16 08:15` — brand font update
+- `2026-04-16 08:15` — layout spacing refinement
+- `2026-04-16 08:15` — tab component refinement
+- `2026-04-16 08:15` — grid gap adjustment
+- `2026-04-16 08:15` — heading hierarchy fix
+- `2026-04-16 08:15` — z-index adjustment
+- `2026-04-16 08:15` — brand token change
+- `2026-04-16 08:15` — font family swap
+- `2026-04-16 08:15` — input field refinement
+- `2026-04-16 08:15` — semantic color token fix
+- `2026-04-16 08:15` — aria attribute update
+- `2026-04-16 08:15` — loading animation tweak
+- `2026-04-16 08:15` — brand spacing alignment
+- `2026-04-16 08:15` — checkbox style refresh
+- `2026-04-16 08:15` — overflow fix
+- `2026-04-16 08:15` — navigation styling fix
+- `2026-04-16 08:15` — screen reader label add
+- `2026-04-16 08:15` — brand guideline sync
+- `2026-04-16 08:15` — scroll animation fix
+- `2026-04-16 08:15` — line height refinement
+- `2026-04-16 08:15` — UI fixes
+- `2026-04-16 08:15` — accessibility contrast fix
+- `2026-04-16 08:15` — brand asset refresh
+- `2026-04-16 08:15` — transition easing change
+- `2026-04-16 08:15` — modal design update
+- `2026-04-16 08:15` — tooltip design tweak
+- `2026-04-16 08:15` — keyboard navigation fix
+- `2026-04-16 08:15` — typography scale update
+- `2026-04-16 08:15` — disabled state styling
+- `2026-04-16 08:15` — margin alignment
+- `2026-04-17 10:38` — section spacing update
+- `2026-04-17 10:39` — color palette expansion
+- `2026-04-17 10:39` — screen reader label add
+- `2026-04-17 10:39` — checkbox style refresh
+- `2026-04-17 10:39` — accent color adjustment
+- `2026-04-17 10:39` — color contrast fix
+- `2026-04-17 10:39` — primary color update
+- `2026-04-17 10:39` — brand guideline sync
+- `2026-04-17 10:39` — button style update
+- `2026-04-17 10:39` — padding consistency fix
+- `2026-04-17 10:39` — scroll animation fix
+- `2026-04-17 10:39` — hover state fix
+- `2026-04-17 10:39` — grid gap adjustment
+- `2026-04-17 10:39` — font weight adjustment
+- `2026-04-17 10:39` — heading hierarchy fix
+- `2026-04-17 10:39` — focus indicator update
+- `2026-04-17 10:39` — brand font update
+- `2026-04-17 10:39` — layout spacing refinement
+- `2026-04-17 10:39` — modal design update
+- `2026-04-17 10:39` — margin alignment
+- `2026-04-17 10:39` — focus ring update
+- `2026-04-17 10:39` — brand asset refresh
+- `2026-04-17 10:39` — aria attribute update
+- `2026-04-17 10:39` — dropdown menu update
+- `2026-04-17 10:39` — overflow fix
+- `2026-04-17 10:39` — spacing token update
+- `2026-04-17 10:39` — color change
+- `2026-04-17 10:39` — keyboard navigation fix
+- `2026-04-17 10:39` — responsive layout tweak
+- `2026-04-17 10:39` — animation duration update
+- `2026-04-17 10:39` — alignment correction
+- `2026-04-17 10:39` — typography scale update
+- `2026-04-17 10:39` — letter spacing tweak
+- `2026-04-17 10:39` — font family swap
+- `2026-04-17 10:39` — secondary palette refinement
+- `2026-04-17 10:39` — brand color alignment
+- `2026-04-17 10:39` — loading animation tweak
+- `2026-04-17 10:39` — input field refinement
+- `2026-04-17 10:39` — active state refinement
+- `2026-04-17 10:39` — semantic color token fix
+- `2026-04-17 10:39` — brand spacing alignment
+- `2026-04-19 02:24` — scroll animation fix
+- `2026-04-19 02:24` — spacing token update
+- `2026-04-19 02:24` — badge design update
+- `2026-04-19 02:24` — loading animation tweak
+- `2026-04-19 02:24` — brand spacing alignment
+- `2026-04-19 02:24` — responsive layout tweak
+- `2026-04-19 02:24` — keyboard navigation fix
+- `2026-04-19 02:24` — focus ring update
+- `2026-04-19 02:24` — color change
+- `2026-04-19 02:24` — brand color alignment
+- `2026-04-19 02:24` — accessibility contrast fix
+- `2026-04-19 02:24` — tab component refinement
+- `2026-04-19 02:24` — card component update
+- `2026-04-19 02:24` — navigation styling fix
+- `2026-04-19 02:24` — section spacing update
+- `2026-04-19 02:24` — brand guideline sync
+- `2026-04-19 02:24` — brand asset refresh
+- `2026-04-19 02:24` — margin alignment
+- `2026-04-19 02:24` — surface color update
+- `2026-04-19 02:24` — aria attribute update
+- `2026-04-19 02:24` — brand font update
+- `2026-04-19 02:24` — grid gap adjustment
+- `2026-04-19 02:24` — color contrast fix
+- `2026-04-19 02:24` — color palette expansion
+- `2026-04-19 02:24` — padding consistency fix
+- `2026-04-19 02:24` — tooltip design tweak
+- `2026-04-19 02:24` — hover state fix
+- `2026-04-19 02:24` — active state refinement
+- `2026-04-19 02:24` — dropdown menu update
+- `2026-04-19 02:24` — typography scale update
+- `2026-04-19 02:24` — disabled state styling
+- `2026-04-19 02:24` — font family swap
+- `2026-04-19 02:24` — border radius update
+- `2026-04-19 02:24` — checkbox style refresh
+- `2026-04-19 02:24` — body text improvement
+- `2026-04-19 02:24` — animation duration update
+- `2026-04-19 02:24` — micro-interaction refinement
+- `2026-04-19 02:24` — z-index adjustment
+- `2026-04-19 02:24` — line height refinement
+- `2026-04-19 02:24` — screen reader label add
+- `2026-04-19 02:24` — letter spacing tweak
+- `2026-04-19 02:24` — primary color update
+- `2026-04-19 02:24` — button style update
+- `2026-04-19 02:24` — layout spacing refinement
+- `2026-04-20 08:07` — typography scale update
+- `2026-04-20 08:07` — scroll animation fix
+- `2026-04-20 08:07` — animation duration update
+- `2026-04-20 08:07` — aria attribute update
+- `2026-04-20 08:07` — surface color update
+- `2026-04-20 08:07` — margin alignment
+- `2026-04-20 08:07` — loading animation tweak
+- `2026-04-20 08:07` — layout spacing refinement
+- `2026-04-20 08:07` — shadow refinement
+- `2026-04-20 08:07` — screen reader label add
+- `2026-04-20 08:07` — heading hierarchy fix
+- `2026-04-20 08:07` — transition easing change
+- `2026-04-20 08:07` — line height refinement
+- `2026-04-20 08:07` — overflow fix
+- `2026-04-20 08:07` — color change
+- `2026-04-20 08:07` — brand font update
+- `2026-04-20 08:07` — alignment correction
+- `2026-04-20 08:07` — padding consistency fix
+- `2026-04-20 08:07` — tab component refinement
+- `2026-04-20 08:07` — brand spacing alignment
+- `2026-04-20 08:07` — responsive layout tweak
+- `2026-04-20 08:07` — font weight adjustment
+- `2026-04-20 08:07` — accessibility contrast fix
+- `2026-04-20 08:07` — dark mode color tweak
+- `2026-04-20 08:07` — badge design update
+- `2026-04-20 08:07` — visual regression fix
+- `2026-04-20 08:07` — modal design update
+- `2026-04-20 08:07` — brand guideline sync
+- `2026-04-20 08:07` — navigation styling fix
+- `2026-04-20 08:08` — focus indicator update
+- `2026-04-20 08:08` — secondary palette refinement
+- `2026-04-20 08:08` — font family swap
+- `2026-04-20 08:08` — letter spacing tweak
+- `2026-04-20 08:08` — brand asset refresh
+- `2026-04-21 22:13` — brand asset refresh
+- `2026-04-21 22:13` — focus indicator update
+- `2026-04-21 22:13` — spacing token update
+- `2026-04-21 22:13` — body text improvement
+- `2026-04-21 22:13` — visual regression fix
+- `2026-04-21 22:13` — micro-interaction refinement
+- `2026-04-21 22:13` — font weight adjustment
+- `2026-04-21 22:13` — scroll animation fix
+- `2026-04-21 22:13` — keyboard navigation fix
+- `2026-04-21 22:13` — brand spacing alignment
+- `2026-04-21 22:13` — typography scale update
+- `2026-04-21 22:13` — dark mode color tweak
+- `2026-04-21 22:13` — tooltip design tweak
+- `2026-04-21 22:13` — brand color alignment
+- `2026-04-21 22:13` — primary color update
+- `2026-04-21 22:13` — overflow fix
+- `2026-04-21 22:13` — surface color update
+- `2026-04-21 22:13` — accessibility contrast fix
+- `2026-04-21 22:13` — heading hierarchy fix
+- `2026-04-21 22:13` — button style update
+- `2026-04-21 22:13` — modal design update
+- `2026-04-21 22:13` — badge design update
+- `2026-04-21 22:13` — letter spacing tweak
+- `2026-04-21 22:13` — brand token change
+- `2026-04-21 22:13` — semantic color token fix
+- `2026-04-21 22:13` — color contrast fix
+- `2026-04-21 22:13` — disabled state styling
+- `2026-04-21 22:13` — navigation styling fix
+- `2026-04-21 22:13` — margin alignment
+- `2026-04-21 22:13` — hover state fix
+- `2026-04-21 22:13` — section spacing update
+- `2026-04-21 22:13` — card component update
+- `2026-04-21 22:13` — checkbox style refresh
+- `2026-04-21 22:13` — aria attribute update
+- `2026-04-21 22:13` — color palette expansion
+- `2026-04-21 22:13` — grid gap adjustment
+- `2026-04-22 08:36` — letter spacing tweak
+- `2026-04-22 08:36` — brand font update
+- `2026-04-22 08:36` — accessibility contrast fix
+- `2026-04-22 08:36` — focus indicator update
+- `2026-04-22 08:36` — aria attribute update
+- `2026-04-22 08:36` — keyboard navigation fix
+- `2026-04-22 08:36` — hover state fix
+- `2026-04-22 08:36` — scroll animation fix
+- `2026-04-22 08:36` — transition easing change
+- `2026-04-22 08:36` — screen reader label add
+- `2026-04-22 08:36` — font weight adjustment
+- `2026-04-22 08:36` — color contrast fix
+- `2026-04-22 08:36` — tooltip design tweak
+- `2026-04-22 08:36` — spacing token update
+- `2026-04-22 08:36` — brand spacing alignment
+- `2026-04-22 08:36` — brand token change
+- `2026-04-22 08:36` — dropdown menu update
+- `2026-04-22 08:36` — section spacing update
+- `2026-04-22 08:36` — badge design update
+- `2026-04-22 08:36` — secondary palette refinement
+- `2026-04-22 08:36` — modal design update
+- `2026-04-22 08:36` — brand guideline sync
+- `2026-04-22 08:36` — tab component refinement
+- `2026-04-22 08:36` — font family swap
+- `2026-04-22 08:36` — padding consistency fix
+- `2026-04-22 08:36` — loading animation tweak
+- `2026-04-22 08:36` — line height refinement
+- `2026-04-22 15:58` — line height refinement
+- `2026-04-22 15:58` — secondary palette refinement
+- `2026-04-22 15:58` — grid gap adjustment
+- `2026-04-22 15:58` — alignment correction
+- `2026-04-22 15:58` — screen reader label add
+- `2026-04-22 15:58` — accessibility contrast fix
+- `2026-04-22 15:58` — brand spacing alignment
+- `2026-04-22 15:58` — aria attribute update
+- `2026-04-22 15:58` — section spacing update
+- `2026-04-22 15:58` — heading hierarchy fix
+- `2026-04-22 15:58` — loading animation tweak
+- `2026-04-22 15:58` — badge design update
+- `2026-04-22 15:58` — letter spacing tweak
+- `2026-04-22 15:58` — font weight adjustment
+- `2026-04-22 15:58` — brand token change
+- `2026-04-22 15:58` — tab component refinement
+- `2026-04-22 15:58` — color contrast fix
+- `2026-04-22 15:58` — brand font update
+- `2026-04-22 15:58` — input field refinement
+- `2026-04-22 15:58` — brand asset refresh
+- `2026-04-22 15:58` — hover state fix
+- `2026-04-22 15:58` — layout spacing refinement
+- `2026-04-22 15:58` — margin alignment
+- `2026-04-22 15:58` — focus indicator update
+- `2026-04-22 15:58` — brand color alignment
+- `2026-04-22 15:58` — disabled state styling
+- `2026-04-22 15:58` — font family swap
+- `2026-04-22 15:58` — modal design update
+- `2026-04-22 15:58` — alignment correction
+- `2026-04-22 15:58` — spacing token update
+- `2026-04-22 15:58` — brand asset refresh
+- `2026-04-22 15:58` — letter spacing tweak
+- `2026-04-22 15:58` — hover state fix
+- `2026-04-22 15:58` — UI fixes
+- `2026-04-22 15:58` — layout spacing refinement
+- `2026-04-22 15:58` — semantic color token fix
+- `2026-04-22 15:58` — grid gap adjustment
+- `2026-04-22 15:58` — transition easing change
+- `2026-04-22 15:58` — card component update
+- `2026-04-22 15:58` — color change
+- `2026-04-23 08:21` — accent color adjustment
+- `2026-04-23 08:21` — font family swap
+- `2026-04-23 08:21` — animation duration update
+- `2026-04-23 08:21` — navigation styling fix
+- `2026-04-23 08:21` — scroll animation fix
+- `2026-04-23 08:21` — shadow refinement
+- `2026-04-23 08:21` — visual regression fix
+- `2026-04-23 08:21` — letter spacing tweak
+- `2026-04-23 08:21` — padding consistency fix
+- `2026-04-23 08:21` — transition easing change
+- `2026-04-23 08:21` — keyboard navigation fix
+- `2026-04-23 08:21` — semantic color token fix
+- `2026-04-23 08:21` — color contrast fix
+- `2026-04-23 08:21` — font weight adjustment
+- `2026-04-23 08:21` — color change
+- `2026-04-23 08:21` — loading animation tweak
+- `2026-04-23 08:21` — margin alignment
+- `2026-04-23 08:21` — secondary palette refinement
+- `2026-04-23 08:21` — active state refinement
+- `2026-04-23 08:21` — micro-interaction refinement
+- `2026-04-23 08:21` — aria attribute update
+- `2026-04-23 08:21` — responsive layout tweak
+- `2026-04-23 08:21` — card component update
+- `2026-04-23 08:21` — modal design update
+- `2026-04-23 08:21` — border radius update
+- `2026-04-23 08:21` — primary color update
+- `2026-04-23 08:21` — grid gap adjustment
+- `2026-04-23 08:21` — typography scale update
+- `2026-04-23 08:21` — button style update
+- `2026-04-23 08:21` — alignment correction
+- `2026-04-23 08:21` — brand guideline sync
+- `2026-04-23 08:21` — body text improvement
+- `2026-04-23 08:21` — brand font update
+- `2026-04-23 08:21` — hover state fix
+- `2026-04-23 08:21` — z-index adjustment
+- `2026-04-23 08:21` — heading hierarchy fix
+- `2026-04-23 08:21` — focus indicator update
+- `2026-04-23 08:29` — audit color pairs for WCAG AA compliance
+- `2026-04-23 08:29` — fix broken transition on theme toggle
+- `2026-04-23 08:29` — add entrance animation for modal overlay
+- `2026-04-23 08:29` — brand font update
+- `2026-04-23 08:29` — reorganize token file structure
+- `2026-04-23 08:29` — resolve token alias circular references
+- `2026-04-23 08:29` — body text improvement
+- `2026-04-23 08:29` — add focus token for custom components
+- `2026-04-23 08:29` — button style update
+- `2026-04-23 08:29` — refresh brand gradient values
+- `2026-04-23 08:29` — bump body font size for readability
+- `2026-04-23 08:29` — loading animation tweak
+- `2026-04-26 00:51` — add token format checks to pre-commit
+- `2026-04-26 00:51` — update neutral palette to reflect new brand direction
+- `2026-04-26 00:51` — pull latest brand variables from design system
+- `2026-04-26 00:51` — font weight adjustment
+- `2026-04-26 00:51` — add inline docs to spacing scale
+- `2026-04-26 00:51` — micro-interaction refinement
+- `2026-04-26 00:51` — heading hierarchy fix
+- `2026-04-26 00:51` — grid gap adjustment
+- `2026-04-26 00:51` — refine success and warning color tokens
+- `2026-04-26 00:51` — patch divider component thickness
+- `2026-04-26 00:51` — color contrast fix
+- `2026-04-26 00:51` — update background color for elevated surfaces
+- `2026-04-26 00:51` — accent color adjustment
+- `2026-04-26 00:51` — adjust alpha values on overlay tokens
+- `2026-04-26 00:51` — card component update
+- `2026-04-26 00:51` — add migration notes for renamed tokens
+- `2026-04-26 00:51` — remove deprecated spacing tokens
+- `2026-04-26 00:51` — add new surface token for overlay backgrounds
+- `2026-04-26 00:51` — normalize spacing scale to 8pt grid
+- `2026-04-26 00:51` — update stagger delay for list animations
+- `2026-04-26 00:51` — export latest tokens from Figma
+- `2026-04-26 00:51` — align vertical rhythm tokens with type scale
+- `2026-04-26 00:51` — sync brand tokens with latest identity refresh
+- `2026-04-26 00:51` — fix content spacing inside card variants
+- `2026-04-26 00:51` — tooltip design tweak
+- `2026-04-26 00:51` — resolve color bleed on adjacent components
+- `2026-04-26 00:51` — overflow fix
+- `2026-04-26 00:51` — patch stacking context issue in overlay
+- `2026-04-26 00:51` — update changelog format
+- `2026-04-26 00:51` — update switch component track tokens
+- `2026-04-26 00:51` — input field refinement
+- `2026-04-26 00:51` — visual regression fix
+- `2026-04-26 00:51` — fix icon size inconsistency in nav
+- `2026-04-26 00:51` — add fluid type scale tokens
+- `2026-04-26 00:51` — document new color semantics
+- `2026-04-26 00:51` — tighten heading line height for large screens
+- `2026-04-26 00:51` — tab component refinement
+- `2026-04-26 00:51` — responsive layout tweak
+- `2026-04-26 00:51` — clean up token naming inconsistencies
+- `2026-04-26 00:51` — patch broken token reference in components
+- `2026-04-26 00:51` — correct elevation token on sticky header
+- `2026-04-27 08:11` — primary color update
+- `2026-04-27 08:11` — patch spacing regression from last merge
+- `2026-04-27 08:11` — fix clipped text in compact variant
+- `2026-04-27 08:11` — rename tokens to match new naming convention
+- `2026-04-27 08:11` — sync color tokens with latest Figma variables export
+- `2026-04-27 08:11` — fix inconsistent inner padding on form elements
+- `2026-04-27 08:11` — improve token validation script
+- `2026-04-27 08:11` — update token output format to CSS variables
+- `2026-04-27 08:11` — add missing spacing token for inline elements
+- `2026-04-27 08:11` — focus indicator update
+- `2026-04-27 08:11` — add missing dark mode token variants
+- `2026-04-27 08:11` — clean up generated output artifacts
+- `2026-04-27 08:11` — spacing token update
+- `2026-04-27 08:11` — navigation styling fix
+- `2026-04-27 08:11` — fix missing label on icon-only button
+- `2026-04-27 08:11` — update style dictionary config
+- `2026-04-27 08:11` — remap semantic color tokens to new primitives
+- `2026-04-27 08:11` — tune reduced-motion fallback tokens
+- `2026-04-27 08:11` — update stepper component tokens
+- `2026-04-27 08:11` — document token alias conventions
+- `2026-04-27 08:11` — correct misaligned icon in button component
+- `2026-04-27 08:11` — font family swap
+- `2026-04-27 08:11` — wire up new semantic elevation tokens
+- `2026-04-27 08:11` — active state refinement
+- `2026-04-27 08:11` — update focus-visible styles for interactive elements
+- `2026-04-27 08:11` — update monospace font token
+- `2026-04-27 08:11` — update link component underline style
+- `2026-04-27 08:11` — bump token schema version
+- `2026-04-28 08:10` — add responsive token breakpoints
+- `2026-04-28 08:10` — flatten nested token structure for clarity
+- `2026-04-28 08:10` — hover state fix
+- `2026-04-28 08:10` — margin alignment
+- `2026-04-28 08:10` — add high-visibility focus token for forced-colors mode
+- `2026-04-28 08:10` — letter spacing tweak
+- `2026-04-28 08:10` — shadow refinement
+- `2026-04-28 08:10` — add token decision rationale to comments
+- `2026-04-28 08:10` — remove jarring jump in accordion open
+- `2026-04-28 08:10` — fix missing border on selected state
+- `2026-04-28 08:10` — extract repeated values into shared base tokens
+- `2026-04-28 08:10` — fix broken token transformer
+- `2026-04-28 08:10` — update design token build script
+- `2026-04-28 08:10` — clean up form field error state styles
+- `2026-04-28 08:10` — update README with latest token structure
+- `2026-04-28 08:10` — align caption text tokens with spec
+- `2026-04-28 08:10` — dropdown menu update
+- `2026-04-28 08:10` — aria attribute update
+- `2026-04-28 08:10` — screen reader label add
+- `2026-04-28 08:10` — brand color alignment
+- `2026-04-28 08:10` — add skip-to-content link tokens
+- `2026-04-28 08:10` — fix token export pipeline
+- `2026-04-28 08:10` — disabled state styling
+- `2026-04-28 08:10` — fix broken outline on focus for keyboard users
+- `2026-04-28 08:10` — clean up leftover debug border
+- `2026-04-28 08:10` — audit and clean up unused type styles
+- `2026-04-28 08:10` — move hardcoded values to tokens
+- `2026-04-28 08:10` — fix missing italic weight token
+- `2026-04-29 09:50` — refine avatar sizing tokens
+- `2026-04-29 09:50` — audit spacing tokens for duplicate values
+- `2026-04-29 09:50` — update page-level layout margins
+- `2026-04-29 09:50` — update Figma token sync config
+- `2026-04-29 09:50` — bump gray scale contrast levels
+- `2026-04-29 09:51` — update wordmark sizing token
+- `2026-04-29 09:51` — border radius update
+- `2026-04-29 09:51` — fix output path in token build config
+- `2026-04-29 09:51` — tighten compact density spacing
+- `2026-04-29 09:51` — tidy up token category groupings
+- `2026-04-29 09:51` — fix responsive type scale breakpoints
+- `2026-04-29 09:51` — focus ring update
+- `2026-04-29 09:51` — alignment correction
+- `2026-04-29 09:51` — normalize exit animation duration tokens
+- `2026-04-30 23:48` — patch low-contrast placeholder text
+- `2026-04-30 23:48` — fix ghost button hover color
+- `2026-04-30 23:48` — fix inline alert padding
+- `2026-04-30 23:48` — normalize token key casing
+- `2026-04-30 23:48` — line height refinement
+- `2026-04-30 23:48` — refresh skeleton loader animation timing
+- `2026-04-30 23:48` — update skeleton shimmer timing
+- `2026-04-30 23:48` — update display heading tokens
+- `2026-04-30 23:48` — tighten list item component spacing
+- `2026-04-30 23:48` — fix breadcrumb separator sizing
+- `2026-04-30 23:48` — layout spacing refinement
+- `2026-04-30 23:48` — normalize font stack across platforms
+- `2026-04-30 23:48` — split color tokens into primitives and semantics
+- `2026-04-30 23:48` — transition easing change
+- `2026-04-30 23:48` — checkbox style refresh
+- `2026-04-30 23:48` — ensure touch target meets 44px minimum
+- `2026-04-30 23:48` — brand asset refresh
+- `2026-04-30 23:48` — secondary palette refinement
+- `2026-04-30 23:48` — modal design update
+- `2026-04-30 23:48` — reconcile brand color with new creative direction
+- `2026-04-30 23:48` — z-index adjustment
+- `2026-04-30 23:48` — add usage examples to component tokens
+- `2026-04-30 23:48` — tweak surface colors for better light-mode legibility
+- `2026-04-30 23:48` — semantic color token fix
+- `2026-04-30 23:48` — patch inconsistent corner radius in form inputs
+- `2026-04-30 23:48` — improve color contrast on disabled text
+- `2026-04-30 23:48` — color palette expansion
+- `2026-04-30 23:48` — brand spacing alignment
+- `2026-04-30 23:48` — keyboard navigation fix
+- `2026-04-30 23:48` — badge design update
+- `2026-04-30 23:48` — scroll animation fix
+- `2026-04-30 23:48` — typography scale update
+- `2026-04-30 23:48` — patch off-by-one pixel alignment in grid
+- `2026-04-30 23:48` — add high-contrast mode token set
+- `2026-04-30 23:48` — surface color update
+- `2026-04-30 23:48` — smooth out tab transition timing
+- `2026-04-30 23:48` — dark mode color tweak
+- `2026-04-30 23:48` — refine easing curve on drawer slide
+- `2026-05-01 08:16` — refine table row hover state tokens
+- `2026-05-01 08:16` — align brand palette with updated guidelines
+- `2026-05-01 08:16` — sync token schema with style dictionary config
+- `2026-05-01 08:16` — resolve visual glitch in dark mode
+- `2026-05-01 08:16` — consolidate duplicate component tokens
+- `2026-05-01 08:16` — update token documentation
+- `2026-05-01 08:16` — document dark mode token usage
+- `2026-05-01 08:16` — brand token change
+- `2026-05-01 08:16` — brand guideline sync
+- `2026-05-01 08:16` — section spacing update
+- `2026-05-01 08:16` — fix off-brand blue in CTA components
+- `2026-05-01 08:16` — patch inconsistent error color across states
+- `2026-05-01 08:16` — adjust chip component padding
+- `2026-05-01 08:16` — animation duration update
+- `2026-05-01 08:16` — update logo sizing constraints
+- `2026-05-01 08:16` — deduplicate shadow definitions
+- `2026-05-01 08:16` — update progress bar color tokens
+- `2026-05-01 08:16` — refine popover arrow token values
+- `2026-05-01 08:16` — padding consistency fix
+- `2026-05-01 08:16` — add compact density token tier
+- `2026-05-01 08:16` — align info color with accessibility requirements
+- `2026-05-01 08:16` — accessibility contrast fix
+- `2026-05-01 08:16` — fix bounce effect on toast notification
+- `2026-05-01 08:16` — brand font update
+- `2026-05-01 08:16` — refresh brand gradient values
+- `2026-05-01 08:16` — body text improvement
+- `2026-05-01 08:16` — bump body font size for readability
+- `2026-05-01 08:16` — button style update
+- `2026-05-01 08:16` — fix broken transition on theme toggle
+- `2026-05-01 08:16` — loading animation tweak
+- `2026-05-01 08:16` — add entrance animation for modal overlay
+- `2026-05-01 08:16` — audit color pairs for WCAG AA compliance
+- `2026-05-01 08:16` — reorganize token file structure
+- `2026-05-01 08:16` — resolve token alias circular references
+- `2026-05-01 08:16` — add focus token for custom components
+- `2026-05-01 08:16` — accent color adjustment
+- `2026-05-01 08:16` — color contrast fix
+- `2026-05-01 08:16` — update neutral palette to reflect new brand direction
+- `2026-05-02 12:18` — adjust alpha values on overlay tokens
+- `2026-05-02 12:18` — refine success and warning color tokens
+- `2026-05-02 12:18` — update background color for elevated surfaces
+- `2026-05-02 12:18` — sync brand tokens with latest identity refresh
+- `2026-05-02 12:18` — pull latest brand variables from design system
+- `2026-05-02 12:18` — font weight adjustment
+- `2026-05-02 12:18` — heading hierarchy fix
+- `2026-05-02 12:18` — tighten heading line height for large screens
+- `2026-05-02 12:18` — add fluid type scale tokens
+- `2026-05-02 12:18` — grid gap adjustment
+- `2026-05-02 12:18` — normalize spacing scale to 8pt grid
+- `2026-05-02 12:18` — fix content spacing inside card variants
+- `2026-05-02 12:18` — align vertical rhythm tokens with type scale
+- `2026-05-02 12:18` — input field refinement
+- `2026-05-02 12:18` — card component update
+- `2026-05-02 12:18` — tooltip design tweak
+- `2026-05-02 12:18` — tab component refinement
+- `2026-05-02 12:18` — fix icon size inconsistency in nav
+- `2026-05-02 12:18` — patch divider component thickness
+- `2026-05-02 12:18` — update switch component track tokens
+- `2026-05-02 12:18` — responsive layout tweak
+- `2026-05-02 12:18` — overflow fix
+- `2026-05-02 12:18` — visual regression fix
+- `2026-05-02 12:18` — patch stacking context issue in overlay
+- `2026-05-02 12:18` — resolve color bleed on adjacent components
+- `2026-05-02 12:18` — correct elevation token on sticky header
+- `2026-05-02 12:18` — micro-interaction refinement
+- `2026-05-02 12:18` — update stagger delay for list animations
+- `2026-05-02 12:18` — clean up token naming inconsistencies
+- `2026-05-02 12:18` — remove deprecated spacing tokens
+- `2026-05-02 12:18` — add token format checks to pre-commit
+- `2026-05-02 12:18` — document new color semantics
+- `2026-05-02 12:18` — update changelog format
+- `2026-05-02 12:18` — add inline docs to spacing scale
+- `2026-05-02 12:18` — add migration notes for renamed tokens
+- `2026-05-02 12:18` — export latest tokens from Figma
+- `2026-05-02 12:18` — add new surface token for overlay backgrounds
+- `2026-05-02 12:18` — patch broken token reference in components
+- `2026-05-02 12:18` — primary color update
+- `2026-05-02 12:18` — remap semantic color tokens to new primitives
+- `2026-05-02 12:18` — sync color tokens with latest Figma variables export
+- `2026-05-02 12:18` — font family swap
+- `2026-05-02 12:18` — update monospace font token
+- `2026-05-02 12:18` — spacing token update
+- `2026-05-02 12:18` — fix inconsistent inner padding on form elements
+- `2026-05-02 12:18` — add missing spacing token for inline elements
+- `2026-05-02 12:18` — navigation styling fix
+- `2026-05-03 18:28` — update link component underline style
+- `2026-05-03 18:28` — update stepper component tokens
+- `2026-05-03 18:28` — active state refinement
+- `2026-05-03 18:28` — correct misaligned icon in button component
+- `2026-05-03 18:28` — patch spacing regression from last merge
+- `2026-05-03 18:28` — fix clipped text in compact variant
+- `2026-05-03 18:28` — tune reduced-motion fallback tokens
+- `2026-05-03 18:28` — focus indicator update
+- `2026-05-03 18:28` — fix missing label on icon-only button
+- `2026-05-03 18:28` — update focus-visible styles for interactive elements
+- `2026-05-03 18:28` — rename tokens to match new naming convention
+- `2026-05-03 18:28` — improve token validation script
+- `2026-05-04 08:11` — bump token schema version
+- `2026-05-04 08:11` — clean up generated output artifacts
+- `2026-05-04 08:11` — update style dictionary config
+- `2026-05-04 08:11` — document token alias conventions
+- `2026-05-04 08:11` — add missing dark mode token variants
+- `2026-05-04 08:11` — update token output format to CSS variables
+- `2026-05-04 08:11` — wire up new semantic elevation tokens
+- `2026-05-04 08:11` — brand color alignment
+- `2026-05-04 08:11` — letter spacing tweak
+- `2026-05-04 08:11` — audit and clean up unused type styles
+- `2026-05-04 08:11` — align caption text tokens with spec
+- `2026-05-04 08:11` — fix missing italic weight token
+- `2026-05-04 08:11` — margin alignment
+- `2026-05-04 08:11` — dropdown menu update
+- `2026-05-04 08:11` — clean up form field error state styles
+- `2026-05-04 08:11` — hover state fix
+- `2026-05-04 08:11` — disabled state styling
+- `2026-05-04 08:11` — shadow refinement
+- `2026-05-04 08:11` — fix broken outline on focus for keyboard users
+- `2026-05-04 08:11` — clean up leftover debug border
+- `2026-05-04 08:11` — fix missing border on selected state
+- `2026-05-04 08:11` — remove jarring jump in accordion open
+- `2026-05-04 08:11` — screen reader label add
+- `2026-05-04 08:11` — aria attribute update
+- `2026-05-04 08:11` — add skip-to-content link tokens
+- `2026-05-04 08:11` — add high-visibility focus token for forced-colors mode
+- `2026-05-04 08:11` — flatten nested token structure for clarity
+- `2026-05-05 08:13` — move hardcoded values to tokens
+- `2026-05-05 08:13` — extract repeated values into shared base tokens
+- `2026-05-05 08:13` — update design token build script
+- `2026-05-05 08:13` — fix token export pipeline
+- `2026-05-05 08:13` — fix broken token transformer
+- `2026-05-05 08:13` — update README with latest token structure
+- `2026-05-05 08:13` — add token decision rationale to comments
+- `2026-05-05 08:13` — add responsive token breakpoints
+- `2026-05-05 08:13` — bump gray scale contrast levels
+- `2026-05-05 08:13` — update wordmark sizing token
+- `2026-05-05 08:13` — fix responsive type scale breakpoints
+- `2026-05-05 08:13` — audit spacing tokens for duplicate values
+- `2026-05-05 08:13` — tighten compact density spacing
+- `2026-05-05 08:13` — update page-level layout margins
+- `2026-05-05 08:14` — refine avatar sizing tokens
+- `2026-05-05 08:14` — focus ring update
+- `2026-05-05 08:14` — border radius update
+- `2026-05-05 08:14` — alignment correction
+- `2026-05-05 08:14` — normalize exit animation duration tokens
+- `2026-05-05 08:14` — tidy up token category groupings
+- `2026-05-05 08:14` — update Figma token sync config
+- `2026-05-05 08:14` — fix output path in token build config
+- `2026-05-05 08:14` — secondary palette refinement
+- `2026-05-05 08:14` — dark mode color tweak
+- `2026-05-05 08:14` — color palette expansion
+- `2026-05-05 08:14` — surface color update
+- `2026-05-05 08:14` — semantic color token fix
+- `2026-05-05 08:14` — tweak surface colors for better light-mode legibility
+- `2026-05-05 08:14` — brand spacing alignment
+- `2026-05-05 08:14` — brand asset refresh
+- `2026-05-05 08:14` — reconcile brand color with new creative direction
+- `2026-05-05 08:14` — typography scale update
+- `2026-05-05 08:14` — line height refinement
+- `2026-05-05 08:14` — normalize font stack across platforms
+- `2026-05-05 08:14` — update display heading tokens
+- `2026-05-05 08:14` — layout spacing refinement
+- `2026-05-05 08:14` — modal design update
+- `2026-05-05 08:14` — checkbox style refresh
+- `2026-05-05 08:14` — badge design update
+- `2026-05-05 08:14` — refresh skeleton loader animation timing
+- `2026-05-05 08:14` — fix inline alert padding
+- `2026-05-05 08:14` — tighten list item component spacing
+- `2026-05-05 08:14` — fix breadcrumb separator sizing
+- `2026-05-06 08:13` — z-index adjustment
+- `2026-05-06 08:13` — fix ghost button hover color
+- `2026-05-06 08:13` — patch off-by-one pixel alignment in grid
+- `2026-05-06 08:13` — patch inconsistent corner radius in form inputs
+- `2026-05-06 08:13` — transition easing change
+- `2026-05-06 08:13` — scroll animation fix
+- `2026-05-06 08:13` — smooth out tab transition timing
+- `2026-05-06 08:13` — refine easing curve on drawer slide
+- `2026-05-06 08:13` — update skeleton shimmer timing
+- `2026-05-06 08:13` — keyboard navigation fix
+- `2026-05-06 08:13` — improve color contrast on disabled text
+- `2026-05-06 08:13` — ensure touch target meets 44px minimum
+- `2026-05-06 08:13` — patch low-contrast placeholder text
+- `2026-05-06 08:13` — split color tokens into primitives and semantics
+- `2026-05-06 08:13` — normalize token key casing
+- `2026-05-06 08:13` — add usage examples to component tokens
+- `2026-05-06 08:13` — add high-contrast mode token set
+- `2026-05-06 08:13` — accent color adjustment
+- `2026-05-06 08:13` — color contrast fix
+- `2026-05-06 08:13` — update neutral palette to reflect new brand direction
+- `2026-05-06 08:13` — fix off-brand blue in CTA components
+- `2026-05-06 08:13` — patch inconsistent error color across states
+- `2026-05-06 08:13` — align info color with accessibility requirements
+- `2026-05-06 08:13` — brand token change
+- `2026-05-06 08:13` — brand font update
+- `2026-05-06 08:13` — brand guideline sync
+- `2026-05-06 08:13` — update logo sizing constraints
+- `2026-05-06 08:13` — align brand palette with updated guidelines
+- `2026-05-06 08:13` — refresh brand gradient values
+- `2026-05-06 08:13` — body text improvement
+- `2026-05-06 08:13` — bump body font size for readability
+- `2026-05-06 08:13` — padding consistency fix
+- `2026-05-06 08:13` — section spacing update
+- `2026-05-06 08:13` — button style update
+- `2026-05-06 08:13` — adjust chip component padding
+- `2026-05-06 08:13` — refine popover arrow token values
+- `2026-05-06 08:13` — update progress bar color tokens
+- `2026-05-07 08:00` — refine table row hover state tokens
+- `2026-05-07 08:00` — resolve visual glitch in dark mode
+- `2026-05-07 08:00` — fix broken transition on theme toggle
+- `2026-05-07 08:00` — animation duration update
+- `2026-05-07 08:00` — loading animation tweak
+- `2026-05-07 08:00` — add entrance animation for modal overlay
+- `2026-05-07 08:00` — fix bounce effect on toast notification
+- `2026-05-07 08:00` — accessibility contrast fix
+- `2026-05-07 08:00` — audit color pairs for WCAG AA compliance
+- `2026-05-07 08:00` — reorganize token file structure
+- `2026-05-07 08:00` — consolidate duplicate component tokens
+- `2026-05-07 08:00` — deduplicate shadow definitions
+- `2026-05-07 08:00` — update token documentation
+- `2026-05-07 08:00` — document dark mode token usage
+- `2026-05-07 08:00` — resolve token alias circular references
+- `2026-05-07 08:00` — sync token schema with style dictionary config
+- `2026-05-07 08:00` — add compact density token tier
+- `2026-05-07 08:00` — add focus token for custom components
+- `2026-05-07 08:00` — primary color update
+- `2026-05-07 08:00` — remap semantic color tokens to new primitives
+- `2026-05-07 08:00` — sync color tokens with latest Figma variables export
+- `2026-05-07 08:00` — adjust alpha values on overlay tokens
+- `2026-05-07 08:00` — refine success and warning color tokens
+- `2026-05-07 08:00` — update background color for elevated surfaces
+- `2026-05-07 08:00` — sync brand tokens with latest identity refresh
+- `2026-05-07 08:00` — pull latest brand variables from design system
+- `2026-05-07 08:00` — font weight adjustment
+- `2026-05-08 08:15` — heading hierarchy fix
+- `2026-05-08 08:15` — font family swap
+- `2026-05-08 08:15` — tighten heading line height for large screens
+- `2026-05-08 08:15` — update monospace font token
+- `2026-05-08 08:15` — add fluid type scale tokens
+- `2026-05-08 08:15` — spacing token update
+- `2026-05-08 08:15` — grid gap adjustment
+- `2026-05-08 08:15` — normalize spacing scale to 8pt grid
+- `2026-05-08 08:15` — fix inconsistent inner padding on form elements
+- `2026-05-08 08:15` — add missing spacing token for inline elements
+- `2026-05-08 08:15` — fix content spacing inside card variants
+- `2026-05-08 08:15` — align vertical rhythm tokens with type scale
+- `2026-05-08 08:15` — input field refinement
+- `2026-05-08 08:15` — card component update
+- `2026-05-08 08:15` — tooltip design tweak
+- `2026-05-08 08:15` — navigation styling fix
+- `2026-05-08 08:15` — tab component refinement
+- `2026-05-08 08:15` — fix icon size inconsistency in nav
+- `2026-05-08 08:15` — patch divider component thickness
+- `2026-05-08 08:15` — update switch component track tokens
+- `2026-05-08 08:15` — responsive layout tweak
+- `2026-05-08 08:15` — overflow fix
+- `2026-05-08 08:15` — visual regression fix
+- `2026-05-08 08:15` — patch stacking context issue in overlay
+- `2026-05-08 08:15` — resolve color bleed on adjacent components
+- `2026-05-08 08:15` — correct elevation token on sticky header
+- `2026-05-08 08:15` — micro-interaction refinement
+- `2026-05-08 08:15` — update stagger delay for list animations
+- `2026-05-08 08:15` — clean up token naming inconsistencies
+- `2026-05-08 08:15` — remove deprecated spacing tokens
+- `2026-05-08 08:15` — add token format checks to pre-commit
+- `2026-05-08 08:15` — document new color semantics
+- `2026-05-08 08:15` — update changelog format
+- `2026-05-08 08:15` — add inline docs to spacing scale
+- `2026-05-08 08:15` — add migration notes for renamed tokens
+- `2026-05-08 08:15` — export latest tokens from Figma
+- `2026-05-08 08:15` — add new surface token for overlay backgrounds
+- `2026-05-08 08:15` — patch broken token reference in components
+- `2026-05-08 08:15` — update link component underline style
+- `2026-05-08 08:15` — update stepper component tokens
+- `2026-05-08 08:15` — active state refinement
+- `2026-05-08 08:15` — correct misaligned icon in button component
+- `2026-05-08 08:15` — patch spacing regression from last merge
+- `2026-05-08 08:15` — fix clipped text in compact variant
+- `2026-05-08 08:15` — tune reduced-motion fallback tokens
+- `2026-05-08 08:15` — focus indicator update
+- `2026-05-08 08:15` — fix missing label on icon-only button
+- `2026-05-09 14:04` — update focus-visible styles for interactive elements
+- `2026-05-09 14:04` — rename tokens to match new naming convention
+- `2026-05-09 14:04` — improve token validation script
+- `2026-05-09 14:04` — brand color alignment
+- `2026-05-09 14:04` — letter spacing tweak
+- `2026-05-09 14:04` — audit and clean up unused type styles
+- `2026-05-09 14:04` — align caption text tokens with spec
+- `2026-05-09 14:04` — fix missing italic weight token
+- `2026-05-09 14:04` — margin alignment
+- `2026-05-09 14:04` — dropdown menu update
+- `2026-05-09 14:04` — clean up form field error state styles
+- `2026-05-09 14:04` — hover state fix
+- `2026-05-10 21:30` — disabled state styling
+- `2026-05-10 21:30` — shadow refinement
+- `2026-05-10 21:30` — fix broken outline on focus for keyboard users
+- `2026-05-10 21:30` — clean up leftover debug border
+- `2026-05-10 21:30` — fix missing border on selected state
+- `2026-05-10 21:30` — remove jarring jump in accordion open
+- `2026-05-10 21:30` — screen reader label add
+- `2026-05-10 21:30` — aria attribute update
+- `2026-05-10 21:30` — add skip-to-content link tokens
+- `2026-05-10 21:30` — add high-visibility focus token for forced-colors mode
+- `2026-05-10 21:30` — flatten nested token structure for clarity
+- `2026-05-10 21:30` — bump token schema version
+- `2026-05-10 21:30` — clean up generated output artifacts
+- `2026-05-10 21:30` — update style dictionary config
+- `2026-05-10 21:30` — document token alias conventions
+- `2026-05-10 21:30` — add missing dark mode token variants
+- `2026-05-10 21:30` — update token output format to CSS variables
+- `2026-05-10 21:30` — wire up new semantic elevation tokens
+- `2026-05-10 21:30` — secondary palette refinement
+- `2026-05-10 21:30` — dark mode color tweak
+- `2026-05-10 21:30` — color palette expansion
+- `2026-05-10 21:30` — surface color update
+- `2026-05-10 21:30` — semantic color token fix
+- `2026-05-10 21:30` — tweak surface colors for better light-mode legibility
+- `2026-05-10 21:30` — bump gray scale contrast levels
+- `2026-05-10 21:30` — brand spacing alignment
+- `2026-05-10 21:30` — brand asset refresh
+- `2026-05-11 08:16` — update wordmark sizing token
+- `2026-05-11 08:16` — reconcile brand color with new creative direction
+- `2026-05-11 08:16` — typography scale update
+- `2026-05-11 08:16` — line height refinement
+- `2026-05-11 08:16` — normalize font stack across platforms
+- `2026-05-11 08:16` — fix responsive type scale breakpoints
+- `2026-05-11 08:16` — update display heading tokens
+- `2026-05-11 08:16` — layout spacing refinement
+- `2026-05-11 08:17` — audit spacing tokens for duplicate values
+- `2026-05-11 08:17` — tighten compact density spacing
+- `2026-05-11 08:17` — update page-level layout margins
+- `2026-05-11 08:17` — modal design update
+- `2026-05-11 08:17` — checkbox style refresh
+- `2026-05-11 08:17` — badge design update
+- `2026-05-11 08:17` — refine avatar sizing tokens
+- `2026-05-11 08:17` — refresh skeleton loader animation timing
+- `2026-05-11 08:17` — fix inline alert padding
+- `2026-05-11 08:17` — tighten list item component spacing
+- `2026-05-11 08:17` — fix breadcrumb separator sizing
+- `2026-05-11 08:17` — focus ring update
+- `2026-05-11 08:17` — border radius update
+- `2026-05-11 08:17` — alignment correction
+- `2026-05-11 08:17` — normalize exit animation duration tokens
+- `2026-05-13 08:15` — move hardcoded values to tokens
+- `2026-05-13 08:15` — extract repeated values into shared base tokens
+- `2026-05-13 08:15` — tidy up token category groupings
+- `2026-05-13 08:15` — update design token build script
+- `2026-05-13 08:15` — fix token export pipeline
+- `2026-05-13 08:15` — update Figma token sync config
+- `2026-05-13 08:15` — fix broken token transformer
+- `2026-05-13 08:16` — fix output path in token build config
+- `2026-05-13 08:16` — update README with latest token structure
+- `2026-05-13 08:16` — add token decision rationale to comments
+- `2026-05-13 08:16` — add responsive token breakpoints
+- `2026-05-13 08:16` — accent color adjustment
+- `2026-05-13 08:16` — color contrast fix
+- `2026-05-13 08:16` — update neutral palette to reflect new brand direction
+- `2026-05-13 08:16` — fix off-brand blue in CTA components
+- `2026-05-13 08:16` — patch inconsistent error color across states
+- `2026-05-13 08:16` — align info color with accessibility requirements
+- `2026-05-13 08:16` — brand token change
+- `2026-05-13 08:16` — brand font update
+- `2026-05-13 08:16` — brand guideline sync
+- `2026-05-13 08:16` — update logo sizing constraints
+- `2026-05-13 08:16` — align brand palette with updated guidelines
+- `2026-05-13 08:16` — refresh brand gradient values
+- `2026-05-13 08:16` — body text improvement
+- `2026-05-13 08:16` — bump body font size for readability
+- `2026-05-13 08:16` — padding consistency fix
+- `2026-05-13 08:16` — section spacing update
+- `2026-05-13 08:16` — button style update
+- `2026-05-13 08:16` — adjust chip component padding
+- `2026-05-13 08:16` — refine popover arrow token values
+- `2026-05-13 08:16` — update progress bar color tokens
+- `2026-05-13 08:16` — z-index adjustment
+- `2026-05-13 08:16` — fix ghost button hover color
+- `2026-05-13 08:16` — patch off-by-one pixel alignment in grid
+- `2026-05-13 08:16` — patch inconsistent corner radius in form inputs
+- `2026-05-13 08:16` — transition easing change
+- `2026-05-13 08:16` — scroll animation fix
+- `2026-05-14 08:15` — smooth out tab transition timing
+- `2026-05-14 08:15` — refine easing curve on drawer slide
+- `2026-05-14 08:15` — update skeleton shimmer timing
+- `2026-05-14 08:15` — keyboard navigation fix
+- `2026-05-14 08:15` — improve color contrast on disabled text
+- `2026-05-14 08:15` — ensure touch target meets 44px minimum
+- `2026-05-14 08:15` — patch low-contrast placeholder text
+- `2026-05-14 08:15` — split color tokens into primitives and semantics
+- `2026-05-14 08:15` — normalize token key casing
+- `2026-05-14 08:15` — add usage examples to component tokens
+- `2026-05-14 08:15` — add high-contrast mode token set
+- `2026-05-14 08:15` — primary color update
+- `2026-05-14 08:15` — remap semantic color tokens to new primitives
+- `2026-05-14 08:15` — sync color tokens with latest Figma variables export
+- `2026-05-14 08:15` — adjust alpha values on overlay tokens
+- `2026-05-14 08:15` — refine success and warning color tokens
+- `2026-05-14 08:15` — update background color for elevated surfaces
+- `2026-05-14 08:15` — sync brand tokens with latest identity refresh
+- `2026-05-14 08:15` — pull latest brand variables from design system
+- `2026-05-14 08:15` — font weight adjustment
+- `2026-05-14 08:15` — refine table row hover state tokens
+- `2026-05-14 08:15` — resolve visual glitch in dark mode
+- `2026-05-14 08:15` — fix broken transition on theme toggle
+- `2026-05-14 08:16` — animation duration update
+- `2026-05-14 08:16` — loading animation tweak
+- `2026-05-14 08:16` — add entrance animation for modal overlay
+- `2026-05-14 08:16` — fix bounce effect on toast notification
+- `2026-05-14 08:16` — accessibility contrast fix
+- `2026-05-15 08:15` — audit color pairs for WCAG AA compliance
+- `2026-05-15 08:15` — reorganize token file structure
+- `2026-05-15 08:15` — consolidate duplicate component tokens
+- `2026-05-15 08:15` — deduplicate shadow definitions
+- `2026-05-15 08:15` — update token documentation
+- `2026-05-15 08:15` — document dark mode token usage
+- `2026-05-15 08:15` — resolve token alias circular references
+- `2026-05-15 08:15` — sync token schema with style dictionary config
+- `2026-05-15 08:15` — add compact density token tier
+- `2026-05-15 08:15` — add focus token for custom components
+- `2026-05-15 08:15` — heading hierarchy fix
+- `2026-05-15 08:15` — font family swap
+- `2026-05-15 08:15` — tighten heading line height for large screens
+- `2026-05-15 08:15` — update monospace font token
+- `2026-05-15 08:15` — add fluid type scale tokens
+- `2026-05-15 08:15` — spacing token update
+- `2026-05-15 08:15` — grid gap adjustment
+- `2026-05-15 08:15` — normalize spacing scale to 8pt grid
+- `2026-05-15 08:15` — fix inconsistent inner padding on form elements
+- `2026-05-15 08:15` — add missing spacing token for inline elements
+- `2026-05-15 08:15` — fix content spacing inside card variants
+- `2026-05-15 08:15` — align vertical rhythm tokens with type scale
+- `2026-05-15 08:15` — input field refinement
+- `2026-05-15 08:15` — card component update
+- `2026-05-15 08:15` — tooltip design tweak
+- `2026-05-15 08:15` — navigation styling fix
+- `2026-05-15 08:15` — tab component refinement
+- `2026-05-15 08:15` — update link component underline style
+- `2026-05-15 08:15` — fix icon size inconsistency in nav
+- `2026-05-15 08:15` — update stepper component tokens
+- `2026-05-15 08:15` — patch divider component thickness
+- `2026-05-15 08:15` — update switch component track tokens
+- `2026-05-15 08:15` — active state refinement
+- `2026-05-15 08:15` — responsive layout tweak
+- `2026-05-15 08:15` — overflow fix
+- `2026-05-15 08:15` — visual regression fix
+- `2026-05-15 08:15` — patch stacking context issue in overlay
+- `2026-05-16 15:48` — correct misaligned icon in button component
+- `2026-05-16 15:48` — patch spacing regression from last merge
+- `2026-05-16 15:48` — fix clipped text in compact variant
+- `2026-05-16 15:48` — resolve color bleed on adjacent components
+- `2026-05-16 15:48` — correct elevation token on sticky header
+- `2026-05-16 15:48` — micro-interaction refinement
+- `2026-05-16 15:48` — update stagger delay for list animations
+- `2026-05-16 15:48` — tune reduced-motion fallback tokens
+- `2026-05-16 15:48` — focus indicator update
+- `2026-05-16 15:48` — fix missing label on icon-only button
+- `2026-05-16 15:48` — clean up token naming inconsistencies
+- `2026-05-16 15:48` — remove deprecated spacing tokens
+- `2026-05-16 15:48` — add token format checks to pre-commit
+- `2026-05-16 15:48` — document new color semantics
+- `2026-05-16 15:48` — update changelog format
+- `2026-05-16 15:48` — add inline docs to spacing scale
+- `2026-05-16 15:48` — add migration notes for renamed tokens
+- `2026-05-16 15:48` — export latest tokens from Figma
+- `2026-05-16 15:48` — add new surface token for overlay backgrounds
+- `2026-05-16 15:48` — patch broken token reference in components
+- `2026-05-16 15:48` — brand color alignment
+- `2026-05-16 15:48` — letter spacing tweak
+- `2026-05-16 15:48` — audit and clean up unused type styles
+- `2026-05-16 15:48` — align caption text tokens with spec
+- `2026-05-16 15:48` — fix missing italic weight token
+- `2026-05-16 15:48` — margin alignment
+- `2026-05-16 15:48` — dropdown menu update
+- `2026-05-16 15:48` — clean up form field error state styles
+- `2026-05-16 15:48` — hover state fix
+- `2026-05-16 15:48` — update focus-visible styles for interactive elements
+- `2026-05-16 15:48` — rename tokens to match new naming convention
+- `2026-05-16 15:48` — improve token validation script
+- `2026-05-16 15:48` — secondary palette refinement
+- `2026-05-16 15:48` — dark mode color tweak
+- `2026-05-16 15:48` — color palette expansion
+- `2026-05-16 15:48` — surface color update
+- `2026-05-16 15:48` — semantic color token fix
+- `2026-05-16 15:48` — tweak surface colors for better light-mode legibility
+- `2026-05-16 15:48` — bump gray scale contrast levels
+- `2026-05-16 15:48` — brand spacing alignment
+- `2026-05-16 15:48` — brand asset refresh
+- `2026-05-16 15:48` — disabled state styling
+- `2026-05-16 15:48` — shadow refinement
+- `2026-05-16 15:48` — fix broken outline on focus for keyboard users
+- `2026-05-16 15:48` — clean up leftover debug border
+- `2026-05-16 15:48` — fix missing border on selected state
+- `2026-05-16 15:48` — remove jarring jump in accordion open
+- `2026-05-16 15:48` — screen reader label add
+- `2026-05-16 15:48` — aria attribute update
+- `2026-05-16 15:48` — add skip-to-content link tokens
+- `2026-05-16 15:48` — add high-visibility focus token for forced-colors mode
+- `2026-05-16 15:48` — flatten nested token structure for clarity
+- `2026-05-16 15:48` — bump token schema version
+- `2026-05-16 15:48` — clean up generated output artifacts
+- `2026-05-16 15:48` — update style dictionary config
+- `2026-05-16 15:48` — document token alias conventions
+- `2026-05-16 15:48` — add missing dark mode token variants
+- `2026-05-16 15:48` — update token output format to CSS variables
+- `2026-05-16 15:48` — wire up new semantic elevation tokens
+- `2026-05-16 15:48` — update wordmark sizing token
+- `2026-05-16 15:48` — reconcile brand color with new creative direction
+- `2026-05-16 15:48` — typography scale update
+- `2026-05-16 15:48` — line height refinement
+- `2026-05-16 15:48` — normalize font stack across platforms
+- `2026-05-17 23:11` — fix responsive type scale breakpoints
+- `2026-05-17 23:11` — update display heading tokens
+- `2026-05-17 23:11` — layout spacing refinement
+- `2026-05-17 23:11` — audit spacing tokens for duplicate values
+- `2026-05-17 23:11` — tighten compact density spacing
+- `2026-05-17 23:11` — update page-level layout margins
+- `2026-05-17 23:11` — modal design update
+- `2026-05-17 23:11` — checkbox style refresh
+- `2026-05-17 23:11` — badge design update
+- `2026-05-17 23:11` — refine avatar sizing tokens
+- `2026-05-17 23:11` — refresh skeleton loader animation timing
+- `2026-05-17 23:11` — fix inline alert padding
+- `2026-05-17 23:11` — tighten list item component spacing
+- `2026-05-17 23:11` — fix breadcrumb separator sizing
+- `2026-05-17 23:11` — focus ring update
+- `2026-05-17 23:11` — border radius update
+- `2026-05-17 23:11` — alignment correction
+- `2026-05-17 23:11` — normalize exit animation duration tokens
+- `2026-05-17 23:11` — accent color adjustment
+- `2026-05-17 23:11` — color contrast fix
+- `2026-05-17 23:11` — update neutral palette to reflect new brand direction
+- `2026-05-17 23:11` — fix off-brand blue in CTA components
+- `2026-05-17 23:11` — patch inconsistent error color across states
+- `2026-05-17 23:11` — align info color with accessibility requirements
+- `2026-05-17 23:11` — brand token change
+- `2026-05-17 23:11` — brand font update
+- `2026-05-17 23:11` — brand guideline sync
+- `2026-05-17 23:11` — update logo sizing constraints
+- `2026-05-17 23:11` — align brand palette with updated guidelines
+- `2026-05-17 23:11` — refresh brand gradient values
+- `2026-05-17 23:11` — body text improvement
+- `2026-05-17 23:11` — bump body font size for readability
+- `2026-05-17 23:11` — padding consistency fix
+- `2026-05-17 23:11` — section spacing update
+- `2026-05-17 23:11` — button style update
+- `2026-05-17 23:11` — adjust chip component padding
+- `2026-05-17 23:11` — refine popover arrow token values
+- `2026-05-17 23:11` — update progress bar color tokens
+- `2026-05-17 23:11` — z-index adjustment
+- `2026-05-17 23:11` — fix ghost button hover color
+- `2026-05-17 23:11` — patch off-by-one pixel alignment in grid
+- `2026-05-17 23:11` — patch inconsistent corner radius in form inputs
+- `2026-05-17 23:11` — transition easing change
+- `2026-05-17 23:11` — scroll animation fix
+- `2026-05-17 23:11` — move hardcoded values to tokens
+- `2026-05-17 23:11` — extract repeated values into shared base tokens
+- `2026-05-17 23:11` — tidy up token category groupings
+- `2026-05-17 23:11` — update design token build script
+- `2026-05-18 08:16` — fix token export pipeline
+- `2026-05-18 08:16` — update Figma token sync config
+- `2026-05-18 08:16` — fix broken token transformer
+- `2026-05-18 08:16` — fix output path in token build config
+- `2026-05-18 08:16` — update README with latest token structure
+- `2026-05-18 08:16` — add token decision rationale to comments
+- `2026-05-18 08:16` — add responsive token breakpoints
+- `2026-05-18 08:16` — primary color update
+- `2026-05-18 08:16` — remap semantic color tokens to new primitives
+- `2026-05-18 08:16` — sync color tokens with latest Figma variables export
+- `2026-05-18 08:16` — adjust alpha values on overlay tokens
+- `2026-05-18 08:16` — refine success and warning color tokens
+- `2026-05-18 08:16` — update background color for elevated surfaces
+- `2026-05-18 08:16` — sync brand tokens with latest identity refresh
+- `2026-05-18 08:16` — pull latest brand variables from design system
+- `2026-05-18 08:16` — font weight adjustment
+- `2026-05-18 08:16` — refine table row hover state tokens
+- `2026-05-18 08:16` — resolve visual glitch in dark mode
+- `2026-05-18 08:16` — fix broken transition on theme toggle
+- `2026-05-18 08:16` — animation duration update
+- `2026-05-18 08:16` — loading animation tweak
+- `2026-05-18 08:16` — add entrance animation for modal overlay
+- `2026-05-18 08:16` — smooth out tab transition timing
+- `2026-05-18 08:16` — refine easing curve on drawer slide
+- `2026-05-18 08:16` — fix bounce effect on toast notification
+- `2026-05-18 08:16` — update skeleton shimmer timing
+- `2026-05-18 08:16` — accessibility contrast fix
+- `2026-05-18 08:16` — keyboard navigation fix
+- `2026-05-19 21:18` — improve color contrast on disabled text
+- `2026-05-19 21:18` — ensure touch target meets 44px minimum
+- `2026-05-19 21:18` — patch low-contrast placeholder text
+- `2026-05-19 21:18` — split color tokens into primitives and semantics
+- `2026-05-19 21:18` — normalize token key casing
+- `2026-05-19 21:18` — add usage examples to component tokens
+- `2026-05-19 21:18` — add high-contrast mode token set
+- `2026-05-19 21:18` — heading hierarchy fix
+- `2026-05-19 21:18` — font family swap
+- `2026-05-19 21:18` — tighten heading line height for large screens
+- `2026-05-19 21:18` — update monospace font token
+- `2026-05-19 21:18` — add fluid type scale tokens
+- `2026-05-19 21:18` — spacing token update
+- `2026-05-19 21:18` — grid gap adjustment
+- `2026-05-19 21:18` — normalize spacing scale to 8pt grid
+- `2026-05-19 21:18` — fix inconsistent inner padding on form elements
+- `2026-05-19 21:18` — add missing spacing token for inline elements
+- `2026-05-19 21:18` — fix content spacing inside card variants
+- `2026-05-19 21:18` — align vertical rhythm tokens with type scale
+- `2026-05-19 21:18` — input field refinement
+- `2026-05-19 21:18` — card component update
+- `2026-05-19 21:18` — tooltip design tweak
+- `2026-05-19 21:18` — navigation styling fix
+- `2026-05-19 21:18` — tab component refinement
+- `2026-05-19 21:18` — update link component underline style
+- `2026-05-19 21:18` — fix icon size inconsistency in nav
+- `2026-05-19 21:18` — update stepper component tokens
+- `2026-05-19 21:18` — patch divider component thickness
+- `2026-05-19 21:18` — update switch component track tokens
+- `2026-05-19 21:18` — active state refinement
+- `2026-05-19 21:19` — responsive layout tweak
+- `2026-05-19 21:19` — overflow fix
+- `2026-05-19 21:19` — visual regression fix
+- `2026-05-19 21:19` — patch stacking context issue in overlay
+- `2026-05-19 21:19` — audit color pairs for WCAG AA compliance
+- `2026-05-19 21:19` — reorganize token file structure
+- `2026-05-19 21:19` — consolidate duplicate component tokens
+- `2026-05-19 21:19` — deduplicate shadow definitions
+- `2026-05-19 21:19` — update token documentation
+- `2026-05-19 21:19` — document dark mode token usage
+- `2026-05-19 21:19` — resolve token alias circular references
+- `2026-05-19 21:19` — sync token schema with style dictionary config
+- `2026-05-19 21:19` — add compact density token tier
+- `2026-05-20 10:20` — add focus token for custom components
+- `2026-05-20 10:20` — secondary palette refinement
+- `2026-05-20 10:20` — dark mode color tweak
+- `2026-05-20 10:20` — color palette expansion
+- `2026-05-20 10:20` — brand color alignment
+- `2026-05-20 10:20` — surface color update
+- `2026-05-20 10:20` — semantic color token fix
+- `2026-05-20 10:20` — tweak surface colors for better light-mode legibility
+- `2026-05-20 10:20` — bump gray scale contrast levels
+- `2026-05-20 10:20` — brand spacing alignment
+- `2026-05-20 10:20` — brand asset refresh
+- `2026-05-20 10:20` — update wordmark sizing token
+- `2026-05-20 10:20` — reconcile brand color with new creative direction
+- `2026-05-20 10:20` — typography scale update
+- `2026-05-20 10:20` — line height refinement
+- `2026-05-20 10:20` — letter spacing tweak
+- `2026-05-20 10:20` — normalize font stack across platforms
+- `2026-05-20 10:20` — audit and clean up unused type styles
+- `2026-05-20 10:20` — align caption text tokens with spec
+- `2026-05-20 10:20` — fix missing italic weight token
+- `2026-05-20 10:20` — margin alignment
+- `2026-05-20 10:20` — dropdown menu update
+- `2026-05-20 10:20` — clean up form field error state styles
+- `2026-05-20 10:20` — hover state fix
+- `2026-05-20 10:20` — disabled state styling
+- `2026-05-20 10:20` — shadow refinement
+- `2026-05-20 10:20` — fix broken outline on focus for keyboard users
+- `2026-05-20 10:20` — correct misaligned icon in button component
+- `2026-05-20 10:20` — patch spacing regression from last merge
+- `2026-05-20 10:20` — clean up leftover debug border
+- `2026-05-20 10:20` — fix clipped text in compact variant
+- `2026-05-20 10:20` — resolve color bleed on adjacent components
+- `2026-05-20 10:20` — fix missing border on selected state
+- `2026-05-20 10:20` — correct elevation token on sticky header
+- `2026-05-20 10:20` — micro-interaction refinement
+- `2026-05-20 10:20` — remove jarring jump in accordion open
+- `2026-05-20 10:20` — update stagger delay for list animations
+- `2026-05-20 10:20` — add focus token for custom components
+- `2026-05-20 10:20` — secondary palette refinement
+- `2026-05-20 10:20` — dark mode color tweak
+- `2026-05-20 10:20` — color palette expansion
+- `2026-05-20 10:20` — brand color alignment
+- `2026-05-20 10:20` — surface color update
+- `2026-05-20 10:20` — semantic color token fix
+- `2026-05-20 10:20` — tweak surface colors for better light-mode legibility
+- `2026-05-20 10:20` — bump gray scale contrast levels
+- `2026-05-20 10:20` — brand spacing alignment
+- `2026-05-20 10:20` — brand asset refresh
+- `2026-05-20 10:21` — update wordmark sizing token
+- `2026-05-22 08:22` — reconcile brand color with new creative direction
+- `2026-05-22 08:22` — typography scale update
+- `2026-05-22 08:22` — line height refinement
+- `2026-05-22 08:22` — letter spacing tweak
+- `2026-05-22 08:22` — normalize font stack across platforms
+- `2026-05-22 08:22` — audit and clean up unused type styles
+- `2026-05-22 08:22` — align caption text tokens with spec
+- `2026-05-22 08:22` — fix missing italic weight token
+- `2026-05-22 08:22` — margin alignment
+- `2026-05-22 08:22` — dropdown menu update
+- `2026-05-22 08:22` — clean up form field error state styles
+- `2026-05-22 08:22` — hover state fix
+- `2026-05-22 08:22` — disabled state styling
+- `2026-05-22 08:22` — shadow refinement
+- `2026-05-22 08:22` — fix broken outline on focus for keyboard users
+- `2026-05-22 08:22` — correct misaligned icon in button component
+- `2026-05-22 08:22` — patch spacing regression from last merge
+- `2026-05-22 08:22` — clean up leftover debug border
+- `2026-05-22 08:22` — fix clipped text in compact variant
+- `2026-05-22 08:22` — resolve color bleed on adjacent components
+- `2026-05-22 08:22` — fix missing border on selected state
+- `2026-05-22 08:22` — correct elevation token on sticky header
+- `2026-05-22 08:22` — micro-interaction refinement
+- `2026-05-22 08:22` — remove jarring jump in accordion open
+- `2026-05-22 08:22` — update stagger delay for list animations
+- `2026-05-22 08:22` — tune reduced-motion fallback tokens
+- `2026-05-22 08:22` — focus indicator update
+- `2026-05-22 08:22` — screen reader label add
+- `2026-05-26 10:46` — aria attribute update
+- `2026-05-26 10:46` — add skip-to-content link tokens
+- `2026-05-26 10:46` — fix missing label on icon-only button
+- `2026-05-26 10:46` — update focus-visible styles for interactive elements
+- `2026-05-26 10:46` — add high-visibility focus token for forced-colors mode
+- `2026-05-26 10:46` — clean up token naming inconsistencies
+- `2026-05-26 10:46` — remove deprecated spacing tokens
+- `2026-05-26 10:46` — rename tokens to match new naming convention
+- `2026-05-26 10:46` — flatten nested token structure for clarity
+- `2026-05-26 10:46` — improve token validation script
+- `2026-05-26 10:46` — bump token schema version
+- `2026-05-26 10:46` — add token format checks to pre-commit
+- `2026-05-26 10:46` — clean up generated output artifacts
+- `2026-05-26 10:46` — update style dictionary config
+- `2026-05-26 10:46` — document new color semantics
+- `2026-05-26 10:46` — update changelog format
+- `2026-05-26 10:46` — add inline docs to spacing scale
+- `2026-05-26 10:46` — document token alias conventions
+- `2026-05-26 10:46` — add migration notes for renamed tokens
+- `2026-05-26 10:46` — export latest tokens from Figma
+- `2026-05-26 10:46` — add missing dark mode token variants
+- `2026-05-26 10:46` — add new surface token for overlay backgrounds
+- `2026-05-26 10:46` — patch broken token reference in components
+- `2026-05-26 10:46` — update token output format to CSS variables
+- `2026-05-26 10:46` — wire up new semantic elevation tokens
+- `2026-05-26 10:46` — accent color adjustment
+- `2026-05-26 10:46` — color contrast fix
+- `2026-05-26 10:46` — update neutral palette to reflect new brand direction
+- `2026-05-26 10:46` — fix off-brand blue in CTA components
+- `2026-05-26 10:46` — patch inconsistent error color across states
+- `2026-05-26 10:46` — align info color with accessibility requirements
+- `2026-05-26 10:46` — brand token change
+- `2026-05-26 10:46` — brand font update
+- `2026-05-26 10:46` — brand guideline sync
+- `2026-05-26 10:46` — update logo sizing constraints
+- `2026-05-26 10:46` — align brand palette with updated guidelines
+- `2026-05-26 10:46` — refresh brand gradient values
+- `2026-05-28 07:14` — body text improvement
+- `2026-05-28 07:14` — fix responsive type scale breakpoints
+- `2026-05-28 07:14` — update display heading tokens
+- `2026-05-28 07:14` — bump body font size for readability
+- `2026-05-28 07:14` — padding consistency fix
+- `2026-05-28 07:14` — layout spacing refinement
+- `2026-05-28 07:14` — section spacing update
+- `2026-05-28 07:14` — audit spacing tokens for duplicate values
+- `2026-05-28 07:14` — tighten compact density spacing
+- `2026-05-28 07:14` — update page-level layout margins
+- `2026-05-28 07:14` — button style update
+- `2026-05-28 07:14` — modal design update
+- `2026-05-28 07:14` — checkbox style refresh
+- `2026-05-28 07:14` — badge design update
+- `2026-05-28 07:14` — refine avatar sizing tokens
+- `2026-05-28 07:14` — refresh skeleton loader animation timing
+- `2026-05-28 07:14` — adjust chip component padding
+- `2026-05-28 07:14` — fix inline alert padding
+- `2026-05-28 07:14` — refine popover arrow token values
+- `2026-05-28 07:14` — update progress bar color tokens
+- `2026-05-28 07:14` — tighten list item component spacing
+- `2026-05-28 07:14` — fix breadcrumb separator sizing
+- `2026-05-28 07:14` — focus ring update
+- `2026-05-28 07:14` — border radius update
+- `2026-05-28 07:14` — z-index adjustment
+- `2026-05-28 07:14` — alignment correction
+- `2026-05-28 07:14` — fix ghost button hover color
+- `2026-05-29 08:16` — patch off-by-one pixel alignment in grid
+- `2026-05-29 08:16` — patch inconsistent corner radius in form inputs
+- `2026-05-29 08:16` — transition easing change
+- `2026-05-29 08:16` — scroll animation fix
+- `2026-05-29 08:16` — normalize exit animation duration tokens
+- `2026-05-29 08:16` — move hardcoded values to tokens
+- `2026-05-29 08:16` — extract repeated values into shared base tokens
+- `2026-05-29 08:16` — tidy up token category groupings
+- `2026-05-29 08:16` — update design token build script
+- `2026-05-29 08:16` — primary color update
+- `2026-05-29 08:16` — remap semantic color tokens to new primitives
+- `2026-05-29 08:16` — sync color tokens with latest Figma variables export
+- `2026-05-29 08:16` — adjust alpha values on overlay tokens
+- `2026-05-29 08:16` — refine success and warning color tokens
+- `2026-05-29 08:16` — update background color for elevated surfaces
+- `2026-05-29 08:16` — sync brand tokens with latest identity refresh
+- `2026-05-29 08:16` — pull latest brand variables from design system
+- `2026-05-29 08:16` — font weight adjustment
+- `2026-05-29 08:16` — refine table row hover state tokens
+- `2026-05-29 08:16` — resolve visual glitch in dark mode
+- `2026-05-29 08:16` — fix broken transition on theme toggle
+- `2026-05-29 08:16` — animation duration update
+- `2026-05-29 08:16` — loading animation tweak
+- `2026-05-29 08:16` — add entrance animation for modal overlay
+- `2026-05-29 08:16` — smooth out tab transition timing
+- `2026-05-29 08:16` — refine easing curve on drawer slide
+- `2026-05-29 08:16` — fix bounce effect on toast notification
+- `2026-06-01 12:12` — update skeleton shimmer timing
+- `2026-06-01 12:12` — accessibility contrast fix
+- `2026-06-01 12:12` — keyboard navigation fix
+- `2026-06-01 12:12` — fix token export pipeline
+- `2026-06-01 12:12` — update Figma token sync config
+- `2026-06-01 12:12` — fix broken token transformer
+- `2026-06-01 12:12` — fix output path in token build config
+- `2026-06-01 12:12` — update README with latest token structure
+- `2026-06-01 12:12` — add token decision rationale to comments
+- `2026-06-01 12:12` — add responsive token breakpoints
+- `2026-06-01 12:12` — heading hierarchy fix
+- `2026-06-01 12:12` — font family swap
+- `2026-06-01 12:12` — tighten heading line height for large screens
+- `2026-06-01 12:12` — update monospace font token
+- `2026-06-01 12:12` — add fluid type scale tokens
+- `2026-06-01 12:12` — spacing token update
+- `2026-06-01 12:12` — grid gap adjustment
+- `2026-06-01 12:12` — normalize spacing scale to 8pt grid
+- `2026-06-01 12:12` — fix inconsistent inner padding on form elements
+- `2026-06-01 12:12` — add missing spacing token for inline elements
+- `2026-06-01 12:12` — fix content spacing inside card variants
+- `2026-06-01 12:12` — align vertical rhythm tokens with type scale
+- `2026-06-01 12:12` — input field refinement
+- `2026-06-01 12:12` — card component update
+- `2026-06-01 12:12` — tooltip design tweak
+- `2026-06-03 16:04` — navigation styling fix
+- `2026-06-03 16:04` — tab component refinement
+- `2026-06-03 16:04` — update link component underline style
+- `2026-06-03 16:04` — fix icon size inconsistency in nav
+- `2026-06-03 16:04` — update stepper component tokens
+- `2026-06-03 16:04` — patch divider component thickness
+- `2026-06-03 16:04` — update switch component track tokens
+- `2026-06-03 16:04` — active state refinement
+- `2026-06-03 16:04` — responsive layout tweak
+- `2026-06-03 16:04` — overflow fix
+- `2026-06-03 16:04` — visual regression fix
+- `2026-06-03 16:04` — patch stacking context issue in overlay
+- `2026-06-03 16:04` — improve color contrast on disabled text
+- `2026-06-03 16:04` — ensure touch target meets 44px minimum
+- `2026-06-03 16:04` — audit color pairs for WCAG AA compliance
+- `2026-06-03 16:04` — patch low-contrast placeholder text
+- `2026-06-03 16:04` — reorganize token file structure
+- `2026-06-03 16:04` — consolidate duplicate component tokens
+- `2026-06-03 16:04` — split color tokens into primitives and semantics
+- `2026-06-03 16:04` — deduplicate shadow definitions
+- `2026-06-03 16:04` — normalize token key casing
+- `2026-06-03 16:04` — update token documentation
+- `2026-06-03 16:04` — add usage examples to component tokens
+- `2026-06-03 16:04` — document dark mode token usage
+- `2026-06-03 16:04` — resolve token alias circular references
+- `2026-06-03 16:04` — add high-contrast mode token set
+- `2026-06-03 16:04` — sync token schema with style dictionary config
+- `2026-06-03 16:04` — add compact density token tier
+- `2026-06-03 16:04` — secondary palette refinement
+- `2026-06-03 16:04` — dark mode color tweak
+- `2026-06-03 16:04` — color palette expansion
+- `2026-06-03 16:04` — brand color alignment
+- `2026-06-03 16:04` — surface color update
+- `2026-06-03 16:04` — semantic color token fix
+- `2026-06-03 16:04` — tweak surface colors for better light-mode legibility
+- `2026-06-03 16:04` — bump gray scale contrast levels
+- `2026-06-03 16:04` — brand spacing alignment
+- `2026-06-03 16:04` — brand asset refresh
+- `2026-06-04 16:35` — update wordmark sizing token
+- `2026-06-04 16:35` — add focus token for custom components
+- `2026-06-04 16:35` — reconcile brand color with new creative direction
+- `2026-06-04 16:35` — typography scale update
+- `2026-06-04 16:35` — line height refinement
+- `2026-06-04 16:35` — letter spacing tweak
+- `2026-06-04 16:35` — normalize font stack across platforms
+- `2026-06-04 16:35` — audit and clean up unused type styles
+- `2026-06-04 16:35` — align caption text tokens with spec
+- `2026-06-04 16:35` — fix missing italic weight token
+- `2026-06-04 16:35` — margin alignment
+- `2026-06-04 16:35` — dropdown menu update
+- `2026-06-04 16:35` — clean up form field error state styles
+- `2026-06-04 16:35` — hover state fix
+- `2026-06-04 16:35` — disabled state styling
+- `2026-06-04 16:35` — shadow refinement
+- `2026-06-04 16:35` — fix broken outline on focus for keyboard users
+- `2026-06-04 16:35` — correct misaligned icon in button component
+- `2026-06-04 16:35` — patch spacing regression from last merge
+- `2026-06-04 16:35` — clean up leftover debug border
+- `2026-06-04 16:35` — fix clipped text in compact variant
+- `2026-06-04 16:35` — resolve color bleed on adjacent components
+- `2026-06-04 16:35` — fix missing border on selected state
+- `2026-06-04 16:35` — correct elevation token on sticky header
+- `2026-06-04 16:35` — micro-interaction refinement
+- `2026-06-04 16:35` — remove jarring jump in accordion open
+- `2026-06-04 16:35` — update stagger delay for list animations
+- `2026-06-04 16:35` — tune reduced-motion fallback tokens
+- `2026-06-04 16:35` — focus indicator update
+- `2026-06-04 16:35` — screen reader label add
+- `2026-06-04 16:35` — accent color adjustment
+- `2026-06-04 16:35` — color contrast fix
+- `2026-06-04 16:35` — update neutral palette to reflect new brand direction
+- `2026-06-04 16:35` — fix off-brand blue in CTA components
+- `2026-06-04 16:35` — patch inconsistent error color across states
+- `2026-06-04 16:35` — align info color with accessibility requirements
+- `2026-06-04 16:35` — brand token change
+- `2026-06-05 21:55` — brand font update
+- `2026-06-05 21:55` — brand guideline sync
+- `2026-06-05 21:55` — update logo sizing constraints
+- `2026-06-05 21:55` — align brand palette with updated guidelines
+- `2026-06-05 21:55` — refresh brand gradient values
+- `2026-06-05 21:55` — aria attribute update
+- `2026-06-05 21:55` — add skip-to-content link tokens
+- `2026-06-05 21:55` — fix missing label on icon-only button
+- `2026-06-05 21:55` — update focus-visible styles for interactive elements
+- `2026-06-05 21:55` — add high-visibility focus token for forced-colors mode
+- `2026-06-05 21:55` — clean up token naming inconsistencies
+- `2026-06-05 21:55` — remove deprecated spacing tokens
+- `2026-06-05 21:55` — rename tokens to match new naming convention
+- `2026-06-05 21:55` — flatten nested token structure for clarity
+- `2026-06-05 21:55` — improve token validation script
+- `2026-06-05 21:55` — bump token schema version
+- `2026-06-05 21:55` — add token format checks to pre-commit
+- `2026-06-05 21:55` — clean up generated output artifacts
+- `2026-06-05 21:55` — update style dictionary config
+- `2026-06-05 21:55` — document new color semantics
+- `2026-06-05 21:55` — update changelog format
+- `2026-06-05 21:55` — add inline docs to spacing scale
+- `2026-06-05 21:55` — document token alias conventions
+- `2026-06-05 21:55` — add migration notes for renamed tokens
+- `2026-06-05 21:55` — export latest tokens from Figma
+- `2026-06-05 21:55` — add missing dark mode token variants
+- `2026-06-05 21:55` — add new surface token for overlay backgrounds
+- `2026-06-05 21:55` — patch broken token reference in components
+- `2026-06-05 21:55` — update token output format to CSS variables
+- `2026-06-05 21:55` — wire up new semantic elevation tokens
+- `2026-06-05 21:55` — body text improvement
+- `2026-06-05 21:55` — fix responsive type scale breakpoints
+- `2026-06-05 21:55` — update display heading tokens
+- `2026-06-05 21:55` — bump body font size for readability
+- `2026-06-05 21:55` — padding consistency fix
+- `2026-06-05 21:55` — layout spacing refinement
+- `2026-06-05 21:55` — section spacing update
+- `2026-06-05 21:55` — audit spacing tokens for duplicate values
+- `2026-06-06 23:17` — tighten compact density spacing
+- `2026-06-06 23:17` — update page-level layout margins
+- `2026-06-06 23:17` — button style update
+- `2026-06-06 23:17` — modal design update
+- `2026-06-06 23:17` — checkbox style refresh
+- `2026-06-06 23:17` — badge design update
+- `2026-06-06 23:17` — refine avatar sizing tokens
+- `2026-06-06 23:17` — refresh skeleton loader animation timing
+- `2026-06-06 23:17` — adjust chip component padding
+- `2026-06-06 23:17` — fix inline alert padding
+- `2026-06-06 23:17` — refine popover arrow token values
+- `2026-06-06 23:17` — update progress bar color tokens
+- `2026-06-06 23:17` — tighten list item component spacing
+- `2026-06-06 23:17` — fix breadcrumb separator sizing
+- `2026-06-07 16:04` — focus ring update
+- `2026-06-07 16:04` — border radius update
+- `2026-06-07 16:04` — z-index adjustment
+- `2026-06-07 16:04` — alignment correction
+- `2026-06-07 16:04` — fix ghost button hover color
+- `2026-06-07 16:04` — primary color update
+- `2026-06-07 16:04` — remap semantic color tokens to new primitives
+- `2026-06-07 16:04` — sync color tokens with latest Figma variables export
+- `2026-06-07 16:04` — adjust alpha values on overlay tokens
+- `2026-06-07 16:04` — refine success and warning color tokens
+- `2026-06-07 16:04` — update background color for elevated surfaces
+- `2026-06-07 16:04` — sync brand tokens with latest identity refresh
+- `2026-06-07 16:04` — pull latest brand variables from design system
+- `2026-06-07 16:04` — font weight adjustment
+- `2026-06-07 16:04` — refine table row hover state tokens
+- `2026-06-07 16:04` — resolve visual glitch in dark mode
+- `2026-06-07 16:04` — fix broken transition on theme toggle
+- `2026-06-07 16:04` — patch off-by-one pixel alignment in grid
+- `2026-06-07 16:04` — patch inconsistent corner radius in form inputs
+- `2026-06-07 16:04` — animation duration update
+- `2026-06-07 16:04` — transition easing change
+- `2026-06-07 16:04` — loading animation tweak
+- `2026-06-07 16:04` — scroll animation fix
+- `2026-06-07 16:04` — add entrance animation for modal overlay
+- `2026-06-07 16:04` — smooth out tab transition timing
+- `2026-06-07 16:04` — refine easing curve on drawer slide
+- `2026-06-07 16:04` — fix bounce effect on toast notification
+- `2026-06-07 16:04` — normalize exit animation duration tokens
+- `2026-06-07 16:04` — move hardcoded values to tokens
+- `2026-06-07 16:04` — extract repeated values into shared base tokens
+- `2026-06-07 16:04` — tidy up token category groupings
+- `2026-06-07 16:04` — update design token build script
+- `2026-06-07 16:04` — heading hierarchy fix
+- `2026-06-07 16:04` — font family swap
+- `2026-06-07 16:04` — tighten heading line height for large screens
+- `2026-06-07 16:04` — update monospace font token
+- `2026-06-07 16:04` — add fluid type scale tokens
+- `2026-06-07 16:04` — spacing token update
+- `2026-06-07 16:04` — grid gap adjustment
+- `2026-06-07 16:04` — normalize spacing scale to 8pt grid
+- `2026-06-07 16:04` — fix inconsistent inner padding on form elements
+- `2026-06-07 16:04` — add missing spacing token for inline elements
+- `2026-06-07 16:04` — fix content spacing inside card variants
+- `2026-06-07 16:04` — align vertical rhythm tokens with type scale
+- `2026-06-07 16:04` — input field refinement
+- `2026-06-07 16:04` — card component update
+- `2026-06-07 16:04` — tooltip design tweak
+- `2026-06-08 15:27` — update skeleton shimmer timing
+- `2026-06-08 15:27` — accessibility contrast fix
+- `2026-06-08 15:27` — keyboard navigation fix
+- `2026-06-08 15:27` — fix token export pipeline
+- `2026-06-08 15:27` — update Figma token sync config
+- `2026-06-08 15:27` — fix broken token transformer
+- `2026-06-08 15:27` — fix output path in token build config
+- `2026-06-08 15:27` — update README with latest token structure
+- `2026-06-08 15:27` — add token decision rationale to comments
+- `2026-06-08 15:27` — add responsive token breakpoints
+- `2026-06-08 15:27` — secondary palette refinement
+- `2026-06-08 15:27` — dark mode color tweak
+- `2026-06-08 15:27` — color palette expansion
+- `2026-06-09 12:16` — brand color alignment
+- `2026-06-09 12:16` — surface color update
+- `2026-06-09 12:16` — semantic color token fix
+- `2026-06-09 12:16` — tweak surface colors for better light-mode legibility
+- `2026-06-09 12:16` — bump gray scale contrast levels
+- `2026-06-09 12:16` — brand spacing alignment
+- `2026-06-09 12:16` — brand asset refresh
+- `2026-06-09 12:16` — navigation styling fix
+- `2026-06-09 12:16` — tab component refinement
+- `2026-06-09 12:16` — update link component underline style
+- `2026-06-09 12:16` — fix icon size inconsistency in nav
+- `2026-06-09 12:16` — update stepper component tokens
+- `2026-06-09 12:16` — patch divider component thickness
+- `2026-06-09 12:16` — update switch component track tokens
+- `2026-06-09 12:16` — active state refinement
+- `2026-06-09 12:16` — responsive layout tweak
+- `2026-06-09 12:16` — overflow fix
+- `2026-06-09 12:16` — visual regression fix
+- `2026-06-09 12:16` — patch stacking context issue in overlay
+- `2026-06-09 12:16` — improve color contrast on disabled text
+- `2026-06-09 12:16` — ensure touch target meets 44px minimum
+- `2026-06-09 12:16` — audit color pairs for WCAG AA compliance
+- `2026-06-09 12:16` — patch low-contrast placeholder text
+- `2026-06-09 12:16` — reorganize token file structure
+- `2026-06-09 12:16` — consolidate duplicate component tokens
+- `2026-06-09 12:16` — split color tokens into primitives and semantics
+- `2026-06-10 08:15` — deduplicate shadow definitions
+- `2026-06-10 08:15` — normalize token key casing
+- `2026-06-10 08:15` — update token documentation
+- `2026-06-10 08:15` — add usage examples to component tokens
+- `2026-06-10 08:15` — document dark mode token usage
+- `2026-06-10 08:15` — resolve token alias circular references
+- `2026-06-10 08:15` — add high-contrast mode token set
+- `2026-06-10 08:15` — sync token schema with style dictionary config
+- `2026-06-10 08:15` — add compact density token tier
+- `2026-06-10 08:15` — accent color adjustment
+- `2026-06-10 08:15` — color contrast fix
+- `2026-06-10 08:15` — update neutral palette to reflect new brand direction
+- `2026-06-10 08:15` — fix off-brand blue in CTA components
+- `2026-06-10 08:15` — patch inconsistent error color across states
+- `2026-06-10 08:15` — align info color with accessibility requirements
+- `2026-06-10 08:15` — brand token change
+- `2026-06-10 08:15` — update wordmark sizing token
+- `2026-06-10 08:15` — reconcile brand color with new creative direction
+- `2026-06-10 08:15` — typography scale update
+- `2026-06-10 08:15` — line height refinement
+- `2026-06-10 08:15` — letter spacing tweak
+- `2026-06-10 08:15` — normalize font stack across platforms
+- `2026-06-10 08:15` — audit and clean up unused type styles
+- `2026-06-10 08:15` — align caption text tokens with spec
+- `2026-06-10 08:15` — fix missing italic weight token
+- `2026-06-10 08:15` — margin alignment
+- `2026-06-10 08:15` — dropdown menu update
+- `2026-06-10 08:15` — clean up form field error state styles
+- `2026-06-10 08:15` — hover state fix
+- `2026-06-10 08:15` — disabled state styling
+- `2026-06-10 08:15` — shadow refinement
+- `2026-06-11 23:01` — fix broken outline on focus for keyboard users
+- `2026-06-11 23:01` — correct misaligned icon in button component
+- `2026-06-11 23:01` — patch spacing regression from last merge
+- `2026-06-11 23:01` — clean up leftover debug border
+- `2026-06-11 23:01` — fix clipped text in compact variant
+- `2026-06-11 23:01` — resolve color bleed on adjacent components
+- `2026-06-11 23:01` — fix missing border on selected state
+- `2026-06-11 23:01` — correct elevation token on sticky header
+- `2026-06-11 23:01` — micro-interaction refinement
+- `2026-06-11 23:01` — remove jarring jump in accordion open
+- `2026-06-11 23:01` — update stagger delay for list animations
+- `2026-06-11 23:01` — tune reduced-motion fallback tokens
+- `2026-06-11 23:01` — focus indicator update
+- `2026-06-11 23:01` — screen reader label add
+- `2026-06-11 23:01` — add focus token for custom components
+- `2026-06-11 23:01` — brand font update
+- `2026-06-11 23:01` — brand guideline sync
+- `2026-06-11 23:01` — update logo sizing constraints
+- `2026-06-11 23:01` — align brand palette with updated guidelines
+- `2026-06-11 23:01` — refresh brand gradient values
+- `2026-06-11 23:01` — body text improvement
+- `2026-06-11 23:01` — fix responsive type scale breakpoints
+- `2026-06-11 23:01` — update display heading tokens
+- `2026-06-11 23:01` — bump body font size for readability
+- `2026-06-11 23:01` — padding consistency fix
+- `2026-06-11 23:01` — layout spacing refinement
+- `2026-06-11 23:01` — section spacing update
+- `2026-06-12 23:34` — audit spacing tokens for duplicate values
+- `2026-06-12 23:34` — aria attribute update
+- `2026-06-12 23:34` — add skip-to-content link tokens
+- `2026-06-12 23:34` — fix missing label on icon-only button
+- `2026-06-12 23:34` — update focus-visible styles for interactive elements
+- `2026-06-12 23:34` — add high-visibility focus token for forced-colors mode
+- `2026-06-12 23:34` — clean up token naming inconsistencies
+- `2026-06-12 23:34` — remove deprecated spacing tokens
+- `2026-06-12 23:34` — rename tokens to match new naming convention
+- `2026-06-12 23:34` — flatten nested token structure for clarity
+- `2026-06-12 23:34` — improve token validation script
+- `2026-06-12 23:34` — bump token schema version
+- `2026-06-12 23:34` — add token format checks to pre-commit
+- `2026-06-12 23:34` — clean up generated output artifacts
+- `2026-06-12 23:34` — update style dictionary config
+- `2026-06-12 23:34` — document new color semantics
+- `2026-06-12 23:34` — update changelog format
+- `2026-06-12 23:34` — add inline docs to spacing scale
+- `2026-06-12 23:34` — document token alias conventions
+- `2026-06-12 23:34` — add migration notes for renamed tokens
+- `2026-06-12 23:34` — export latest tokens from Figma
+- `2026-06-12 23:34` — add missing dark mode token variants
+- `2026-06-12 23:34` — add new surface token for overlay backgrounds
+- `2026-06-12 23:34` — patch broken token reference in components
+- `2026-06-12 23:34` — update token output format to CSS variables
+- `2026-06-12 23:34` — wire up new semantic elevation tokens
+- `2026-06-12 23:34` — tighten compact density spacing
+- `2026-06-12 23:34` — update page-level layout margins
+- `2026-06-12 23:34` — button style update
+- `2026-06-12 23:34` — modal design update
+- `2026-06-12 23:34` — checkbox style refresh
+- `2026-06-12 23:34` — badge design update
+- `2026-06-12 23:34` — refine avatar sizing tokens
+- `2026-06-12 23:34` — refresh skeleton loader animation timing
+- `2026-06-12 23:34` — adjust chip component padding
+- `2026-06-12 23:34` — fix inline alert padding
+- `2026-06-12 23:34` — refine popover arrow token values
+- `2026-06-12 23:34` — update progress bar color tokens
+- `2026-06-12 23:34` — tighten list item component spacing
+- `2026-06-12 23:34` — fix breadcrumb separator sizing
+- `2026-06-12 23:34` — primary color update
+- `2026-06-12 23:34` — remap semantic color tokens to new primitives
+- `2026-06-12 23:34` — sync color tokens with latest Figma variables export
+- `2026-06-12 23:34` — adjust alpha values on overlay tokens
+- `2026-06-12 23:34` — refine success and warning color tokens
+- `2026-06-12 23:34` — update background color for elevated surfaces
+- `2026-06-12 23:34` — sync brand tokens with latest identity refresh
+- `2026-06-14 18:04` — pull latest brand variables from design system
+- `2026-06-14 18:04` — font weight adjustment
+- `2026-06-14 18:04` — heading hierarchy fix
+- `2026-06-14 18:04` — font family swap
+- `2026-06-14 18:04` — tighten heading line height for large screens
+- `2026-06-14 18:04` — update monospace font token
+- `2026-06-14 18:04` — add fluid type scale tokens
+- `2026-06-14 18:05` — spacing token update
+- `2026-06-14 18:05` — grid gap adjustment
+- `2026-06-14 18:05` — normalize spacing scale to 8pt grid
+- `2026-06-14 18:05` — fix inconsistent inner padding on form elements
+- `2026-06-14 18:05` — add missing spacing token for inline elements
+- `2026-06-14 18:05` — fix content spacing inside card variants
+- `2026-06-14 18:05` — align vertical rhythm tokens with type scale
+- `2026-06-14 18:05` — input field refinement
+- `2026-06-14 18:05` — card component update
+- `2026-06-14 18:05` — tooltip design tweak
+- `2026-06-14 18:05` — refine table row hover state tokens
+- `2026-06-14 18:05` — focus ring update
+- `2026-06-14 18:05` — border radius update
+- `2026-06-14 18:05` — z-index adjustment
+- `2026-06-14 18:05` — alignment correction
+- `2026-06-14 18:05` — fix ghost button hover color
+- `2026-06-14 18:05` — resolve visual glitch in dark mode
+- `2026-06-14 18:05` — fix broken transition on theme toggle
+- `2026-06-14 18:05` — patch off-by-one pixel alignment in grid
+- `2026-06-14 18:05` — patch inconsistent corner radius in form inputs
+- `2026-06-14 18:05` — animation duration update
+- `2026-06-14 18:05` — transition easing change
+- `2026-06-14 18:05` — loading animation tweak
+- `2026-06-14 18:05` — scroll animation fix
+- `2026-06-14 18:05` — add entrance animation for modal overlay
+- `2026-06-14 18:05` — smooth out tab transition timing
+- `2026-06-14 18:05` — refine easing curve on drawer slide
+- `2026-06-15 07:12` — fix bounce effect on toast notification
+- `2026-06-15 07:12` — normalize exit animation duration tokens
+- `2026-06-15 07:12` — move hardcoded values to tokens
+- `2026-06-15 07:12` — extract repeated values into shared base tokens
+- `2026-06-15 07:12` — tidy up token category groupings
+- `2026-06-15 07:12` — update design token build script
+- `2026-06-15 07:12` — secondary palette refinement
+- `2026-06-15 07:12` — dark mode color tweak
+- `2026-06-15 07:12` — color palette expansion
+- `2026-06-15 07:12` — update skeleton shimmer timing
+- `2026-06-15 07:12` — accessibility contrast fix
+- `2026-06-15 07:12` — keyboard navigation fix
+- `2026-06-15 07:12` — fix token export pipeline
+- `2026-06-15 07:12` — update Figma token sync config
+- `2026-06-15 07:12` — fix broken token transformer
+- `2026-06-15 07:12` — fix output path in token build config
+- `2026-06-15 07:12` — update README with latest token structure
+- `2026-06-15 07:12` — add token decision rationale to comments
+- `2026-06-15 07:12` — add responsive token breakpoints
+- `2026-06-15 07:12` — brand color alignment
+- `2026-06-15 07:12` — surface color update
+- `2026-06-15 07:12` — semantic color token fix
+- `2026-06-15 07:12` — tweak surface colors for better light-mode legibility
+- `2026-06-15 07:12` — bump gray scale contrast levels
+- `2026-06-15 07:12` — brand spacing alignment
+- `2026-06-15 07:12` — brand asset refresh
+- `2026-06-15 07:12` — navigation styling fix
+- `2026-06-15 07:12` — tab component refinement
+- `2026-06-15 07:12` — update link component underline style
+- `2026-06-15 07:12` — fix icon size inconsistency in nav
+- `2026-06-15 07:12` — update stepper component tokens
+- `2026-06-15 07:12` — patch divider component thickness
+- `2026-06-17 06:24` — update switch component track tokens
+- `2026-06-17 06:24` — active state refinement
+- `2026-06-17 06:24` — responsive layout tweak
+- `2026-06-17 06:24` — overflow fix
+- `2026-06-17 06:24` — visual regression fix
+- `2026-06-17 06:24` — patch stacking context issue in overlay
+- `2026-06-17 06:24` — improve color contrast on disabled text
+- `2026-06-17 06:24` — ensure touch target meets 44px minimum
+- `2026-06-17 06:24` — audit color pairs for WCAG AA compliance
+- `2026-06-17 06:24` — patch low-contrast placeholder text
+- `2026-06-17 06:24` — reorganize token file structure
+- `2026-06-17 06:24` — consolidate duplicate component tokens
+- `2026-06-17 06:24` — split color tokens into primitives and semantics
+- `2026-06-17 06:24` — accent color adjustment
+- `2026-06-17 06:24` — color contrast fix
+- `2026-06-17 06:24` — update neutral palette to reflect new brand direction
+- `2026-06-17 06:24` — fix off-brand blue in CTA components
+- `2026-06-17 06:24` — patch inconsistent error color across states
+- `2026-06-17 06:24` — align info color with accessibility requirements
+- `2026-06-17 06:24` — brand token change
+- `2026-06-17 06:24` — update wordmark sizing token
+- `2026-06-17 06:24` — reconcile brand color with new creative direction
+- `2026-06-17 06:24` — typography scale update
+- `2026-06-17 06:24` — line height refinement
+- `2026-06-17 06:24` — letter spacing tweak
+- `2026-06-17 06:24` — normalize font stack across platforms
+- `2026-06-17 06:24` — audit and clean up unused type styles
+- `2026-06-18 16:00` — align caption text tokens with spec
+- `2026-06-18 16:00` — fix missing italic weight token
+- `2026-06-18 16:00` — margin alignment
+- `2026-06-18 16:00` — dropdown menu update
+- `2026-06-18 16:00` — clean up form field error state styles
+- `2026-06-18 16:00` — hover state fix
+- `2026-06-18 16:00` — disabled state styling
+- `2026-06-18 16:00` — shadow refinement
+- `2026-06-18 16:00` — deduplicate shadow definitions
+- `2026-06-18 16:01` — normalize token key casing
+- `2026-06-18 16:01` — update token documentation
+- `2026-06-18 16:01` — add usage examples to component tokens
+- `2026-06-18 16:01` — document dark mode token usage
+- `2026-06-18 16:01` — resolve token alias circular references
+- `2026-06-18 16:01` — add high-contrast mode token set
+- `2026-06-18 16:01` — sync token schema with style dictionary config
+- `2026-06-18 16:01` — add compact density token tier
+- `2026-06-18 16:01` — brand font update
+- `2026-06-18 16:01` — brand guideline sync
+- `2026-06-18 16:01` — update logo sizing constraints
+- `2026-06-18 16:01` — align brand palette with updated guidelines
+- `2026-06-18 16:01` — refresh brand gradient values
+- `2026-06-18 16:01` — body text improvement
+- `2026-06-18 16:01` — fix responsive type scale breakpoints
+- `2026-06-18 16:01` — update display heading tokens
+- `2026-06-18 16:01` — bump body font size for readability
+- `2026-06-18 16:01` — padding consistency fix
+- `2026-06-18 16:01` — layout spacing refinement
+- `2026-06-20 12:49` — section spacing update
+- `2026-06-20 12:49` — fix broken outline on focus for keyboard users
+- `2026-06-20 12:49` — correct misaligned icon in button component
+- `2026-06-20 12:49` — patch spacing regression from last merge
+- `2026-06-20 12:49` — clean up leftover debug border
+- `2026-06-20 12:49` — fix clipped text in compact variant
+- `2026-06-20 12:49` — resolve color bleed on adjacent components
+- `2026-06-20 12:49` — fix missing border on selected state
+- `2026-06-20 12:49` — correct elevation token on sticky header
+- `2026-06-20 12:49` — micro-interaction refinement
+- `2026-06-20 12:49` — remove jarring jump in accordion open
+- `2026-06-20 12:49` — update stagger delay for list animations
+- `2026-06-20 12:49` — tune reduced-motion fallback tokens
+- `2026-06-20 12:49` — focus indicator update
+- `2026-06-20 12:49` — screen reader label add
+- `2026-06-20 12:49` — add focus token for custom components
+- `2026-06-20 12:49` — primary color update
+- `2026-06-20 12:49` — remap semantic color tokens to new primitives
+- `2026-06-20 12:49` — sync color tokens with latest Figma variables export
+- `2026-06-20 12:49` — adjust alpha values on overlay tokens
+- `2026-06-20 12:49` — refine success and warning color tokens
+- `2026-06-20 12:49` — update background color for elevated surfaces
+- `2026-06-20 12:49` — sync brand tokens with latest identity refresh
+- `2026-06-20 12:49` — audit spacing tokens for duplicate values
+- `2026-06-20 12:49` — tighten compact density spacing
+- `2026-06-20 12:49` — update page-level layout margins
+- `2026-06-20 12:49` — button style update
+- `2026-06-21 12:45` — modal design update
+- `2026-06-21 12:45` — checkbox style refresh
+- `2026-06-21 12:45` — badge design update
+- `2026-06-21 12:45` — refine avatar sizing tokens
+- `2026-06-21 12:45` — refresh skeleton loader animation timing
+- `2026-06-21 12:45` — adjust chip component padding
+- `2026-06-21 12:45` — fix inline alert padding
+- `2026-06-21 12:45` — refine popover arrow token values
+- `2026-06-21 12:45` — update progress bar color tokens
+- `2026-06-21 12:45` — tighten list item component spacing
+- `2026-06-21 12:45` — fix breadcrumb separator sizing
+- `2026-06-21 12:45` — aria attribute update
+- `2026-06-21 12:45` — add skip-to-content link tokens
+- `2026-06-21 12:45` — fix missing label on icon-only button
+- `2026-06-21 12:45` — update focus-visible styles for interactive elements
+- `2026-06-21 12:45` — add high-visibility focus token for forced-colors mode
+- `2026-06-21 12:45` — clean up token naming inconsistencies
+- `2026-06-21 12:45` — remove deprecated spacing tokens
+- `2026-06-21 12:45` — rename tokens to match new naming convention
+- `2026-06-21 12:45` — flatten nested token structure for clarity
+- `2026-06-21 12:45` — improve token validation script
+- `2026-06-21 12:45` — bump token schema version
+- `2026-06-21 12:45` — add token format checks to pre-commit
+- `2026-06-21 12:45` — clean up generated output artifacts
+- `2026-06-21 12:45` — update style dictionary config
+- `2026-06-21 12:45` — document new color semantics
+- `2026-06-21 12:45` — update changelog format
+- `2026-06-21 12:45` — add inline docs to spacing scale
+- `2026-06-21 12:45` — document token alias conventions
+- `2026-06-21 12:45` — add migration notes for renamed tokens
+- `2026-06-21 12:45` — export latest tokens from Figma
+- `2026-06-21 12:45` — add missing dark mode token variants
+- `2026-06-21 12:45` — add new surface token for overlay backgrounds
+- `2026-06-21 12:45` — patch broken token reference in components
+- `2026-06-21 12:45` — update token output format to CSS variables
+- `2026-06-21 12:45` — wire up new semantic elevation tokens
+- `2026-06-21 12:45` — pull latest brand variables from design system
+- `2026-06-21 12:45` — font weight adjustment
+- `2026-06-22 07:15` — heading hierarchy fix
+- `2026-06-22 07:15` — font family swap
+- `2026-06-22 07:15` — tighten heading line height for large screens
+- `2026-06-22 07:15` — update monospace font token
+- `2026-06-22 07:15` — add fluid type scale tokens
+- `2026-06-22 07:15` — spacing token update
+- `2026-06-22 07:15` — grid gap adjustment
+- `2026-06-22 07:15` — normalize spacing scale to 8pt grid
+- `2026-06-22 07:15` — fix inconsistent inner padding on form elements
+- `2026-06-22 07:15` — add missing spacing token for inline elements
+- `2026-06-22 07:15` — fix content spacing inside card variants
+- `2026-06-22 07:15` — align vertical rhythm tokens with type scale
+- `2026-06-22 07:15` — input field refinement
+- `2026-06-22 07:15` — card component update
+- `2026-06-22 07:15` — tooltip design tweak
+- `2026-06-22 07:15` — refine table row hover state tokens
+- `2026-06-22 07:15` — focus ring update
+- `2026-06-22 07:15` — border radius update
+- `2026-06-22 07:15` — z-index adjustment
+- `2026-06-22 07:15` — alignment correction
+- `2026-06-22 07:15` — fix ghost button hover color
+- `2026-06-22 07:15` — resolve visual glitch in dark mode
+- `2026-06-22 07:15` — fix broken transition on theme toggle
+- `2026-06-22 07:15` — patch off-by-one pixel alignment in grid
+- `2026-06-22 07:15` — patch inconsistent corner radius in form inputs
+- `2026-06-22 07:15` — animation duration update
+- `2026-06-22 07:15` — transition easing change
+- `2026-06-22 07:15` — loading animation tweak
+- `2026-06-22 07:15` — scroll animation fix
+- `2026-06-23 23:59` — add entrance animation for modal overlay
+- `2026-06-23 23:59` — smooth out tab transition timing
+- `2026-06-23 23:59` — refine easing curve on drawer slide
+- `2026-06-23 23:59` — secondary palette refinement
+- `2026-06-23 23:59` — dark mode color tweak
+- `2026-06-23 23:59` — color palette expansion
+- `2026-06-23 23:59` — brand color alignment
+- `2026-06-23 23:59` — surface color update
+- `2026-06-27 01:48` — semantic color token fix
+- `2026-06-27 01:48` — tweak surface colors for better light-mode legibility
+- `2026-06-27 01:48` — bump gray scale contrast levels
+- `2026-06-27 01:48` — brand spacing alignment
+- `2026-06-27 01:48` — brand asset refresh
+- `2026-06-27 01:48` — navigation styling fix
+- `2026-06-27 01:48` — tab component refinement
+- `2026-06-27 01:48` — update link component underline style
+- `2026-06-27 01:48` — fix icon size inconsistency in nav
+- `2026-06-27 01:48` — update stepper component tokens
+- `2026-06-27 01:48` — patch divider component thickness
+- `2026-06-27 01:48` — fix bounce effect on toast notification
+- `2026-06-27 01:48` — normalize exit animation duration tokens
+- `2026-06-27 01:48` — update skeleton shimmer timing
+- `2026-06-27 01:48` — accessibility contrast fix
+- `2026-06-27 01:48` — keyboard navigation fix
+- `2026-06-27 01:48` — move hardcoded values to tokens
+- `2026-06-27 01:48` — extract repeated values into shared base tokens
+- `2026-06-27 01:48` — tidy up token category groupings
+- `2026-06-27 01:48` — update design token build script
+- `2026-06-27 01:48` — fix token export pipeline
+- `2026-06-27 01:48` — update Figma token sync config
+- `2026-06-27 01:48` — fix broken token transformer
+- `2026-06-27 01:48` — fix output path in token build config
+- `2026-06-27 01:48` — update README with latest token structure
+- `2026-06-27 01:48` — add token decision rationale to comments
+- `2026-06-27 01:48` — add responsive token breakpoints
+- `2026-06-27 01:48` — accent color adjustment
+- `2026-06-27 01:48` — color contrast fix
+- `2026-06-27 01:48` — update neutral palette to reflect new brand direction
+- `2026-06-27 01:48` — fix off-brand blue in CTA components
+- `2026-06-27 01:48` — patch inconsistent error color across states
+- `2026-06-27 01:48` — align info color with accessibility requirements
+- `2026-06-27 01:48` — brand token change
+- `2026-06-27 01:48` — update wordmark sizing token
+- `2026-06-27 01:48` — reconcile brand color with new creative direction
+- `2026-06-27 01:48` — typography scale update
+- `2026-06-27 01:48` — line height refinement
+- `2026-06-27 01:48` — letter spacing tweak
+- `2026-06-27 01:48` — normalize font stack across platforms
+- `2026-06-27 01:48` — audit and clean up unused type styles
+- `2026-06-27 01:48` — update switch component track tokens
+- `2026-06-27 01:48` — active state refinement
+- `2026-06-27 01:48` — responsive layout tweak
+- `2026-06-27 01:48` — overflow fix
+- `2026-06-27 01:48` — visual regression fix
+- `2026-06-27 01:48` — patch stacking context issue in overlay
+- `2026-06-27 01:48` — improve color contrast on disabled text
+- `2026-06-27 01:48` — ensure touch target meets 44px minimum
+- `2026-06-28 12:07` — audit color pairs for WCAG AA compliance
+- `2026-06-28 12:07` — patch low-contrast placeholder text
+- `2026-06-28 12:07` — reorganize token file structure
+- `2026-06-28 12:07` — consolidate duplicate component tokens
+- `2026-06-28 12:07` — split color tokens into primitives and semantics
+- `2026-06-28 12:07` — brand font update
+- `2026-06-28 12:07` — brand guideline sync
+- `2026-06-28 12:07` — update logo sizing constraints
+- `2026-06-28 12:07` — align brand palette with updated guidelines
+- `2026-06-28 12:07` — refresh brand gradient values
+- `2026-06-28 12:07` — body text improvement
+- `2026-06-28 12:07` — fix responsive type scale breakpoints
+- `2026-06-28 12:07` — update display heading tokens
+- `2026-06-28 12:07` — bump body font size for readability
+- `2026-06-28 12:07` — align caption text tokens with spec
+- `2026-06-28 12:07` — fix missing italic weight token
+- `2026-06-28 12:07` — padding consistency fix
+- `2026-06-28 12:07` — margin alignment
+- `2026-06-28 12:07` — layout spacing refinement
+- `2026-06-28 12:07` — dropdown menu update
+- `2026-06-28 12:07` — clean up form field error state styles
+- `2026-06-28 12:07` — hover state fix
+- `2026-06-28 12:07` — disabled state styling
+- `2026-06-28 12:07` — shadow refinement
+- `2026-06-28 12:07` — deduplicate shadow definitions
+- `2026-06-28 12:07` — normalize token key casing
+- `2026-06-28 12:07` — update token documentation
+- `2026-06-28 12:07` — add usage examples to component tokens
+- `2026-06-28 12:07` — document dark mode token usage
+- `2026-06-29 22:30` — resolve token alias circular references
+- `2026-06-29 22:30` — add high-contrast mode token set
+- `2026-06-29 22:30` — sync token schema with style dictionary config
+- `2026-06-29 22:30` — add compact density token tier
+- `2026-06-29 22:30` — primary color update
+- `2026-06-29 22:30` — remap semantic color tokens to new primitives
+- `2026-06-29 22:30` — sync color tokens with latest Figma variables export
+- `2026-06-29 22:30` — adjust alpha values on overlay tokens
+- `2026-06-29 22:30` — refine success and warning color tokens
+- `2026-06-29 22:30` — update background color for elevated surfaces
+- `2026-06-29 22:30` — sync brand tokens with latest identity refresh
+- `2026-06-29 22:30` — section spacing update
+- `2026-06-29 22:30` — audit spacing tokens for duplicate values
+- `2026-06-29 22:30` — tighten compact density spacing
+- `2026-06-29 22:30` — update page-level layout margins
+- `2026-06-29 22:30` — button style update
+- `2026-06-29 22:30` — fix broken outline on focus for keyboard users
+- `2026-06-29 22:30` — correct misaligned icon in button component
+- `2026-06-29 22:30` — patch spacing regression from last merge
+- `2026-06-29 22:30` — clean up leftover debug border
+- `2026-06-29 22:30` — fix clipped text in compact variant
+- `2026-06-29 22:30` — resolve color bleed on adjacent components
+- `2026-06-29 22:30` — fix missing border on selected state
+- `2026-06-29 22:30` — correct elevation token on sticky header
+- `2026-06-29 22:30` — micro-interaction refinement
+- `2026-06-29 22:30` — remove jarring jump in accordion open
+- `2026-06-29 22:30` — update stagger delay for list animations
+- `2026-06-30 11:43` — tune reduced-motion fallback tokens
+- `2026-06-30 11:43` — focus indicator update
+- `2026-06-30 11:43` — screen reader label add
+- `2026-06-30 11:43` — add focus token for custom components
+- `2026-06-30 11:43` — pull latest brand variables from design system
+- `2026-06-30 11:43` — font weight adjustment
+- `2026-06-30 11:43` — modal design update
+- `2026-06-30 11:43` — checkbox style refresh
+- `2026-06-30 11:43` — badge design update
+- `2026-06-30 11:43` — refine avatar sizing tokens
+- `2026-06-30 11:43` — refresh skeleton loader animation timing
+- `2026-06-30 11:43` — adjust chip component padding
+- `2026-06-30 11:43` — fix inline alert padding
+- `2026-06-30 11:43` — refine popover arrow token values
+- `2026-06-30 11:43` — update progress bar color tokens
+- `2026-06-30 11:43` — tighten list item component spacing
+- `2026-06-30 11:44` — fix breadcrumb separator sizing
+- `2026-06-30 11:44` — aria attribute update
+- `2026-06-30 11:44` — add skip-to-content link tokens
+- `2026-06-30 11:44` — fix missing label on icon-only button
+- `2026-06-30 11:44` — update focus-visible styles for interactive elements
+- `2026-06-30 11:44` — add high-visibility focus token for forced-colors mode
+- `2026-06-30 11:44` — clean up token naming inconsistencies
+- `2026-06-30 11:44` — remove deprecated spacing tokens
+- `2026-06-30 11:44` — rename tokens to match new naming convention
+- `2026-06-30 11:44` — flatten nested token structure for clarity
+- `2026-06-30 11:44` — improve token validation script
+- `2026-06-30 11:44` — bump token schema version
+- `2026-06-30 11:44` — add token format checks to pre-commit
+- `2026-06-30 11:44` — clean up generated output artifacts
+- `2026-06-30 11:44` — update style dictionary config
+- `2026-06-30 11:44` — document new color semantics
+- `2026-06-30 11:44` — update changelog format
+- `2026-06-30 11:44` — add inline docs to spacing scale
+- `2026-06-30 11:44` — document token alias conventions
+- `2026-06-30 11:44` — add migration notes for renamed tokens
+- `2026-06-30 11:44` — export latest tokens from Figma
+- `2026-06-30 11:44` — add missing dark mode token variants
+- `2026-07-04 17:01` — add new surface token for overlay backgrounds
+- `2026-07-04 17:01` — patch broken token reference in components
+- `2026-07-04 17:01` — update token output format to CSS variables
+- `2026-07-04 17:01` — wire up new semantic elevation tokens
+- `2026-07-04 17:01` — heading hierarchy fix
+- `2026-07-04 17:01` — font family swap
+- `2026-07-04 17:01` — tighten heading line height for large screens
+- `2026-07-04 17:01` — update monospace font token
+- `2026-07-04 17:01` — add fluid type scale tokens
+- `2026-07-04 17:01` — spacing token update
+- `2026-07-04 17:01` — grid gap adjustment
+- `2026-07-04 17:01` — normalize spacing scale to 8pt grid
+- `2026-07-04 17:01` — fix inconsistent inner padding on form elements
+- `2026-07-04 17:01` — add missing spacing token for inline elements
+- `2026-07-04 17:01` — fix content spacing inside card variants
+- `2026-07-04 17:01` — align vertical rhythm tokens with type scale
+- `2026-07-04 17:01` — input field refinement
+- `2026-07-04 17:01` — card component update
+- `2026-07-04 17:01` — tooltip design tweak
+- `2026-07-04 17:01` — refine table row hover state tokens
+- `2026-07-04 17:01` — focus ring update
+- `2026-07-04 17:01` — border radius update
+- `2026-07-04 17:01` — z-index adjustment
+- `2026-07-04 17:01` — alignment correction
+- `2026-07-04 17:01` — fix ghost button hover color
+- `2026-07-04 17:01` — resolve visual glitch in dark mode
+- `2026-07-04 17:01` — fix broken transition on theme toggle
+- `2026-07-04 17:01` — patch off-by-one pixel alignment in grid
+- `2026-07-04 17:01` — patch inconsistent corner radius in form inputs
+- `2026-07-04 17:01` — animation duration update
+- `2026-07-04 17:01` — transition easing change
+- `2026-07-04 17:01` — loading animation tweak
+- `2026-07-04 17:01` — scroll animation fix
+- `2026-07-04 17:01` — secondary palette refinement
+- `2026-07-04 17:01` — dark mode color tweak
+- `2026-07-04 17:01` — color palette expansion
+- `2026-07-04 17:01` — brand color alignment
+- `2026-07-04 17:01` — surface color update
+- `2026-07-04 17:01` — add entrance animation for modal overlay
+- `2026-07-06 22:48` — smooth out tab transition timing
+- `2026-07-06 22:48` — refine easing curve on drawer slide
+- `2026-07-06 22:48` — accent color adjustment
+- `2026-07-06 22:48` — color contrast fix
+- `2026-07-06 22:48` — semantic color token fix
+- `2026-07-06 22:48` — update neutral palette to reflect new brand direction
+- `2026-07-06 22:48` — fix off-brand blue in CTA components
+- `2026-07-06 22:48` — tweak surface colors for better light-mode legibility
+- `2026-07-06 22:48` — bump gray scale contrast levels
+- `2026-07-06 22:48` — patch inconsistent error color across states
+- `2026-07-06 22:48` — align info color with accessibility requirements
+- `2026-07-06 22:48` — brand token change
+- `2026-07-06 22:48` — brand spacing alignment
+- `2026-07-06 22:48` — brand asset refresh
+- `2026-07-06 22:48` — update wordmark sizing token
+- `2026-07-06 22:48` — reconcile brand color with new creative direction
+- `2026-07-06 22:48` — typography scale update
+- `2026-07-06 22:48` — line height refinement
+- `2026-07-06 22:48` — letter spacing tweak
+- `2026-07-06 22:48` — normalize font stack across platforms
+- `2026-07-06 22:48` — audit and clean up unused type styles
+- `2026-07-06 22:48` — navigation styling fix
+- `2026-07-06 22:48` — tab component refinement
+- `2026-07-06 22:48` — update link component underline style
+- `2026-07-06 22:48` — fix icon size inconsistency in nav
+- `2026-07-06 22:48` — update stepper component tokens
+- `2026-07-06 22:48` — patch divider component thickness
+- `2026-07-06 22:48` — update switch component track tokens
+- `2026-07-06 22:48` — active state refinement
+- `2026-07-08 11:28` — responsive layout tweak
+- `2026-07-08 11:28` — overflow fix
+- `2026-07-08 11:28` — visual regression fix
+- `2026-07-08 11:28` — patch stacking context issue in overlay
+- `2026-07-08 11:28` — fix bounce effect on toast notification
+- `2026-07-08 11:28` — normalize exit animation duration tokens
+- `2026-07-08 11:28` — update skeleton shimmer timing
+- `2026-07-08 11:28` — accessibility contrast fix
+- `2026-07-08 11:28` — keyboard navigation fix
+- `2026-07-08 11:28` — improve color contrast on disabled text
+- `2026-07-08 11:28` — ensure touch target meets 44px minimum
+- `2026-07-08 11:28` — move hardcoded values to tokens
+- `2026-07-08 11:28` — extract repeated values into shared base tokens
+- `2026-07-08 11:28` — tidy up token category groupings
+- `2026-07-08 11:28` — update design token build script
+- `2026-07-08 11:28` — fix token export pipeline
+- `2026-07-08 11:28` — update Figma token sync config
+- `2026-07-08 11:28` — fix broken token transformer
+- `2026-07-08 11:28` — fix output path in token build config
+- `2026-07-08 11:28` — update README with latest token structure
+- `2026-07-08 11:28` — add token decision rationale to comments
+- `2026-07-08 11:28` — add responsive token breakpoints
+- `2026-07-08 11:28` — brand font update
+- `2026-07-08 11:28` — brand guideline sync
+- `2026-07-08 11:28` — update logo sizing constraints
+- `2026-07-08 11:28` — align brand palette with updated guidelines
+- `2026-07-08 11:29` — refresh brand gradient values
+- `2026-07-08 11:29` — body text improvement
+- `2026-07-08 11:29` — fix responsive type scale breakpoints
+- `2026-07-08 11:29` — update display heading tokens
+- `2026-07-08 11:29` — bump body font size for readability
+- `2026-07-08 11:29` — align caption text tokens with spec
+- `2026-07-08 11:29` — fix missing italic weight token
+- `2026-07-08 11:29` — padding consistency fix
+- `2026-07-08 11:29` — margin alignment
+- `2026-07-08 11:29` — layout spacing refinement
+- `2026-07-08 11:29` — dropdown menu update
+- `2026-07-08 11:29` — clean up form field error state styles
+- `2026-07-09 09:11` — hover state fix
+- `2026-07-09 09:11` — disabled state styling
+- `2026-07-09 09:11` — shadow refinement
+- `2026-07-09 09:11` — audit color pairs for WCAG AA compliance
+- `2026-07-09 09:11` — patch low-contrast placeholder text
+- `2026-07-09 09:11` — reorganize token file structure
+- `2026-07-09 09:11` — consolidate duplicate component tokens
+- `2026-07-09 09:11` — split color tokens into primitives and semantics
+- `2026-07-09 09:11` — deduplicate shadow definitions
+- `2026-07-09 09:11` — normalize token key casing
+- `2026-07-09 09:11` — update token documentation
+- `2026-07-09 09:11` — add usage examples to component tokens
+- `2026-07-09 09:11` — document dark mode token usage
+- `2026-07-09 09:11` — primary color update
+- `2026-07-09 09:11` — remap semantic color tokens to new primitives
+- `2026-07-09 09:11` — sync color tokens with latest Figma variables export
+- `2026-07-09 09:11` — adjust alpha values on overlay tokens
+- `2026-07-09 09:11` — refine success and warning color tokens
+- `2026-07-09 09:11` — update background color for elevated surfaces
+- `2026-07-09 09:11` — sync brand tokens with latest identity refresh
+- `2026-07-09 09:11` — section spacing update
+- `2026-07-09 09:11` — audit spacing tokens for duplicate values
+- `2026-07-09 09:11` — tighten compact density spacing
+- `2026-07-09 09:11` — update page-level layout margins
+- `2026-07-09 09:11` — button style update
+- `2026-07-09 09:11` — fix broken outline on focus for keyboard users
+- `2026-07-09 09:11` — correct misaligned icon in button component
+- `2026-07-09 09:11` — patch spacing regression from last merge
+- `2026-07-09 09:11` — clean up leftover debug border
+- `2026-07-09 09:11` — fix clipped text in compact variant
+- `2026-07-09 09:11` — resolve color bleed on adjacent components
+- `2026-07-09 09:11` — fix missing border on selected state
+- `2026-07-09 09:11` — correct elevation token on sticky header
+- `2026-07-09 09:11` — micro-interaction refinement
+- `2026-07-09 09:11` — remove jarring jump in accordion open
+- `2026-07-09 09:11` — update stagger delay for list animations
+- `2026-07-09 09:11` — resolve token alias circular references
+- `2026-07-10 08:21` — add high-contrast mode token set
+- `2026-07-10 08:21` — sync token schema with style dictionary config
+- `2026-07-10 08:21` — add compact density token tier
+- `2026-07-10 08:21` — pull latest brand variables from design system
+- `2026-07-10 08:21` — font weight adjustment
+- `2026-07-10 08:21` — modal design update
+- `2026-07-10 08:21` — checkbox style refresh
+- `2026-07-10 08:21` — badge design update
+- `2026-07-10 08:21` — refine avatar sizing tokens
+- `2026-07-10 08:21` — refresh skeleton loader animation timing
+- `2026-07-10 08:21` — adjust chip component padding
+- `2026-07-10 08:21` — fix inline alert padding
+- `2026-07-11 14:44` — refine popover arrow token values
+- `2026-07-11 14:44` — update progress bar color tokens
+- `2026-07-11 14:44` — tighten list item component spacing
+- `2026-07-11 14:44` — fix breadcrumb separator sizing
+- `2026-07-11 14:44` — tune reduced-motion fallback tokens
+- `2026-07-11 14:44` — focus indicator update
+- `2026-07-11 14:44` — screen reader label add
+- `2026-07-11 14:44` — aria attribute update
+- `2026-07-11 14:44` — add skip-to-content link tokens
+- `2026-07-11 14:44` — fix missing label on icon-only button
+- `2026-07-11 14:44` — update focus-visible styles for interactive elements
+- `2026-07-11 14:44` — add high-visibility focus token for forced-colors mode
+- `2026-07-11 14:44` — clean up token naming inconsistencies
+- `2026-07-11 14:44` — remove deprecated spacing tokens
+- `2026-07-11 14:44` — rename tokens to match new naming convention
+- `2026-07-11 14:44` — flatten nested token structure for clarity
+- `2026-07-11 14:44` — improve token validation script
+- `2026-07-11 14:44` — bump token schema version
+- `2026-07-11 14:44` — add token format checks to pre-commit
+- `2026-07-11 14:44` — clean up generated output artifacts
+- `2026-07-11 14:44` — update style dictionary config
+- `2026-07-11 14:44` — document new color semantics
+- `2026-07-11 14:44` — update changelog format
+- `2026-07-11 14:44` — add inline docs to spacing scale
+- `2026-07-11 14:44` — document token alias conventions
+- `2026-07-11 14:44` — add migration notes for renamed tokens
+- `2026-07-11 14:44` — export latest tokens from Figma
+- `2026-07-11 14:44` — add missing dark mode token variants
+- `2026-07-12 01:55` — add focus token for custom components
+- `2026-07-12 01:55` — secondary palette refinement
+- `2026-07-12 01:55` — dark mode color tweak
+- `2026-07-12 01:55` — color palette expansion
+- `2026-07-12 01:55` — brand color alignment
+- `2026-07-12 01:55` — surface color update
+- `2026-07-12 01:55` — heading hierarchy fix
+- `2026-07-12 01:55` — font family swap
+- `2026-07-12 01:55` — tighten heading line height for large screens
+- `2026-07-12 01:55` — update monospace font token
+- `2026-07-12 01:55` — add fluid type scale tokens
+- `2026-07-12 01:55` — spacing token update
+- `2026-07-12 01:55` — grid gap adjustment
+- `2026-07-12 01:55` — normalize spacing scale to 8pt grid
+- `2026-07-12 01:55` — fix inconsistent inner padding on form elements
+- `2026-07-12 01:55` — add missing spacing token for inline elements
+- `2026-07-12 01:55` — fix content spacing inside card variants
+- `2026-07-15 09:18` — align vertical rhythm tokens with type scale
+- `2026-07-15 09:18` — input field refinement
+- `2026-07-15 09:18` — card component update
+- `2026-07-15 09:18` — tooltip design tweak
+- `2026-07-15 09:18` — refine table row hover state tokens
+- `2026-07-15 09:18` — focus ring update
+- `2026-07-15 09:18` — border radius update
+- `2026-07-15 09:18` — z-index adjustment
+- `2026-07-15 09:18` — alignment correction
+- `2026-07-15 09:18` — fix ghost button hover color
+- `2026-07-15 09:18` — resolve visual glitch in dark mode
+- `2026-07-15 09:18` — fix broken transition on theme toggle
+- `2026-07-15 09:18` — patch off-by-one pixel alignment in grid
+- `2026-07-15 09:18` — patch inconsistent corner radius in form inputs
+- `2026-07-15 09:18` — animation duration update
+- `2026-07-15 09:18` — transition easing change
+- `2026-07-15 09:18` — loading animation tweak
+- `2026-07-15 09:18` — scroll animation fix
+- `2026-07-15 09:18` — add entrance animation for modal overlay
+- `2026-07-15 09:18` — add new surface token for overlay backgrounds
+- `2026-07-15 09:18` — patch broken token reference in components
+- `2026-07-15 09:18` — update token output format to CSS variables
+- `2026-07-15 09:18` — wire up new semantic elevation tokens
+- `2026-07-15 09:18` — accent color adjustment
+- `2026-07-15 09:18` — color contrast fix
+- `2026-07-15 09:18` — semantic color token fix
+- `2026-07-15 09:18` — update neutral palette to reflect new brand direction
+- `2026-07-15 09:18` — fix off-brand blue in CTA components
+- `2026-07-15 09:18` — tweak surface colors for better light-mode legibility
+- `2026-07-15 09:18` — bump gray scale contrast levels
+- `2026-07-15 09:18` — patch inconsistent error color across states
+- `2026-07-15 09:18` — align info color with accessibility requirements
+- `2026-07-15 09:18` — brand token change
+- `2026-07-15 09:18` — brand spacing alignment
+- `2026-07-15 09:18` — brand asset refresh
+- `2026-07-15 09:18` — update wordmark sizing token
+- `2026-07-15 09:18` — reconcile brand color with new creative direction
+- `2026-07-16 08:03` — typography scale update
+- `2026-07-16 08:03` — line height refinement
+- `2026-07-16 08:03` — letter spacing tweak
+- `2026-07-16 08:03` — normalize font stack across platforms
+- `2026-07-16 08:03` — audit and clean up unused type styles
+- `2026-07-16 08:03` — navigation styling fix
+- `2026-07-16 08:03` — tab component refinement
+- `2026-07-16 08:03` — update link component underline style
+- `2026-07-16 08:03` — fix icon size inconsistency in nav
+- `2026-07-16 08:03` — update stepper component tokens
+- `2026-07-16 08:03` — patch divider component thickness
+- `2026-07-16 08:03` — update switch component track tokens
+- `2026-07-16 08:03` — active state refinement
+- `2026-07-16 08:03` — smooth out tab transition timing
+- `2026-07-16 08:03` — refine easing curve on drawer slide
+- `2026-07-16 08:03` — brand font update
+- `2026-07-16 08:03` — brand guideline sync
+- `2026-07-16 08:03` — update logo sizing constraints
+- `2026-07-16 08:03` — align brand palette with updated guidelines
+- `2026-07-16 08:03` — refresh brand gradient values
+- `2026-07-16 08:03` — body text improvement
+- `2026-07-16 08:03` — fix responsive type scale breakpoints
+- `2026-07-16 08:03` — update display heading tokens
+- `2026-07-16 08:03` — bump body font size for readability
+- `2026-07-16 08:03` — align caption text tokens with spec
+- `2026-07-16 08:03` — fix missing italic weight token
+- `2026-07-16 08:03` — padding consistency fix
+- `2026-07-16 08:03` — margin alignment
+- `2026-07-16 08:03` — layout spacing refinement
+- `2026-07-16 08:03` — dropdown menu update
+- `2026-07-16 08:03` — clean up form field error state styles
+- `2026-07-17 11:17` — responsive layout tweak
+- `2026-07-17 11:17` — overflow fix
+- `2026-07-17 11:17` — visual regression fix
+- `2026-07-17 11:17` — patch stacking context issue in overlay
+- `2026-07-17 11:17` — fix bounce effect on toast notification
+- `2026-07-17 11:17` — normalize exit animation duration tokens
+- `2026-07-17 11:17` — update skeleton shimmer timing
+- `2026-07-17 11:17` — accessibility contrast fix
+- `2026-07-17 11:17` — keyboard navigation fix
+- `2026-07-17 11:17` — improve color contrast on disabled text
+- `2026-07-17 11:17` — ensure touch target meets 44px minimum
+- `2026-07-17 11:17` — move hardcoded values to tokens
+- `2026-07-17 11:17` — extract repeated values into shared base tokens
+- `2026-07-17 11:17` — tidy up token category groupings
+- `2026-07-17 11:17` — update design token build script
+- `2026-07-17 11:17` — fix token export pipeline
+- `2026-07-17 11:17` — update Figma token sync config
+- `2026-07-17 11:17` — fix broken token transformer
+- `2026-07-17 11:17` — fix output path in token build config
+- `2026-07-17 11:17` — update README with latest token structure
+- `2026-07-17 11:17` — add token decision rationale to comments
+- `2026-07-17 11:17` — add responsive token breakpoints
+- `2026-07-17 11:17` — primary color update
+- `2026-07-17 11:17` — remap semantic color tokens to new primitives
+- `2026-07-17 11:17` — sync color tokens with latest Figma variables export
+- `2026-07-17 11:17` — adjust alpha values on overlay tokens
+- `2026-07-17 11:17` — refine success and warning color tokens
+- `2026-07-17 11:17` — update background color for elevated surfaces
+- `2026-07-17 11:17` — sync brand tokens with latest identity refresh
+- `2026-07-19 11:45` — section spacing update
+- `2026-07-19 11:45` — audit spacing tokens for duplicate values
+- `2026-07-19 11:45` — tighten compact density spacing
+- `2026-07-19 11:45` — update page-level layout margins
+- `2026-07-19 11:45` — button style update
+- `2026-07-19 11:45` — hover state fix
+- `2026-07-19 11:45` — disabled state styling
+- `2026-07-19 11:45` — shadow refinement
+- `2026-07-19 11:45` — fix broken outline on focus for keyboard users
+- `2026-07-19 11:45` — correct misaligned icon in button component
+- `2026-07-19 11:45` — patch spacing regression from last merge
+- `2026-07-19 11:45` — clean up leftover debug border
+- `2026-07-19 11:45` — fix clipped text in compact variant
+- `2026-07-19 11:45` — resolve color bleed on adjacent components
+- `2026-07-21 08:15` — fix missing border on selected state
+- `2026-07-21 08:15` — correct elevation token on sticky header
+- `2026-07-21 08:15` — micro-interaction refinement
+- `2026-07-21 08:15` — remove jarring jump in accordion open
+- `2026-07-21 08:15` — update stagger delay for list animations
+- `2026-07-21 08:15` — audit color pairs for WCAG AA compliance
+- `2026-07-21 08:15` — patch low-contrast placeholder text
+- `2026-07-21 08:15` — reorganize token file structure
+- `2026-07-21 08:15` — consolidate duplicate component tokens
+- `2026-07-21 08:15` — split color tokens into primitives and semantics
+- `2026-07-21 08:15` — deduplicate shadow definitions
+- `2026-07-21 08:15` — normalize token key casing
+- `2026-07-21 22:44` — update token documentation
+- `2026-07-21 22:44` — add usage examples to component tokens
+- `2026-07-21 22:44` — document dark mode token usage
+- `2026-07-21 22:44` — resolve token alias circular references
+- `2026-07-24 14:41` — pull latest brand variables from design system
+- `2026-07-24 14:41` — font weight adjustment
+- `2026-07-24 14:41` — modal design update
+- `2026-07-24 14:41` — checkbox style refresh
+- `2026-07-24 14:41` — badge design update
+- `2026-07-24 14:41` — refine avatar sizing tokens
+- `2026-07-24 14:41` — refresh skeleton loader animation timing
+- `2026-07-24 14:41` — adjust chip component padding
+- `2026-07-24 14:41` — fix inline alert padding
+- `2026-07-24 14:41` — add high-contrast mode token set
+- `2026-07-24 14:41` — sync token schema with style dictionary config
+- `2026-07-24 14:41` — add compact density token tier
+- `2026-07-24 14:41` — refine popover arrow token values
+- `2026-07-24 14:41` — update progress bar color tokens
+- `2026-07-24 14:42` — tighten list item component spacing
+- `2026-07-24 14:42` — fix breadcrumb separator sizing
+- `2026-07-24 14:42` — tune reduced-motion fallback tokens
+- `2026-07-24 14:42` — focus indicator update
+- `2026-07-25 12:43` — screen reader label add
+- `2026-07-25 12:43` — aria attribute update
+- `2026-07-25 12:43` — add skip-to-content link tokens
+- `2026-07-25 12:43` — fix missing label on icon-only button
+- `2026-07-25 12:43` — update focus-visible styles for interactive elements
+- `2026-07-25 12:43` — add high-visibility focus token for forced-colors mode
+- `2026-07-25 12:43` — clean up token naming inconsistencies
+- `2026-07-25 12:43` — remove deprecated spacing tokens
+- `2026-07-25 12:43` — rename tokens to match new naming convention
+- `2026-07-25 12:43` — flatten nested token structure for clarity
+- `2026-07-25 12:43` — improve token validation script
+- `2026-07-25 12:43` — bump token schema version
+- `2026-07-25 12:43` — add token format checks to pre-commit
+- `2026-07-25 12:43` — clean up generated output artifacts
+- `2026-07-25 12:43` — update style dictionary config
+- `2026-07-25 12:43` — document new color semantics
+- `2026-07-25 12:43` — update changelog format
+- `2026-07-25 12:43` — add inline docs to spacing scale
+- `2026-07-25 12:43` — document token alias conventions
+- `2026-07-25 12:43` — add migration notes for renamed tokens
+- `2026-07-25 12:43` — export latest tokens from Figma
+- `2026-07-25 12:43` — add missing dark mode token variants
+- `2026-07-25 12:43` — secondary palette refinement
+- `2026-07-25 12:43` — dark mode color tweak
+- `2026-07-25 12:43` — color palette expansion
+- `2026-07-25 12:43` — brand color alignment
+- `2026-07-25 12:43` — surface color update
+- `2026-07-25 12:43` — heading hierarchy fix
+- `2026-07-25 12:43` — font family swap
+- `2026-07-25 12:43` — tighten heading line height for large screens
+- `2026-07-25 12:43` — update monospace font token
+- `2026-07-25 12:43` — add fluid type scale tokens
+- `2026-07-25 12:43` — spacing token update
+- `2026-07-25 12:43` — grid gap adjustment
+- `2026-07-25 12:43` — normalize spacing scale to 8pt grid
+- `2026-07-25 12:43` — fix inconsistent inner padding on form elements
+- `2026-07-25 12:43` — add missing spacing token for inline elements
+- `2026-07-25 12:43` — fix content spacing inside card variants
+- `2026-07-25 12:43` — add focus token for custom components
+- `2026-07-25 12:43` — accent color adjustment
+- `2026-07-25 12:43` — color contrast fix
+- `2026-07-25 12:43` — semantic color token fix
+- `2026-07-25 12:43` — update neutral palette to reflect new brand direction
+- `2026-07-25 12:43` — fix off-brand blue in CTA components
+- `2026-07-25 12:43` — tweak surface colors for better light-mode legibility
+- `2026-07-25 12:43` — bump gray scale contrast levels
+- `2026-07-25 12:43` — patch inconsistent error color across states
+- `2026-07-26 22:43` — align info color with accessibility requirements
+- `2026-07-26 22:43` — brand token change
+- `2026-07-26 22:43` — brand spacing alignment
+- `2026-07-26 22:43` — brand asset refresh
+- `2026-07-26 22:43` — update wordmark sizing token
+- `2026-07-26 22:43` — reconcile brand color with new creative direction
+- `2026-07-26 22:43` — align vertical rhythm tokens with type scale
+- `2026-07-26 22:43` — input field refinement
+- `2026-07-26 22:43` — card component update
+- `2026-07-26 22:43` — tooltip design tweak
+- `2026-07-26 22:43` — refine table row hover state tokens
+- `2026-07-26 22:43` — focus ring update
+- `2026-07-26 22:43` — border radius update
+- `2026-07-26 22:43` — z-index adjustment
+- `2026-07-26 22:43` — alignment correction
+- `2026-07-26 22:43` — fix ghost button hover color
+- `2026-07-26 22:43` — resolve visual glitch in dark mode
+- `2026-07-26 22:43` — fix broken transition on theme toggle
+- `2026-07-26 22:43` — patch off-by-one pixel alignment in grid
+- `2026-07-26 22:43` — patch inconsistent corner radius in form inputs
+- `2026-07-26 22:43` — animation duration update
+- `2026-07-26 22:43` — transition easing change
+- `2026-07-26 22:43` — loading animation tweak
+- `2026-07-26 22:43` — scroll animation fix
+- `2026-07-26 22:43` — add entrance animation for modal overlay
+- `2026-07-26 22:43` — add new surface token for overlay backgrounds
+- `2026-07-26 22:43` — patch broken token reference in components
+- `2026-07-26 22:43` — update token output format to CSS variables
+- `2026-07-26 22:43` — wire up new semantic elevation tokens
+- `2026-07-26 22:43` — brand font update
+- `2026-07-26 22:43` — brand guideline sync
+- `2026-07-26 22:43` — update logo sizing constraints
+- `2026-07-26 22:43` — align brand palette with updated guidelines
+- `2026-07-26 22:43` — refresh brand gradient values
+- `2026-07-27 08:08` — typography scale update
+- `2026-07-27 08:08` — line height refinement
+- `2026-07-27 08:08` — body text improvement
+- `2026-07-27 08:08` — letter spacing tweak
+- `2026-07-27 08:08` — normalize font stack across platforms
+- `2026-07-27 08:08` — fix responsive type scale breakpoints
+- `2026-07-27 08:08` — update display heading tokens
+- `2026-07-27 08:08` — audit and clean up unused type styles
+- `2026-07-27 08:08` — bump body font size for readability
+- `2026-07-27 08:08` — align caption text tokens with spec
+- `2026-07-27 08:08` — fix missing italic weight token
+- `2026-07-27 08:08` — padding consistency fix
+- `2026-07-27 08:08` — margin alignment
+- `2026-07-27 08:08` — layout spacing refinement
+- `2026-07-27 08:08` — navigation styling fix
+- `2026-07-27 08:08` — dropdown menu update
+- `2026-07-27 08:08` — tab component refinement
+- `2026-07-27 08:08` — update link component underline style
+- `2026-07-27 08:08` — fix icon size inconsistency in nav
+- `2026-07-30 08:17` — clean up form field error state styles
+- `2026-07-30 08:17` — update stepper component tokens
+- `2026-07-30 08:17` — patch divider component thickness
+- `2026-07-30 08:17` — update switch component track tokens
+- `2026-07-30 08:17` — active state refinement
+- `2026-07-30 08:17` — smooth out tab transition timing
+- `2026-07-30 08:17` — refine easing curve on drawer slide
+- `2026-07-30 08:17` — primary color update
+- `2026-07-30 08:17` — remap semantic color tokens to new primitives
+- `2026-07-30 08:17` — sync color tokens with latest Figma variables export
+- `2026-07-30 08:17` — adjust alpha values on overlay tokens
+- `2026-07-30 08:17` — refine success and warning color tokens
+- `2026-07-30 08:17` — update background color for elevated surfaces
+- `2026-07-30 08:17` — sync brand tokens with latest identity refresh
+- `2026-07-30 08:17` — responsive layout tweak
+- `2026-07-30 08:17` — overflow fix
+- `2026-07-30 08:17` — visual regression fix
+- `2026-07-30 08:17` — patch stacking context issue in overlay
+- `2026-07-30 08:17` — fix bounce effect on toast notification
+- `2026-07-30 08:17` — normalize exit animation duration tokens
+- `2026-07-30 08:17` — update skeleton shimmer timing
+- `2026-07-30 08:17` — accessibility contrast fix
+- `2026-07-30 08:17` — keyboard navigation fix
+- `2026-08-02 22:23` — improve color contrast on disabled text
+- `2026-08-02 22:23` — ensure touch target meets 44px minimum
+- `2026-08-02 22:23` — move hardcoded values to tokens
+- `2026-08-02 22:23` — extract repeated values into shared base tokens
+- `2026-08-02 22:23` — tidy up token category groupings
+- `2026-08-02 22:23` — update design token build script
+- `2026-08-02 22:23` — fix token export pipeline
+- `2026-08-02 22:23` — update Figma token sync config
+- `2026-08-02 22:23` — fix broken token transformer
+- `2026-08-02 22:23` — fix output path in token build config
+- `2026-08-02 22:23` — update README with latest token structure
+- `2026-08-02 22:23` — add token decision rationale to comments
+- `2026-08-02 22:23` — add responsive token breakpoints
+- `2026-08-02 22:23` — section spacing update
+- `2026-08-02 22:23` — audit spacing tokens for duplicate values
+- `2026-08-02 22:23` — tighten compact density spacing
+- `2026-08-02 22:23` — update page-level layout margins
+- `2026-08-02 22:23` — button style update
+- `2026-08-02 22:23` — hover state fix
+- `2026-08-02 22:23` — disabled state styling
+- `2026-08-02 22:23` — shadow refinement
+- `2026-08-02 22:23` — fix broken outline on focus for keyboard users
+- `2026-08-02 22:23` — correct misaligned icon in button component
+- `2026-08-02 22:23` — patch spacing regression from last merge
+- `2026-08-02 22:23` — clean up leftover debug border
+- `2026-08-02 22:23` — fix clipped text in compact variant
+- `2026-08-02 22:23` — resolve color bleed on adjacent components
+- `2026-08-02 22:23` — fix missing border on selected state
+- `2026-08-02 22:23` — correct elevation token on sticky header
+- `2026-08-02 22:23` — micro-interaction refinement
+- `2026-08-02 22:23` — remove jarring jump in accordion open
+- `2026-08-02 22:23` — update stagger delay for list animations
+- `2026-08-02 22:23` — audit color pairs for WCAG AA compliance
+- `2026-08-02 22:23` — patch low-contrast placeholder text
+- `2026-08-02 22:23` — reorganize token file structure
+- `2026-08-02 22:23` — consolidate duplicate component tokens
+- `2026-08-02 22:23` — split color tokens into primitives and semantics
+- `2026-08-02 22:23` — deduplicate shadow definitions
+- `2026-08-02 22:23` — normalize token key casing
+- `2026-08-02 22:23` — update token documentation
+- `2026-08-02 22:23` — add usage examples to component tokens
+- `2026-08-02 22:23` — document dark mode token usage
+- `2026-08-02 22:23` — resolve token alias circular references
+- `2026-08-02 22:23` — pull latest brand variables from design system
+- `2026-08-02 22:23` — font weight adjustment
+- `2026-08-02 22:23` — modal design update
+- `2026-08-02 22:23` — checkbox style refresh
+- `2026-08-03 14:20` — badge design update
+- `2026-08-03 14:20` — refine avatar sizing tokens
+- `2026-08-03 14:21` — refresh skeleton loader animation timing
+- `2026-08-03 14:21` — adjust chip component padding
+- `2026-08-03 14:21` — fix inline alert padding
+- `2026-08-03 14:21` — refine popover arrow token values
+- `2026-08-03 14:21` — update progress bar color tokens
+- `2026-08-03 14:21` — tighten list item component spacing
+- `2026-08-03 14:21` — fix breadcrumb separator sizing
+- `2026-08-03 14:21` — tune reduced-motion fallback tokens
+- `2026-08-03 14:21` — focus indicator update
+- `2026-08-03 14:21` — add high-contrast mode token set
+- `2026-08-03 14:21` — sync token schema with style dictionary config
+- `2026-08-03 14:21` — add compact density token tier
+- `2026-08-03 14:21` — secondary palette refinement
+- `2026-08-03 14:21` — accent color adjustment
+- `2026-08-03 14:21` — color contrast fix
+- `2026-08-03 14:21` — dark mode color tweak
+- `2026-08-03 14:21` — color palette expansion
+- `2026-08-03 14:21` — brand color alignment
+- `2026-08-03 14:21` — surface color update
+- `2026-08-03 14:21` — semantic color token fix
+- `2026-08-03 14:21` — update neutral palette to reflect new brand direction
+- `2026-08-03 14:21` — fix off-brand blue in CTA components
+- `2026-08-03 14:21` — tweak surface colors for better light-mode legibility
+- `2026-08-03 14:21` — bump gray scale contrast levels
+- `2026-08-03 14:21` — patch inconsistent error color across states
+- `2026-08-03 14:21` — heading hierarchy fix
+- `2026-08-03 14:21` — font family swap
+- `2026-08-03 14:21` — tighten heading line height for large screens
+- `2026-08-03 14:21` — update monospace font token
+- `2026-08-03 14:21` — add fluid type scale tokens
+- `2026-08-03 14:21` — spacing token update
+- `2026-08-04 10:54` — grid gap adjustment
+- `2026-08-04 10:54` — normalize spacing scale to 8pt grid
+- `2026-08-04 10:54` — fix inconsistent inner padding on form elements
+- `2026-08-04 10:54` — add missing spacing token for inline elements
+- `2026-08-04 10:54` — fix content spacing inside card variants
+- `2026-08-04 10:54` — screen reader label add
+- `2026-08-04 10:54` — aria attribute update
+- `2026-08-04 10:54` — add skip-to-content link tokens
+- `2026-08-04 10:54` — fix missing label on icon-only button
+- `2026-08-04 10:54` — update focus-visible styles for interactive elements
+- `2026-08-04 10:54` — add high-visibility focus token for forced-colors mode
+- `2026-08-04 10:54` — clean up token naming inconsistencies
+- `2026-08-04 10:54` — remove deprecated spacing tokens
+- `2026-08-04 10:54` — rename tokens to match new naming convention
+- `2026-08-04 10:54` — flatten nested token structure for clarity
+- `2026-08-04 10:54` — improve token validation script
+- `2026-08-04 10:54` — bump token schema version
+- `2026-08-04 10:54` — add token format checks to pre-commit
+- `2026-08-04 10:54` — clean up generated output artifacts
+- `2026-08-04 10:54` — update style dictionary config
+- `2026-08-04 10:54` — document new color semantics
+- `2026-08-04 10:54` — update changelog format
+- `2026-08-04 10:54` — add inline docs to spacing scale
+- `2026-08-04 10:54` — document token alias conventions
+- `2026-08-04 10:54` — add migration notes for renamed tokens
+- `2026-08-04 10:54` — export latest tokens from Figma
+- `2026-08-04 10:54` — add missing dark mode token variants
+- `2026-08-04 10:54` — add focus token for custom components
+- `2026-08-04 10:54` — align info color with accessibility requirements
+- `2026-08-04 10:54` — brand token change
+- `2026-08-04 10:54` — brand font update
+- `2026-08-04 10:54` — brand spacing alignment
+- `2026-08-04 10:54` — brand asset refresh
+- `2026-08-04 10:54` — brand guideline sync
+- `2026-08-04 10:54` — update logo sizing constraints
+- `2026-08-05 23:52` — align brand palette with updated guidelines
+- `2026-08-05 23:52` — refresh brand gradient values
+- `2026-08-05 23:52` — update wordmark sizing token
+- `2026-08-05 23:52` — reconcile brand color with new creative direction
+- `2026-08-05 23:52` — align vertical rhythm tokens with type scale
+- `2026-08-05 23:52` — input field refinement
+- `2026-08-05 23:52` — card component update
+- `2026-08-05 23:52` — tooltip design tweak
+- `2026-08-05 23:52` — refine table row hover state tokens
+- `2026-08-05 23:52` — focus ring update
+- `2026-08-05 23:52` — border radius update
+- `2026-08-05 23:52` — z-index adjustment
+- `2026-08-05 23:52` — alignment correction
+- `2026-08-05 23:52` — fix ghost button hover color
+- `2026-08-05 23:52` — resolve visual glitch in dark mode
+- `2026-08-05 23:52` — fix broken transition on theme toggle
+- `2026-08-05 23:52` — patch off-by-one pixel alignment in grid
+- `2026-08-05 23:52` — patch inconsistent corner radius in form inputs
+- `2026-08-05 23:52` — animation duration update
+- `2026-08-05 23:52` — transition easing change
+- `2026-08-05 23:52` — loading animation tweak
+- `2026-08-05 23:52` — scroll animation fix
+- `2026-08-05 23:52` — add entrance animation for modal overlay
+- `2026-08-05 23:52` — add new surface token for overlay backgrounds
+- `2026-08-05 23:52` — patch broken token reference in components
+- `2026-08-05 23:52` — update token output format to CSS variables
+- `2026-08-05 23:52` — wire up new semantic elevation tokens
+- `2026-08-05 23:52` — typography scale update
+- `2026-08-05 23:52` — line height refinement
+- `2026-08-05 23:52` — body text improvement
+- `2026-08-05 23:52` — letter spacing tweak
+- `2026-08-05 23:52` — normalize font stack across platforms
+- `2026-08-05 23:52` — fix responsive type scale breakpoints
+- `2026-08-05 23:52` — update display heading tokens
+- `2026-08-05 23:52` — audit and clean up unused type styles
+- `2026-08-07 12:13` — bump body font size for readability
+- `2026-08-07 12:13` — align caption text tokens with spec
+- `2026-08-07 12:13` — fix missing italic weight token
+- `2026-08-07 12:13` — padding consistency fix
+- `2026-08-07 12:13` — margin alignment
+- `2026-08-07 12:13` — layout spacing refinement
+- `2026-08-07 12:13` — navigation styling fix
+- `2026-08-07 12:13` — dropdown menu update
+- `2026-08-07 12:13` — tab component refinement
+- `2026-08-07 12:13` — update link component underline style
+- `2026-08-07 12:13` — fix icon size inconsistency in nav
+- `2026-08-07 12:13` — primary color update
+- `2026-08-07 12:13` — remap semantic color tokens to new primitives
+- `2026-08-07 12:13` — sync color tokens with latest Figma variables export
+- `2026-08-07 12:13` — adjust alpha values on overlay tokens
+- `2026-08-07 12:13` — refine success and warning color tokens
+- `2026-08-07 12:13` — update background color for elevated surfaces
+- `2026-08-07 12:13` — sync brand tokens with latest identity refresh
+- `2026-08-07 12:13` — clean up form field error state styles
+- `2026-08-07 12:13` — update stepper component tokens
+- `2026-08-07 12:13` — patch divider component thickness
+- `2026-08-07 12:13` — update switch component track tokens
+- `2026-08-07 12:13` — active state refinement
+- `2026-08-07 12:13` — responsive layout tweak
+- `2026-08-07 12:13` — overflow fix
+- `2026-08-07 12:13` — visual regression fix
+- `2026-08-07 12:13` — patch stacking context issue in overlay
+- `2026-08-07 12:13` — smooth out tab transition timing
+- `2026-08-07 12:13` — refine easing curve on drawer slide
+- `2026-08-07 12:13` — fix bounce effect on toast notification
+- `2026-08-07 12:13` — normalize exit animation duration tokens
+- `2026-08-07 12:13` — update skeleton shimmer timing
+- `2026-08-07 12:13` — accessibility contrast fix
+- `2026-08-07 12:13` — keyboard navigation fix
+- `2026-08-07 12:13` — pull latest brand variables from design system
+- `2026-08-07 12:13` — font weight adjustment
+- `2026-08-07 12:13` — section spacing update
+- `2026-08-07 12:13` — audit spacing tokens for duplicate values
+- `2026-08-07 12:13` — tighten compact density spacing
+- `2026-08-07 12:13` — update page-level layout margins
+- `2026-08-07 12:13` — button style update
+- `2026-08-07 12:13` — modal design update
+- `2026-08-07 12:13` — checkbox style refresh
+- `2026-08-07 12:13` — hover state fix
+- `2026-08-07 12:13` — disabled state styling
+- `2026-08-07 12:13` — shadow refinement
+- `2026-08-08 12:07` — fix broken outline on focus for keyboard users
+- `2026-08-08 12:07` — correct misaligned icon in button component
+- `2026-08-08 12:07` — patch spacing regression from last merge
+- `2026-08-08 12:07` — clean up leftover debug border
+- `2026-08-08 12:07` — fix clipped text in compact variant
+- `2026-08-08 12:07` — resolve color bleed on adjacent components
+- `2026-08-08 12:07` — fix missing border on selected state
+- `2026-08-08 12:07` — correct elevation token on sticky header
+- `2026-08-08 12:07` — micro-interaction refinement
+- `2026-08-08 12:07` — remove jarring jump in accordion open
+- `2026-08-08 12:07` — update stagger delay for list animations
+- `2026-08-08 12:07` — improve color contrast on disabled text
+- `2026-08-08 12:07` — ensure touch target meets 44px minimum
+- `2026-08-08 12:07` — audit color pairs for WCAG AA compliance
+- `2026-08-08 12:07` — patch low-contrast placeholder text
+- `2026-08-08 12:07` — reorganize token file structure
+- `2026-08-08 12:07` — consolidate duplicate component tokens
+- `2026-08-08 12:07` — split color tokens into primitives and semantics
+- `2026-08-08 12:07` — move hardcoded values to tokens
+- `2026-08-08 12:07` — deduplicate shadow definitions
+- `2026-08-08 12:07` — normalize token key casing
+- `2026-08-08 12:07` — extract repeated values into shared base tokens
+- `2026-08-08 12:07` — tidy up token category groupings
+- `2026-08-08 12:07` — update design token build script
+- `2026-08-08 12:07` — fix token export pipeline
+- `2026-08-08 12:07` — update Figma token sync config
+- `2026-08-08 12:07` — fix broken token transformer
+- `2026-08-09 14:29` — fix output path in token build config
+- `2026-08-09 14:29` — update token documentation
+- `2026-08-09 14:29` — add usage examples to component tokens
+- `2026-08-09 14:29` — update README with latest token structure
+- `2026-08-09 14:29` — document dark mode token usage
+- `2026-08-09 14:29` — add token decision rationale to comments
+- `2026-08-09 14:29` — resolve token alias circular references
+- `2026-08-09 14:29` — add responsive token breakpoints
+- `2026-08-09 14:29` — secondary palette refinement
+- `2026-08-09 14:29` — accent color adjustment
+- `2026-08-09 14:29` — color contrast fix
+- `2026-08-09 14:29` — dark mode color tweak
+- `2026-08-09 14:29` — color palette expansion
+- `2026-08-09 14:29` — brand color alignment
+- `2026-08-09 14:29` — surface color update
+- `2026-08-09 14:29` — semantic color token fix
+- `2026-08-09 14:29` — update neutral palette to reflect new brand direction
+- `2026-08-09 14:29` — fix off-brand blue in CTA components
+- `2026-08-09 14:29` — tweak surface colors for better light-mode legibility
+- `2026-08-09 14:29` — bump gray scale contrast levels
+- `2026-08-09 14:29` — patch inconsistent error color across states
+- `2026-08-09 14:29` — heading hierarchy fix
+- `2026-08-09 14:29` — font family swap
+- `2026-08-09 14:29` — tighten heading line height for large screens
+- `2026-08-09 14:29` — update monospace font token
+- `2026-08-09 14:29` — add fluid type scale tokens
+- `2026-08-09 14:29` — spacing token update
+- `2026-08-09 14:29` — badge design update
+- `2026-08-09 14:29` — refine avatar sizing tokens
+- `2026-08-09 14:29` — refresh skeleton loader animation timing
+- `2026-08-09 14:29` — adjust chip component padding
+- `2026-08-09 14:29` — fix inline alert padding
+- `2026-08-09 14:29` — refine popover arrow token values
+- `2026-08-09 14:29` — update progress bar color tokens
+- `2026-08-09 14:29` — tighten list item component spacing
+- `2026-08-09 14:29` — fix breadcrumb separator sizing
+- `2026-08-09 14:29` — tune reduced-motion fallback tokens
+- `2026-08-09 14:29` — focus indicator update
+- `2026-08-09 14:29` — add high-contrast mode token set
+- `2026-08-09 14:29` — sync token schema with style dictionary config
+- `2026-08-09 14:29` — add compact density token tier
+- `2026-08-09 14:29` — align info color with accessibility requirements
+- `2026-08-09 14:29` — brand token change
+- `2026-08-09 14:29` — brand font update
+- `2026-08-09 14:29` — brand spacing alignment
+- `2026-08-09 14:29` — brand asset refresh
+- `2026-08-09 14:29` — brand guideline sync
+- `2026-08-09 14:29` — update logo sizing constraints
+- `2026-08-09 14:29` — grid gap adjustment
+- `2026-08-09 14:29` — normalize spacing scale to 8pt grid
+- `2026-08-11 22:41` — fix inconsistent inner padding on form elements
+- `2026-08-11 22:41` — add missing spacing token for inline elements
+- `2026-08-11 22:41` — fix content spacing inside card variants
+- `2026-08-11 22:41` — screen reader label add
+- `2026-08-11 22:41` — aria attribute update
+- `2026-08-11 22:41` — add skip-to-content link tokens
+- `2026-08-11 22:41` — fix missing label on icon-only button
+- `2026-08-11 22:41` — update focus-visible styles for interactive elements
+- `2026-08-11 22:41` — add high-visibility focus token for forced-colors mode
+- `2026-08-11 22:41` — clean up token naming inconsistencies
+- `2026-08-11 22:41` — remove deprecated spacing tokens
+- `2026-08-11 22:41` — rename tokens to match new naming convention
+- `2026-08-11 22:41` — flatten nested token structure for clarity
+- `2026-08-11 22:41` — improve token validation script
+- `2026-08-11 22:41` — bump token schema version
+- `2026-08-11 22:41` — add token format checks to pre-commit
+- `2026-08-11 22:41` — clean up generated output artifacts
+- `2026-08-11 22:41` — update style dictionary config
+- `2026-08-11 22:41` — document new color semantics
+- `2026-08-11 22:41` — update changelog format
+- `2026-08-11 22:41` — add inline docs to spacing scale
+- `2026-08-11 22:41` — document token alias conventions
+- `2026-08-11 22:41` — add migration notes for renamed tokens
+- `2026-08-11 22:41` — export latest tokens from Figma
+- `2026-08-14 11:37` — add missing dark mode token variants
+- `2026-08-14 11:37` — add focus token for custom components
+- `2026-08-14 11:37` — align brand palette with updated guidelines
+- `2026-08-14 11:37` — refresh brand gradient values
+- `2026-08-14 11:37` — update wordmark sizing token
+- `2026-08-14 11:37` — reconcile brand color with new creative direction
+- `2026-08-14 11:37` — typography scale update
+- `2026-08-14 11:37` — line height refinement
+- `2026-08-14 11:37` — body text improvement
+- `2026-08-14 11:37` — letter spacing tweak
+- `2026-08-14 11:37` — normalize font stack across platforms
+- `2026-08-14 11:37` — fix responsive type scale breakpoints
+- `2026-08-14 11:37` — update display heading tokens
+- `2026-08-14 11:37` — audit and clean up unused type styles
+- `2026-08-14 11:37` — align vertical rhythm tokens with type scale
+- `2026-08-14 11:37` — input field refinement
+- `2026-08-14 11:37` — card component update
+- `2026-08-14 11:37` — tooltip design tweak
+- `2026-08-14 11:37` — refine table row hover state tokens
+- `2026-08-14 11:37` — focus ring update
+- `2026-08-14 11:37` — border radius update
+- `2026-08-14 11:37` — z-index adjustment
+- `2026-08-14 11:37` — alignment correction
+- `2026-08-14 11:37` — fix ghost button hover color
+- `2026-08-14 11:37` — resolve visual glitch in dark mode
+- `2026-08-14 11:37` — fix broken transition on theme toggle
+- `2026-08-14 11:37` — patch off-by-one pixel alignment in grid
+- `2026-08-14 11:37` — patch inconsistent corner radius in form inputs
+- `2026-08-14 11:38` — animation duration update
+- `2026-08-14 11:38` — transition easing change
+- `2026-08-14 11:38` — loading animation tweak
+- `2026-08-14 11:38` — scroll animation fix
+- `2026-08-14 11:38` — add entrance animation for modal overlay
+- `2026-08-14 11:38` — add new surface token for overlay backgrounds
+- `2026-08-14 11:38` — patch broken token reference in components
+- `2026-08-16 00:03` — update token output format to CSS variables
+- `2026-08-16 00:03` — wire up new semantic elevation tokens
+- `2026-08-16 00:03` — primary color update
+- `2026-08-16 00:03` — remap semantic color tokens to new primitives
+- `2026-08-16 00:03` — sync color tokens with latest Figma variables export
+- `2026-08-16 00:03` — adjust alpha values on overlay tokens
+- `2026-08-16 00:03` — refine success and warning color tokens
+- `2026-08-16 00:03` — update background color for elevated surfaces
+- `2026-08-16 00:03` — sync brand tokens with latest identity refresh
+- `2026-08-16 00:03` — pull latest brand variables from design system
+- `2026-08-16 00:03` — font weight adjustment
+- `2026-08-16 00:03` — bump body font size for readability
+- `2026-08-16 00:03` — align caption text tokens with spec
+- `2026-08-16 00:03` — fix missing italic weight token
+- `2026-08-16 00:03` — padding consistency fix
+- `2026-08-16 00:03` — margin alignment
+- `2026-08-16 00:03` — layout spacing refinement
+- `2026-08-16 00:03` — section spacing update
+- `2026-08-16 00:03` — audit spacing tokens for duplicate values
+- `2026-08-16 00:03` — tighten compact density spacing
+- `2026-08-16 00:03` — update page-level layout margins
+- `2026-08-16 00:03` — button style update
+- `2026-08-16 00:03` — modal design update
+- `2026-08-16 00:03` — navigation styling fix
+- `2026-08-16 00:03` — dropdown menu update
+- `2026-08-16 00:03` — checkbox style refresh
+- `2026-08-16 00:03` — tab component refinement
+- `2026-08-16 00:03` — update link component underline style
+- `2026-08-18 22:41` — fix icon size inconsistency in nav
+- `2026-08-18 22:43` — fix icon size inconsistency in nav
+- `2026-08-18 22:44` — clean up form field error state styles
+- `2026-08-18 22:44` — update stepper component tokens
+- `2026-08-18 22:44` — patch divider component thickness
+- `2026-08-18 22:44` — update switch component track tokens
+- `2026-08-18 22:44` — hover state fix
+- `2026-08-18 22:44` — active state refinement
+- `2026-08-18 22:44` — disabled state styling
+- `2026-08-18 22:44` — responsive layout tweak
+- `2026-08-18 22:44` — shadow refinement
+- `2026-08-18 22:44` — overflow fix
+- `2026-08-18 22:44` — visual regression fix
+- `2026-08-18 22:44` — patch stacking context issue in overlay
+- `2026-08-18 22:44` — smooth out tab transition timing
+- `2026-08-18 22:44` — refine easing curve on drawer slide
+- `2026-08-18 22:44` — fix bounce effect on toast notification
+- `2026-08-18 22:44` — normalize exit animation duration tokens
+- `2026-08-18 22:44` — update skeleton shimmer timing
+- `2026-08-18 22:44` — accessibility contrast fix
+- `2026-08-18 22:44` — keyboard navigation fix
+- `2026-08-18 22:44` — fix broken outline on focus for keyboard users
+- `2026-08-18 22:44` — correct misaligned icon in button component
+- `2026-08-18 22:44` — patch spacing regression from last merge
+- `2026-08-18 22:44` — clean up leftover debug border
+- `2026-08-18 22:44` — fix clipped text in compact variant
+- `2026-08-18 22:44` — resolve color bleed on adjacent components
+- `2026-08-18 22:44` — fix missing border on selected state
+- `2026-08-19 10:58` — correct elevation token on sticky header
+- `2026-08-19 10:58` — micro-interaction refinement
+- `2026-08-19 10:58` — remove jarring jump in accordion open
+- `2026-08-19 10:58` — update stagger delay for list animations
+- `2026-08-19 10:58` — improve color contrast on disabled text
+- `2026-08-19 10:58` — ensure touch target meets 44px minimum
+- `2026-08-19 10:58` — audit color pairs for WCAG AA compliance
+- `2026-08-19 10:58` — patch low-contrast placeholder text
+- `2026-08-19 10:58` — reorganize token file structure
+- `2026-08-19 10:58` — consolidate duplicate component tokens
+- `2026-08-19 10:58` — split color tokens into primitives and semantics
+- `2026-08-19 10:58` — move hardcoded values to tokens
+- `2026-08-19 10:58` — deduplicate shadow definitions
+- `2026-08-19 10:58` — normalize token key casing
+- `2026-08-19 10:58` — extract repeated values into shared base tokens
+- `2026-08-19 10:58` — tidy up token category groupings
+- `2026-08-19 10:58` — update design token build script
+- `2026-08-19 10:58` — fix token export pipeline
+- `2026-08-19 10:58` — update Figma token sync config
+- `2026-08-19 10:58` — fix broken token transformer
+- `2026-08-19 10:58` — secondary palette refinement
+- `2026-08-19 10:58` — accent color adjustment
+- `2026-08-19 10:58` — color contrast fix
+- `2026-08-19 10:58` — dark mode color tweak
+- `2026-08-19 10:58` — color palette expansion
+- `2026-08-20 23:02` — brand color alignment
+- `2026-08-20 23:02` — surface color update
+- `2026-08-20 23:02` — semantic color token fix
+- `2026-08-20 23:02` — update neutral palette to reflect new brand direction
+- `2026-08-20 23:02` — fix off-brand blue in CTA components
+- `2026-08-20 23:02` — tweak surface colors for better light-mode legibility
+- `2026-08-20 23:02` — bump gray scale contrast levels
+- `2026-08-20 23:02` — patch inconsistent error color across states
+- `2026-08-20 23:02` — align info color with accessibility requirements
+- `2026-08-20 23:02` — brand token change
+- `2026-08-20 23:02` — brand font update
+- `2026-08-20 23:02` — brand spacing alignment
+- `2026-08-20 23:02` — brand asset refresh
+- `2026-08-20 23:02` — brand guideline sync
+- `2026-08-20 23:02` — update logo sizing constraints
+- `2026-08-20 23:02` — heading hierarchy fix
+- `2026-08-20 23:02` — font family swap
+- `2026-08-20 23:02` — tighten heading line height for large screens
+- `2026-08-20 23:02` — update monospace font token
+- `2026-08-20 23:02` — add fluid type scale tokens
+- `2026-08-20 23:02` — spacing token update
+- `2026-08-20 23:02` — grid gap adjustment
+- `2026-08-20 23:02` — normalize spacing scale to 8pt grid
+- `2026-08-20 23:02` — badge design update
+- `2026-08-20 23:02` — refine avatar sizing tokens
+- `2026-08-20 23:02` — refresh skeleton loader animation timing
+- `2026-08-20 23:02` — adjust chip component padding
+- `2026-08-20 23:02` — fix inline alert padding
+- `2026-08-20 23:02` — refine popover arrow token values
+- `2026-08-20 23:02` — update progress bar color tokens
+- `2026-08-20 23:02` — tighten list item component spacing
+- `2026-08-20 23:02` — fix breadcrumb separator sizing
+- `2026-08-20 23:02` — tune reduced-motion fallback tokens
+- `2026-08-20 23:02` — focus indicator update
+- `2026-08-20 23:02` — fix output path in token build config
+- `2026-08-20 23:02` — update token documentation
+- `2026-08-21 19:08` — add usage examples to component tokens
+- `2026-08-21 19:08` — update README with latest token structure
+- `2026-08-21 19:08` — document dark mode token usage
+- `2026-08-21 19:08` — add token decision rationale to comments
+- `2026-08-21 19:08` — resolve token alias circular references
+- `2026-08-21 19:08` — add responsive token breakpoints
+- `2026-08-21 19:08` — add high-contrast mode token set
+- `2026-08-21 19:08` — sync token schema with style dictionary config
+- `2026-08-21 19:08` — add compact density token tier
+- `2026-08-21 19:08` — fix inconsistent inner padding on form elements
+- `2026-08-21 19:08` — add missing spacing token for inline elements
+- `2026-08-21 19:08` — fix content spacing inside card variants
+- `2026-08-21 19:08` — screen reader label add
+- `2026-08-21 19:08` — aria attribute update
+- `2026-08-21 19:08` — add skip-to-content link tokens
+- `2026-08-21 19:08` — fix missing label on icon-only button
+- `2026-08-21 19:08` — update focus-visible styles for interactive elements
+- `2026-08-21 19:08` — add high-visibility focus token for forced-colors mode
+- `2026-08-21 19:08` — clean up token naming inconsistencies
+- `2026-08-21 19:08` — remove deprecated spacing tokens
+- `2026-08-21 19:08` — rename tokens to match new naming convention
+- `2026-08-21 19:08` — flatten nested token structure for clarity
+- `2026-08-21 19:08` — improve token validation script
+- `2026-08-21 19:08` — bump token schema version
+- `2026-08-21 19:08` — add token format checks to pre-commit
+- `2026-08-21 19:08` — clean up generated output artifacts
+- `2026-08-21 19:08` — update style dictionary config
+- `2026-08-21 19:08` — document new color semantics
+- `2026-08-21 19:08` — update changelog format
+- `2026-08-21 19:08` — add inline docs to spacing scale
+- `2026-08-21 19:08` — document token alias conventions
+- `2026-08-22 12:18` — add migration notes for renamed tokens
+- `2026-08-22 12:18` — export latest tokens from Figma
+- `2026-08-22 12:18` — align brand palette with updated guidelines
+- `2026-08-22 12:18` — refresh brand gradient values
+- `2026-08-22 12:18` — update wordmark sizing token
+- `2026-08-22 12:18` — reconcile brand color with new creative direction
+- `2026-08-22 12:18` — typography scale update
+- `2026-08-22 12:18` — line height refinement
+- `2026-08-22 12:18` — body text improvement
+- `2026-08-22 12:18` — letter spacing tweak
+- `2026-08-22 12:18` — normalize font stack across platforms
+- `2026-08-22 12:18` — fix responsive type scale breakpoints
+- `2026-08-22 12:18` — update display heading tokens
+- `2026-08-22 12:18` — audit and clean up unused type styles
+- `2026-08-22 12:18` — align vertical rhythm tokens with type scale
+- `2026-08-22 12:18` — input field refinement
+- `2026-08-22 12:18` — card component update
+- `2026-08-22 12:18` — tooltip design tweak
+- `2026-08-22 12:18` — refine table row hover state tokens
+- `2026-08-22 12:18` — focus ring update
+- `2026-08-22 12:18` — border radius update
+- `2026-08-22 12:18` — z-index adjustment
+- `2026-08-22 12:18` — alignment correction
+- `2026-08-22 12:18` — fix ghost button hover color
+- `2026-08-22 12:18` — resolve visual glitch in dark mode
+- `2026-08-22 12:18` — fix broken transition on theme toggle
+- `2026-08-22 12:18` — patch off-by-one pixel alignment in grid
+- `2026-08-22 12:18` — patch inconsistent corner radius in form inputs
+- `2026-08-22 12:18` — animation duration update
+- `2026-08-22 12:18` — transition easing change
+- `2026-08-22 12:18` — loading animation tweak
+- `2026-08-24 07:52` — scroll animation fix
+- `2026-08-24 07:52` — add entrance animation for modal overlay
+- `2026-08-24 07:52` — add missing dark mode token variants
+- `2026-08-24 07:52` — add new surface token for overlay backgrounds
+- `2026-08-24 07:52` — patch broken token reference in components
+- `2026-08-24 07:52` — add focus token for custom components
+- `2026-08-24 07:52` — primary color update
+- `2026-08-24 07:52` — remap semantic color tokens to new primitives
+- `2026-08-24 07:52` — sync color tokens with latest Figma variables export
+- `2026-08-24 07:52` — adjust alpha values on overlay tokens
+- `2026-08-24 07:52` — refine success and warning color tokens
+- `2026-08-24 07:52` — update background color for elevated surfaces
+- `2026-08-24 07:52` — sync brand tokens with latest identity refresh
+- `2026-08-24 07:52` — pull latest brand variables from design system
+- `2026-08-24 07:52` — font weight adjustment
+- `2026-08-24 07:52` — bump body font size for readability
+- `2026-08-24 07:52` — align caption text tokens with spec
+- `2026-08-24 07:52` — fix missing italic weight token
+- `2026-08-24 07:52` — padding consistency fix
+- `2026-08-24 07:52` — margin alignment
+- `2026-08-24 07:52` — layout spacing refinement
+- `2026-08-24 07:52` — section spacing update
+- `2026-08-24 07:52` — audit spacing tokens for duplicate values
+- `2026-08-24 07:52` — tighten compact density spacing
+- `2026-08-24 07:52` — update page-level layout margins
+- `2026-08-24 07:52` — button style update
+- `2026-08-24 07:52` — modal design update
+- `2026-08-24 07:52` — navigation styling fix
+- `2026-08-25 23:57` — dropdown menu update
+- `2026-08-25 23:57` — checkbox style refresh
+- `2026-08-25 23:57` — tab component refinement
+- `2026-08-25 23:57` — update link component underline style
+- `2026-08-25 23:57` — update token output format to CSS variables
+- `2026-08-25 23:57` — wire up new semantic elevation tokens
+- `2026-08-25 23:57` — fix icon size inconsistency in nav
+- `2026-08-25 23:57` — clean up form field error state styles
+- `2026-08-25 23:57` — update stepper component tokens
+- `2026-08-25 23:57` — patch divider component thickness
+- `2026-08-25 23:57` — update switch component track tokens
+- `2026-08-25 23:57` — hover state fix
+- `2026-08-25 23:57` — active state refinement
+- `2026-08-25 23:57` — disabled state styling
+- `2026-08-25 23:57` — responsive layout tweak
+- `2026-08-25 23:57` — shadow refinement
+- `2026-08-28 18:03` — overflow fix
+- `2026-08-28 18:03` — visual regression fix
+- `2026-08-28 18:03` — fix broken outline on focus for keyboard users
+- `2026-08-28 18:03` — patch stacking context issue in overlay
+- `2026-08-28 18:03` — correct misaligned icon in button component
+- `2026-08-28 18:03` — patch spacing regression from last merge
+- `2026-08-28 18:03` — clean up leftover debug border
+- `2026-08-28 18:03` — fix clipped text in compact variant
+- `2026-08-28 18:03` — resolve color bleed on adjacent components
+- `2026-08-28 18:03` — fix missing border on selected state
+- `2026-08-28 18:03` — smooth out tab transition timing
+- `2026-08-28 18:03` — refine easing curve on drawer slide
+- `2026-08-28 18:03` — fix bounce effect on toast notification
+- `2026-08-28 18:03` — normalize exit animation duration tokens
+- `2026-08-28 18:03` — update skeleton shimmer timing
+- `2026-08-28 18:03` — accessibility contrast fix
+- `2026-08-28 18:03` — keyboard navigation fix
+- `2026-08-28 18:03` — secondary palette refinement
+- `2026-08-28 18:03` — accent color adjustment
+- `2026-08-28 18:03` — color contrast fix
+- `2026-08-28 18:03` — dark mode color tweak
+- `2026-08-28 18:03` — color palette expansion
+- `2026-08-28 18:03` — correct elevation token on sticky header
+- `2026-08-28 18:03` — micro-interaction refinement
+- `2026-08-28 18:03` — remove jarring jump in accordion open
+- `2026-08-28 18:03` — update stagger delay for list animations
+- `2026-08-28 18:03` — improve color contrast on disabled text
+- `2026-08-28 18:03` — ensure touch target meets 44px minimum
+- `2026-08-29 17:48` — audit color pairs for WCAG AA compliance
+- `2026-08-29 17:48` — patch low-contrast placeholder text
+- `2026-08-29 17:48` — reorganize token file structure
+- `2026-08-29 17:48` — consolidate duplicate component tokens
+- `2026-08-29 17:48` — split color tokens into primitives and semantics
+- `2026-08-29 17:48` — move hardcoded values to tokens
+- `2026-08-29 17:48` — deduplicate shadow definitions
+- `2026-08-29 17:48` — normalize token key casing
+- `2026-08-29 17:48` — extract repeated values into shared base tokens
+- `2026-08-29 17:48` — tidy up token category groupings
+- `2026-08-29 17:48` — update design token build script
+- `2026-08-29 17:48` — fix token export pipeline
+- `2026-08-29 17:48` — update Figma token sync config
+- `2026-08-29 17:48` — fix broken token transformer
+- `2026-08-29 17:48` — brand color alignment
+- `2026-08-29 17:48` — surface color update
+- `2026-08-29 17:48` — semantic color token fix
+- `2026-08-29 17:48` — update neutral palette to reflect new brand direction
+- `2026-08-29 17:48` — fix off-brand blue in CTA components
+- `2026-08-29 17:48` — tweak surface colors for better light-mode legibility
+- `2026-08-29 17:48` — bump gray scale contrast levels
+- `2026-08-29 17:48` — patch inconsistent error color across states
+- `2026-08-29 17:48` — align info color with accessibility requirements
+- `2026-08-29 17:48` — brand token change
+- `2026-08-29 17:48` — brand font update
+- `2026-08-29 17:48` — brand spacing alignment
+- `2026-08-29 17:48` — brand asset refresh
+- `2026-08-29 17:48` — brand guideline sync
+- `2026-08-29 17:48` — update logo sizing constraints
+- `2026-08-29 17:48` — heading hierarchy fix
+- `2026-08-29 17:48` — font family swap
+- `2026-08-29 17:48` — tighten heading line height for large screens
+- `2026-08-29 17:48` — update monospace font token
+- `2026-08-29 17:48` — add fluid type scale tokens
+- `2026-08-29 17:48` — spacing token update
+- `2026-08-29 17:48` — grid gap adjustment
+- `2026-08-29 17:48` — normalize spacing scale to 8pt grid
+- `2026-08-29 17:48` — badge design update
+- `2026-08-29 17:48` — refine avatar sizing tokens
+- `2026-08-29 17:48` — refresh skeleton loader animation timing
+- `2026-08-29 17:48` — adjust chip component padding
+- `2026-08-29 17:48` — fix inline alert padding
+- `2026-08-29 17:48` — refine popover arrow token values
+- `2026-08-31 15:31` — update progress bar color tokens
+- `2026-08-31 15:31` — tighten list item component spacing
+- `2026-08-31 15:31` — fix breadcrumb separator sizing
+- `2026-08-31 15:31` — tune reduced-motion fallback tokens
+- `2026-08-31 15:31` — focus indicator update
+- `2026-08-31 15:31` — fix output path in token build config
+- `2026-08-31 15:31` — update token documentation
+- `2026-08-31 15:31` — fix inconsistent inner padding on form elements
+- `2026-08-31 15:31` — add missing spacing token for inline elements
+- `2026-08-31 15:31` — fix content spacing inside card variants
+- `2026-08-31 15:31` — screen reader label add
+- `2026-08-31 15:31` — aria attribute update
+- `2026-08-31 15:31` — add skip-to-content link tokens
+- `2026-08-31 15:31` — fix missing label on icon-only button
+- `2026-08-31 15:31` — update focus-visible styles for interactive elements
+- `2026-08-31 15:31` — add high-visibility focus token for forced-colors mode
+- `2026-08-31 15:31` — clean up token naming inconsistencies
+- `2026-08-31 15:31` — remove deprecated spacing tokens
+- `2026-08-31 15:31` — rename tokens to match new naming convention
+- `2026-08-31 15:31` — flatten nested token structure for clarity
+- `2026-08-31 15:31` — improve token validation script
+- `2026-08-31 15:31` — bump token schema version
+- `2026-08-31 15:31` — add token format checks to pre-commit
+- `2026-08-31 15:31` — clean up generated output artifacts
+- `2026-08-31 15:31` — update style dictionary config
+- `2026-08-31 15:31` — add usage examples to component tokens
+- `2026-08-31 15:31` — document new color semantics
+- `2026-08-31 15:31` — update changelog format
+- `2026-08-31 15:31` — add inline docs to spacing scale
+- `2026-08-31 15:31` — document token alias conventions
+- `2026-08-31 15:31` — update README with latest token structure
+- `2026-08-31 15:31` — document dark mode token usage
+- `2026-08-31 15:31` — add token decision rationale to comments
+- `2026-08-31 15:31` — resolve token alias circular references
+- `2026-08-31 15:31` — add responsive token breakpoints
+- `2026-08-31 15:31` — add high-contrast mode token set
+- `2026-08-31 15:31` — sync token schema with style dictionary config
+- `2026-08-31 15:31` — add compact density token tier
+- `2026-08-31 15:31` — align brand palette with updated guidelines
+- `2026-08-31 15:31` — refresh brand gradient values
+- `2026-08-31 15:31` — update wordmark sizing token
+- `2026-09-04 12:02` — reconcile brand color with new creative direction
+- `2026-09-04 12:02` — typography scale update
+- `2026-09-04 12:02` — line height refinement
+- `2026-09-04 12:02` — body text improvement
+- `2026-09-04 12:02` — letter spacing tweak
+- `2026-09-04 12:02` — normalize font stack across platforms
+- `2026-09-04 12:02` — fix responsive type scale breakpoints
+- `2026-09-04 12:02` — update display heading tokens
+- `2026-09-04 12:02` — audit and clean up unused type styles
+- `2026-09-04 12:02` — align vertical rhythm tokens with type scale
+- `2026-09-04 12:02` — input field refinement
+- `2026-09-04 12:02` — card component update
+- `2026-09-04 12:02` — tooltip design tweak
+- `2026-09-04 12:02` — refine table row hover state tokens
+- `2026-09-04 12:02` — focus ring update
+- `2026-09-04 12:02` — border radius update
+- `2026-09-04 12:02` — z-index adjustment
+- `2026-09-04 12:02` — alignment correction
+- `2026-09-04 12:02` — fix ghost button hover color
+- `2026-09-04 12:02` — resolve visual glitch in dark mode
+- `2026-09-04 12:02` — fix broken transition on theme toggle
+- `2026-09-04 12:02` — patch off-by-one pixel alignment in grid
+- `2026-09-04 12:02` — patch inconsistent corner radius in form inputs
+- `2026-09-04 12:02` — animation duration update
+- `2026-09-04 12:02` — transition easing change
+- `2026-09-04 12:02` — loading animation tweak
+- `2026-09-04 12:02` — add migration notes for renamed tokens
+- `2026-09-04 12:02` — export latest tokens from Figma
+- `2026-09-05 22:26` — primary color update
+- `2026-09-05 22:26` — remap semantic color tokens to new primitives
+- `2026-09-05 22:26` — sync color tokens with latest Figma variables export
+- `2026-09-05 22:26` — adjust alpha values on overlay tokens
+- `2026-09-05 22:26` — refine success and warning color tokens
+- `2026-09-05 22:26` — update background color for elevated surfaces
+- `2026-09-05 22:26` — sync brand tokens with latest identity refresh
+- `2026-09-05 22:26` — pull latest brand variables from design system
+- `2026-09-05 22:26` — font weight adjustment
+- `2026-09-05 22:26` — bump body font size for readability
+- `2026-09-05 22:26` — align caption text tokens with spec
+- `2026-09-05 22:26` — fix missing italic weight token
+- `2026-09-05 22:26` — padding consistency fix
+- `2026-09-05 22:26` — margin alignment
+- `2026-09-05 22:26` — layout spacing refinement
+- `2026-09-05 22:26` — section spacing update
+- `2026-09-05 22:26` — audit spacing tokens for duplicate values
+- `2026-09-05 22:26` — tighten compact density spacing
+- `2026-09-05 22:26` — update page-level layout margins
+- `2026-09-05 22:26` — button style update
+- `2026-09-05 22:26` — modal design update
+- `2026-09-05 22:26` — navigation styling fix
+- `2026-09-05 22:26` — scroll animation fix
+- `2026-09-05 22:26` — add entrance animation for modal overlay
+- `2026-09-05 22:26` — add missing dark mode token variants
+- `2026-09-05 22:26` — add new surface token for overlay backgrounds
+- `2026-09-05 22:26` — patch broken token reference in components
+- `2026-09-05 22:26` — add focus token for custom components
+- `2026-09-05 22:26` — dropdown menu update
+- `2026-09-05 22:26` — checkbox style refresh
+- `2026-09-05 22:26` — tab component refinement
+- `2026-09-05 22:26` — update link component underline style
+- `2026-09-05 22:26` — fix icon size inconsistency in nav
+- `2026-09-05 22:26` — clean up form field error state styles
+- `2026-09-05 22:26` — update stepper component tokens
+- `2026-09-07 23:25` — patch divider component thickness
+- `2026-09-07 23:25` — update switch component track tokens
+- `2026-09-07 23:25` — hover state fix
+- `2026-09-07 23:25` — active state refinement
+- `2026-09-07 23:25` — disabled state styling
+- `2026-09-07 23:25` — responsive layout tweak
+- `2026-09-07 23:25` — shadow refinement
+- `2026-09-07 23:25` — update token output format to CSS variables
+- `2026-09-07 23:25` — wire up new semantic elevation tokens
+- `2026-09-07 23:25` — secondary palette refinement
+- `2026-09-07 23:25` — accent color adjustment
+- `2026-09-07 23:25` — color contrast fix
+- `2026-09-07 23:25` — dark mode color tweak
+- `2026-09-07 23:25` — color palette expansion
+- `2026-09-07 23:25` — overflow fix
+- `2026-09-07 23:25` — visual regression fix
+- `2026-09-07 23:25` — fix broken outline on focus for keyboard users
+- `2026-09-07 23:25` — patch stacking context issue in overlay
+- `2026-09-07 23:25` — correct misaligned icon in button component
+- `2026-09-07 23:25` — patch spacing regression from last merge
+- `2026-09-07 23:25` — clean up leftover debug border
+- `2026-09-07 23:25` — fix clipped text in compact variant
+- `2026-09-07 23:25` — resolve color bleed on adjacent components
+- `2026-09-07 23:25` — fix missing border on selected state
+- `2026-09-07 23:25` — correct elevation token on sticky header
+- `2026-09-07 23:25` — micro-interaction refinement
+- `2026-09-07 23:25` — smooth out tab transition timing
+- `2026-09-07 23:25` — remove jarring jump in accordion open
+- `2026-09-07 23:25` — refine easing curve on drawer slide
+- `2026-09-07 23:25` — update stagger delay for list animations
+- `2026-09-07 23:25` — fix bounce effect on toast notification
+- `2026-09-08 15:23` — normalize exit animation duration tokens
+- `2026-09-08 15:23` — update skeleton shimmer timing
+- `2026-09-08 15:23` — accessibility contrast fix
+- `2026-09-08 15:23` — keyboard navigation fix
+- `2026-09-08 15:23` — improve color contrast on disabled text
+- `2026-09-08 15:23` — ensure touch target meets 44px minimum
+- `2026-09-08 15:23` — brand color alignment
+- `2026-09-08 15:23` — surface color update
+- `2026-09-08 15:23` — semantic color token fix
+- `2026-09-08 15:23` — update neutral palette to reflect new brand direction
+- `2026-09-08 15:23` — fix off-brand blue in CTA components
+- `2026-09-08 15:23` — tweak surface colors for better light-mode legibility
+- `2026-09-10 11:51` — bump gray scale contrast levels
+- `2026-09-10 11:51` — patch inconsistent error color across states
+- `2026-09-10 11:51` — align info color with accessibility requirements
+- `2026-09-10 11:51` — brand token change
+- `2026-09-10 11:51` — brand font update
+- `2026-09-10 11:51` — brand spacing alignment
+- `2026-09-10 11:51` — brand asset refresh
+- `2026-09-10 11:51` — brand guideline sync
+- `2026-09-10 11:51` — update logo sizing constraints
+- `2026-09-10 11:51` — heading hierarchy fix
+- `2026-09-10 11:51` — font family swap
+- `2026-09-10 11:51` — tighten heading line height for large screens
+- `2026-09-10 11:51` — update monospace font token
+- `2026-09-10 11:51` — add fluid type scale tokens
+- `2026-09-10 11:51` — spacing token update
+- `2026-09-10 11:51` — grid gap adjustment
+- `2026-09-10 11:51` — normalize spacing scale to 8pt grid
+- `2026-09-10 11:51` — badge design update
+- `2026-09-10 11:51` — refine avatar sizing tokens
+- `2026-09-10 11:51` — refresh skeleton loader animation timing
+- `2026-09-10 11:51` — adjust chip component padding
+- `2026-09-10 11:51` — fix inline alert padding
+- `2026-09-10 11:51` — refine popover arrow token values
+- `2026-09-10 11:51` — audit color pairs for WCAG AA compliance
+- `2026-09-10 11:51` — patch low-contrast placeholder text
+- `2026-09-10 11:51` — reorganize token file structure
+- `2026-09-10 11:51` — consolidate duplicate component tokens
+- `2026-09-11 10:59` — split color tokens into primitives and semantics
+- `2026-09-11 10:59` — move hardcoded values to tokens
+- `2026-09-11 10:59` — deduplicate shadow definitions
+- `2026-09-11 10:59` — normalize token key casing
+- `2026-09-11 10:59` — extract repeated values into shared base tokens
+- `2026-09-11 10:59` — tidy up token category groupings
+- `2026-09-11 10:59` — update design token build script
+- `2026-09-11 10:59` — fix token export pipeline
+- `2026-09-11 10:59` — update Figma token sync config
+- `2026-09-11 10:59` — fix broken token transformer
+- `2026-09-11 10:59` — align brand palette with updated guidelines
+- `2026-09-11 10:59` — refresh brand gradient values
+- `2026-09-11 10:59` — update wordmark sizing token
+- `2026-09-11 10:59` — fix inconsistent inner padding on form elements
+- `2026-09-11 10:59` — add missing spacing token for inline elements
+- `2026-09-11 10:59` — fix content spacing inside card variants
+- `2026-09-11 10:59` — update progress bar color tokens
+- `2026-09-11 10:59` — tighten list item component spacing
+- `2026-09-11 10:59` — fix breadcrumb separator sizing
+- `2026-09-11 10:59` — tune reduced-motion fallback tokens
+- `2026-09-11 10:59` — focus indicator update
+- `2026-09-11 10:59` — screen reader label add
+- `2026-09-11 10:59` — aria attribute update
+- `2026-09-11 10:59` — add skip-to-content link tokens
+- `2026-09-11 10:59` — fix missing label on icon-only button
+- `2026-09-11 10:59` — update focus-visible styles for interactive elements
+- `2026-09-11 10:59` — add high-visibility focus token for forced-colors mode
+- `2026-09-11 10:59` — clean up token naming inconsistencies
+- `2026-09-11 10:59` — remove deprecated spacing tokens
+- `2026-09-11 10:59` — rename tokens to match new naming convention
+- `2026-09-11 10:59` — flatten nested token structure for clarity
+- `2026-09-11 10:59` — improve token validation script
+- `2026-09-11 10:59` — bump token schema version
+- `2026-09-11 10:59` — add token format checks to pre-commit
+- `2026-09-11 10:59` — clean up generated output artifacts
+- `2026-09-12 14:01` — update style dictionary config
+- `2026-09-12 14:01` — fix output path in token build config
+- `2026-09-12 14:01` — update token documentation
+- `2026-09-12 14:01` — add usage examples to component tokens
+- `2026-09-12 14:01` — document new color semantics
+- `2026-09-12 14:01` — update changelog format
+- `2026-09-12 14:01` — add inline docs to spacing scale
+- `2026-09-12 14:01` — document token alias conventions
+- `2026-09-12 14:01` — update README with latest token structure
+- `2026-09-12 14:01` — document dark mode token usage
+- `2026-09-12 14:01` — add token decision rationale to comments
+- `2026-09-12 14:01` — resolve token alias circular references
+- `2026-09-12 14:01` — add responsive token breakpoints
+- `2026-09-12 14:01` — add high-contrast mode token set
+- `2026-09-12 14:01` — sync token schema with style dictionary config
+- `2026-09-12 14:01` — add compact density token tier
+- `2026-09-12 14:01` — reconcile brand color with new creative direction
+- `2026-09-12 14:01` — typography scale update
+- `2026-09-12 14:01` — line height refinement
+- `2026-09-12 14:01` — body text improvement
+- `2026-09-12 14:01` — letter spacing tweak
+- `2026-09-12 14:01` — normalize font stack across platforms
+- `2026-09-12 14:01` — fix responsive type scale breakpoints
+- `2026-09-12 14:01` — update display heading tokens
+- `2026-09-12 14:01` — audit and clean up unused type styles
+- `2026-09-12 14:01` — align vertical rhythm tokens with type scale
+- `2026-09-12 14:01` — input field refinement
+- `2026-09-12 14:01` — card component update
+- `2026-09-13 23:12` — tooltip design tweak
+- `2026-09-13 23:12` — refine table row hover state tokens
+- `2026-09-13 23:12` — focus ring update
+- `2026-09-13 23:12` — border radius update
+- `2026-09-13 23:12` — z-index adjustment
+- `2026-09-13 23:12` — alignment correction
+- `2026-09-13 23:12` — fix ghost button hover color
+- `2026-09-13 23:12` — resolve visual glitch in dark mode
+- `2026-09-13 23:12` — fix broken transition on theme toggle
+- `2026-09-13 23:12` — patch off-by-one pixel alignment in grid
+- `2026-09-13 23:12` — patch inconsistent corner radius in form inputs
+- `2026-09-13 23:12` — animation duration update
+- `2026-09-13 23:12` — transition easing change
+- `2026-09-13 23:12` — loading animation tweak
+- `2026-09-13 23:12` — add migration notes for renamed tokens
+- `2026-09-13 23:12` — export latest tokens from Figma
+- `2026-09-13 23:12` — primary color update
+- `2026-09-13 23:12` — remap semantic color tokens to new primitives
+- `2026-09-13 23:12` — sync color tokens with latest Figma variables export
+- `2026-09-13 23:12` — adjust alpha values on overlay tokens
+- `2026-09-13 23:12` — refine success and warning color tokens
+- `2026-09-13 23:12` — update background color for elevated surfaces
+- `2026-09-13 23:12` — sync brand tokens with latest identity refresh
+- `2026-09-13 23:12` — pull latest brand variables from design system
+- `2026-09-13 23:12` — font weight adjustment
+- `2026-09-13 23:12` — bump body font size for readability
+- `2026-09-13 23:12` — align caption text tokens with spec
+- `2026-09-13 23:12` — fix missing italic weight token
+- `2026-09-13 23:12` — padding consistency fix
+- `2026-09-13 23:12` — margin alignment
+- `2026-09-13 23:12` — layout spacing refinement
+- `2026-09-15 13:26` — section spacing update
+- `2026-09-15 13:26` — audit spacing tokens for duplicate values
+- `2026-09-15 13:26` — tighten compact density spacing
+- `2026-09-15 13:26` — update page-level layout margins
+- `2026-09-15 13:26` — button style update
+- `2026-09-15 13:26` — modal design update
+- `2026-09-15 13:26` — navigation styling fix
+- `2026-09-15 13:26` — dropdown menu update
+- `2026-09-15 13:26` — checkbox style refresh
+- `2026-09-15 13:26` — tab component refinement
+- `2026-09-15 13:26` — update link component underline style
+- `2026-09-15 13:26` — fix icon size inconsistency in nav
+- `2026-09-15 13:26` — clean up form field error state styles
+- `2026-09-15 13:26` — update stepper component tokens
+- `2026-09-15 13:26` — scroll animation fix
+- `2026-09-15 13:26` — add entrance animation for modal overlay
+- `2026-09-15 13:26` — add missing dark mode token variants
+- `2026-09-15 13:26` — add new surface token for overlay backgrounds
+- `2026-09-15 13:26` — patch broken token reference in components
+- `2026-09-15 13:26` — add focus token for custom components
+- `2026-09-15 13:26` — secondary palette refinement
+- `2026-09-15 13:26` — accent color adjustment
+- `2026-09-15 13:26` — color contrast fix
+- `2026-09-15 13:26` — dark mode color tweak
+- `2026-09-15 13:26` — color palette expansion
+- `2026-09-15 13:26` — patch divider component thickness
+- `2026-09-15 13:26` — update switch component track tokens
+- `2026-09-15 13:26` — hover state fix
+- `2026-09-15 13:26` — active state refinement
+- `2026-09-15 13:26` — disabled state styling
+- `2026-09-15 13:26` — responsive layout tweak
+- `2026-09-15 13:26` — shadow refinement
+- `2026-09-15 13:26` — overflow fix
+- `2026-09-15 13:26` — visual regression fix
+- `2026-09-15 13:26` — fix broken outline on focus for keyboard users
+- `2026-09-15 13:27` — patch stacking context issue in overlay
+- `2026-09-15 13:27` — correct misaligned icon in button component
+- `2026-09-15 13:27` — patch spacing regression from last merge
+- `2026-09-15 13:27` — clean up leftover debug border
+- `2026-09-15 13:27` — fix clipped text in compact variant
+- `2026-09-15 13:27` — resolve color bleed on adjacent components
+- `2026-09-15 13:27` — fix missing border on selected state
+- `2026-09-15 13:27` — correct elevation token on sticky header
+- `2026-09-15 13:27` — micro-interaction refinement
+- `2026-09-15 13:27` — smooth out tab transition timing
+- `2026-09-15 13:27` — remove jarring jump in accordion open
+- `2026-09-15 13:27` — refine easing curve on drawer slide
+- `2026-09-15 13:27` — update stagger delay for list animations
+- `2026-09-15 13:27` — fix bounce effect on toast notification
+- `2026-09-16 15:37` — update token output format to CSS variables
+- `2026-09-16 15:37` — wire up new semantic elevation tokens
+- `2026-09-16 15:37` — brand color alignment
+- `2026-09-16 15:37` — surface color update
+- `2026-09-16 15:37` — semantic color token fix
+- `2026-09-16 15:37` — update neutral palette to reflect new brand direction
+- `2026-09-16 15:37` — fix off-brand blue in CTA components
+- `2026-09-16 15:37` — tweak surface colors for better light-mode legibility
+- `2026-09-16 15:37` — normalize exit animation duration tokens
+- `2026-09-16 15:37` — update skeleton shimmer timing
+- `2026-09-16 15:37` — accessibility contrast fix
+- `2026-09-16 15:37` — keyboard navigation fix
+- `2026-09-16 15:37` — improve color contrast on disabled text
+- `2026-09-16 15:37` — ensure touch target meets 44px minimum
+- `2026-09-16 15:37` — bump gray scale contrast levels
+- `2026-09-16 15:37` — patch inconsistent error color across states
+- `2026-09-16 15:37` — align info color with accessibility requirements
+- `2026-09-16 15:37` — brand token change
+- `2026-09-16 15:37` — brand font update
+- `2026-09-16 15:37` — brand spacing alignment
+- `2026-09-16 15:37` — brand asset refresh
+- `2026-09-16 15:37` — brand guideline sync
+- `2026-09-17 14:41` — rename elevation tokens for consistency
+- `2026-09-17 14:41` — polish form field padding in dark mode
+- `2026-09-17 14:41` — add missing typography token for drawer
+- `2026-09-17 14:41` — soften dialog exit animation
+- `2026-09-17 14:41` — a11y: improve contrast on card
+- `2026-09-17 14:41` — tweak file upload border radius in high-contrast mode
+- `2026-09-17 14:41` — style: refine table row font size
+- `2026-09-17 14:41` — update spinner transition
+- `2026-09-17 14:41` — adjust skeleton focus ring for RTL layouts
+- `2026-09-17 14:41` — add missing border token for tab
+- `2026-09-17 14:41` — fix menu item icon size on touch devices
+- `2026-09-17 14:41` — adjust banner transition timing
+- `2026-09-17 14:41` — rebalance the elevation scale
+- `2026-09-17 14:41` — correct divider max-height in nested layouts
+- `2026-09-17 14:41` — soften select exit animation
+- `2026-09-17 14:41` — tune menu item transition timing
+- `2026-09-17 14:41` — refine pagination min-width at tablet widths
+- `2026-09-17 14:41` — resolve chip alignment in high-contrast mode
+- `2026-09-17 14:41` — consolidate duplicate typography tokens
+- `2026-09-17 14:41` — tweak card min-width
+- `2026-09-17 14:41` — refine spinner border color in the mobile nav
+- `2026-09-17 14:41` — tweak dropdown font size in dark mode
+- `2026-09-17 14:41` — feat: polish the type scale
+- `2026-09-17 14:41` — resolve form field transition in nested layouts
+- `2026-09-17 14:41` — fix keyboard navigation in button
+- `2026-09-17 14:41` — correct divider transition
+- `2026-09-17 14:41` — resolve page header background in the sidebar
+- `2026-09-20 21:57` — correct dialog elevation
+- `2026-09-20 21:57` — patch divider disabled state
+- `2026-09-20 21:57` — soften pagination exit animation
+- `2026-09-20 21:57` — add missing radius token for checkbox
+- `2026-09-20 21:57` — correct tree view text color
+- `2026-09-20 21:57` — update footer font weight in high-contrast mode
+- `2026-09-20 21:57` — rename shadow tokens for consistency
+- `2026-09-20 21:57` — adjust avatar padding for long content
+- `2026-09-20 21:57` — fix keyboard navigation in input
+- `2026-09-20 21:57` — fix accordion text color
+- `2026-09-20 21:57` — style: polish checkbox transition timing
+- `2026-09-20 21:57` — rebalance the z-index scale
+- `2026-09-20 21:57` — consolidate duplicate elevation tokens
+- `2026-09-20 21:57` — feat: add missing border token for input
+- `2026-09-22 10:07` — patch select disabled state
+- `2026-09-22 10:07` — tweak the type scale
+- `2026-09-22 10:07` — resolve radio group padding in the mobile nav
+- `2026-09-22 10:07` — resolve stepper transition in compact density
+- `2026-09-22 10:07` — normalize footer placeholder color
+- `2026-09-22 10:07` — update segmented control loading state in the sidebar
+- `2026-09-22 10:07` — normalize link spacing
+- `2026-09-22 10:07` — normalize table row alignment
+- `2026-09-22 10:07` — style: normalize footer placeholder color
+- `2026-09-22 10:07` — fix progress bar disabled state
+- `2026-09-22 10:07` — fix card letter spacing
+- `2026-09-22 10:07` — style: update the radius scale
+- `2026-09-22 10:07` — patch stepper line height
+- `2026-09-22 10:07` — patch date picker loading state
+- `2026-09-22 10:07` — fix nav spacing
+- `2026-09-22 10:07` — correct tab transition in compact density
+- `2026-09-22 10:07` — simplify the spacing scale
+- `2026-09-22 10:07` — patch slider icon size in compact density
+- `2026-09-22 10:07` — polish empty state selected state in modal context
+- `2026-09-22 10:07` — correct radio group font size
+- `2026-09-22 10:07` — respect reduced motion in drawer
+- `2026-09-23 10:43` — normalize tag border radius
+- `2026-09-23 10:43` — remove unused motion tokens
+- `2026-09-23 10:43` — polish sidebar transition timing
+- `2026-09-23 10:43` — refine dialog font weight in the mobile nav
+- `2026-09-23 10:43` — adjust select transition timing
+- `2026-09-23 10:43` — document border token usage
+- `2026-09-23 10:43` — fix button outline on touch devices
+- `2026-09-23 10:43` — style: update breadcrumb divider color
+- `2026-09-23 10:43` — resolve page header disabled state
+- `2026-09-23 10:43` — patch alert disabled state in form layouts
+- `2026-09-23 10:43` — fix snackbar background in modal context
+- `2026-09-23 10:43` — style: adjust progress bar gap
+- `2026-09-23 10:43` — correct tree view opacity for long content
+- `2026-09-23 10:43` — patch drawer padding for RTL layouts
+- `2026-09-23 10:43` — soften tab entrance animation
+- `2026-09-23 10:43` — normalize accordion font weight
+- `2026-09-23 10:43` — add aria label to icon button
+- `2026-09-23 10:43` — update select placeholder color in modal context
+- `2026-09-23 10:43` — correct file upload font size on touch devices
+- `2026-09-23 10:43` — resolve slider outline
+- `2026-09-23 10:43` — adjust tooltip gap on mobile
+- `2026-09-23 10:43` — style: update icon button min-width
+- `2026-09-23 10:43` — add missing semantic token for accordion
+- `2026-09-23 10:43` — resolve icon button alignment at small breakpoints
+- `2026-09-23 10:43` — add aria label to file upload
+- `2026-09-23 10:43` — respect reduced motion in menu item
+- `2026-09-23 10:43` — add missing semantic token for badge
+- `2026-09-24 22:53` — style: polish the opacity scale
+- `2026-09-24 22:53` — remove unused color tokens
+- `2026-09-24 22:53` — refactor: rename radius tokens for consistency
+- `2026-09-24 22:53` — adjust menu item transition timing
+- `2026-09-24 22:53` — resolve search bar outline
+- `2026-09-24 22:53` — feat: refine the elevation scale
+- `2026-09-24 22:53` — tweak snackbar elevation
+- `2026-09-24 22:53` — add missing spacing token for date picker
+- `2026-09-24 22:53` — add aria label to empty state
+- `2026-09-24 22:53` — remove unused border tokens
+- `2026-09-24 22:53` — rename radius tokens for consistency
+- `2026-09-24 22:53` — update skeleton line height in compact density
+- `2026-09-26 19:24` — add missing color token for progress bar
+- `2026-09-26 19:24` — tweak toast transition timing
+- `2026-09-26 19:24` — patch tree view min-width
+- `2026-09-26 19:24` — normalize alert icon size in modal context
+- `2026-09-29 08:34` — update skeleton focus ring for RTL layouts
+- `2026-09-29 08:34` — polish the spacing scale
+- `2026-09-29 08:34` — patch avatar padding in high-contrast mode
+- `2026-09-29 08:34` — style: tweak stepper background for RTL layouts
+- `2026-09-29 08:34` — improve touch target size on toast
+- `2026-09-29 08:34` — respect reduced motion in card
+- `2026-09-29 08:34` — respect reduced motion in stepper
+- `2026-09-29 08:34` — correct date picker text color for long content
+- `2026-09-29 08:34` — fix keyboard navigation in card
+- `2026-09-29 08:34` — correct accordion max-height
+- `2026-09-29 08:34` — correct file upload placeholder color
+- `2026-09-29 08:34` — correct breadcrumb loading state on mobile
+- `2026-09-29 08:34` — resolve switch border radius
+- `2026-09-29 08:34` — resolve progress bar padding
+- `2026-09-29 08:34` — normalize card letter spacing in dark mode
+- `2026-09-29 08:34` — update dropdown border color at small breakpoints

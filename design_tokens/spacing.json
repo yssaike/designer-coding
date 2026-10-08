@@ -1,0 +1,21 @@
+{
+  "xxs": "12px",
+  "xs": "40px",
+  "sm": "40px",
+  "md": "12px",
+  "base": "64px",
+  "lg": "10px",
+  "xl": "32px",
+  "2xl": "16px",
+  "3xl": "64px",
+  "4xl": "6px",
+  "5xl": "2px",
+  "6xl": "48px",
+  "7xl": "24px",
+  "sectionGap": "64px",
+  "containerPadding": "2px",
+  "cardPadding": "12px",
+  "inputPadding": "8px",
+  "buttonPaddingX": "16px",
+  "buttonPaddingY": "6px"
+}
