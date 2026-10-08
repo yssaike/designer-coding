@@ -5186,3 +5186,4 @@
 - `2026-10-07 17:16` — update menu item min-width in modal context
 - `2026-10-07 17:16` — correct elevation token on sticky header
 - `2026-10-07 17:16` — fix responsive type scale breakpoints
+- `2026-10-07 17:16` — update background color for elevated surfaces
