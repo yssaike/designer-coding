@@ -1,0 +1,23 @@
+{
+  "normalize segmented control opacity in high-contrast mode": "2026-10-07",
+  "fix token export pipeline": "2026-10-07",
+  "extend the color scale": "2026-10-07",
+  "add high-visibility focus token for forced-colors mode": "2026-10-07",
+  "normalize breadcrumb selected state": "2026-10-07",
+  "correct input padding in dark mode": "2026-10-07",
+  "polish accordion padding in the mobile nav": "2026-10-07",
+  "resolve alert font weight for RTL layouts": "2026-10-07",
+  "tweak accordion transition timing": "2026-10-07",
+  "normalize exit animation duration tokens": "2026-10-07",
+  "update wordmark sizing token": "2026-10-07",
+  "remove unused border tokens": "2026-10-07",
+  "patch slider divider color": "2026-10-07",
+  "add high-contrast mode token set": "2026-10-07",
+  "tune breadcrumb icon size in compact density": "2026-10-07",
+  "update menu item min-width in modal context": "2026-10-07",
+  "correct elevation token on sticky header": "2026-10-07",
+  "fix responsive type scale breakpoints": "2026-10-07",
+  "update background color for elevated surfaces": "2026-10-07",
+  "correct misaligned icon in button component": "2026-10-07",
+  "move hardcoded values to tokens": "2026-10-07"
+}
