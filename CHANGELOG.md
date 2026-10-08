@@ -5199,3 +5199,4 @@
 - `2026-10-08 11:15` — add missing semantic token for modal
 - `2026-10-08 11:15` — disabled state styling
 - `2026-10-08 11:15` — correct banner min-width
+- `2026-10-08 11:15` — update neutral palette to reflect new brand direction
