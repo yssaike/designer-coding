@@ -5179,3 +5179,4 @@
 - `2026-10-07 17:16` — tweak accordion transition timing
 - `2026-10-07 17:16` — normalize exit animation duration tokens
 - `2026-10-07 17:16` — update wordmark sizing token
+- `2026-10-07 17:16` — remove unused border tokens
