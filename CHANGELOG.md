@@ -5203,3 +5203,4 @@
 - `2026-10-08 11:15` — consolidate duplicate typography tokens
 - `2026-10-13 00:34` — add compact density token tier
 - `2026-10-13 00:34` — tweak dialog transition timing
+- `2026-10-13 00:34` — polish tag active state in modal context
