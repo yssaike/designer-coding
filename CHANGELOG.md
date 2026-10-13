@@ -5204,3 +5204,4 @@
 - `2026-10-13 00:34` — add compact density token tier
 - `2026-10-13 00:34` — tweak dialog transition timing
 - `2026-10-13 00:34` — polish tag active state in modal context
+- `2026-10-13 00:34` — resolve visual glitch in dark mode
