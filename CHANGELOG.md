@@ -5206,3 +5206,4 @@
 - `2026-10-13 00:34` — polish tag active state in modal context
 - `2026-10-13 00:34` — resolve visual glitch in dark mode
 - `2026-10-13 00:34` — update design token build script
+- `2026-10-13 00:34` — align vertical rhythm tokens with type scale
