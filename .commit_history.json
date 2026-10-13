@@ -19,5 +19,17 @@
   "fix responsive type scale breakpoints": "2026-10-07",
   "update background color for elevated surfaces": "2026-10-07",
   "correct misaligned icon in button component": "2026-10-07",
-  "move hardcoded values to tokens": "2026-10-07"
+  "move hardcoded values to tokens": "2026-10-07",
+  "document spacing token usage": "2026-10-08",
+  "soften textarea exit animation": "2026-10-08",
+  "remove deprecated spacing tokens": "2026-10-08",
+  "refine card transition": "2026-10-08",
+  "patch input spacing": "2026-10-08",
+  "style: normalize checkbox alignment": "2026-10-08",
+  "normalize accordion spacing on touch devices": "2026-10-08",
+  "add missing semantic token for modal": "2026-10-08",
+  "disabled state styling": "2026-10-08",
+  "correct banner min-width": "2026-10-08",
+  "update neutral palette to reflect new brand direction": "2026-10-08",
+  "consolidate duplicate typography tokens": "2026-10-08"
 }
