@@ -5217,3 +5217,4 @@
 - `2026-10-14 16:22` — add missing motion token for pagination
 - `2026-10-14 16:22` — correct sidebar elevation for long content
 - `2026-10-14 16:22` — normalize segmented control transition timing
+- `2026-10-14 16:22` — resolve icon button letter spacing in compact density
