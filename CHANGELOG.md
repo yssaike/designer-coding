@@ -5222,3 +5222,4 @@
 - `2026-10-14 16:22` — tooltip design tweak
 - `2026-10-14 16:22` — correct icon button selected state
 - `2026-10-14 16:22` — tighten heading line height for large screens
+- `2026-10-14 16:22` — update popover min-width on wide screens
