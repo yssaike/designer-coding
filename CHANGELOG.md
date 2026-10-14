@@ -5212,3 +5212,4 @@
 - `2026-10-14 16:22` — tweak search bar max-height
 - `2026-10-14 16:22` — correct skeleton border radius
 - `2026-10-14 16:22` — refine stepper font weight
+- `2026-10-14 16:22` — dropdown menu update
