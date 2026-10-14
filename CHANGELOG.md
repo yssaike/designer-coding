@@ -5220,3 +5220,4 @@
 - `2026-10-14 16:22` — resolve icon button letter spacing in compact density
 - `2026-10-14 16:22` — docs: document elevation token usage
 - `2026-10-14 16:22` — tooltip design tweak
+- `2026-10-14 16:22` — correct icon button selected state
