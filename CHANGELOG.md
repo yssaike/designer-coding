@@ -5215,3 +5215,4 @@
 - `2026-10-14 16:22` — dropdown menu update
 - `2026-10-14 16:22` — patch badge opacity
 - `2026-10-14 16:22` — add missing motion token for pagination
+- `2026-10-14 16:22` — correct sidebar elevation for long content
