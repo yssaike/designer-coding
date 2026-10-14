@@ -5210,3 +5210,4 @@
 - `2026-10-13 00:34` — spacing token update
 - `2026-10-13 00:34` — correct divider divider color in dark mode
 - `2026-10-14 16:22` — tweak search bar max-height
+- `2026-10-14 16:22` — correct skeleton border radius
