@@ -5225,3 +5225,4 @@
 - `2026-10-14 16:22` — update popover min-width on wide screens
 - `2026-10-15 01:42` — grid gap adjustment
 - `2026-10-15 01:42` — feat: add missing radius token for toast
+- `2026-10-15 01:42` — split color tokens into primitives and semantics
