@@ -5238,3 +5238,4 @@
 - `2026-10-15 01:42` — style: respect reduced motion in radio group
 - `2026-10-15 01:42` — accent color adjustment
 - `2026-10-15 01:42` — navigation styling fix
+- `2026-10-15 01:42` — rename border tokens for consistency
