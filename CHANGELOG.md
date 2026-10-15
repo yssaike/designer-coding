@@ -5229,3 +5229,4 @@
 - `2026-10-15 01:42` — resolve dialog font size
 - `2026-10-15 01:42` — remove jarring jump in accordion open
 - `2026-10-15 01:42` — document typography token usage
+- `2026-10-15 01:42` — resolve breadcrumb divider color in the sidebar
