@@ -5231,3 +5231,4 @@
 - `2026-10-15 01:42` — document typography token usage
 - `2026-10-15 01:42` — resolve breadcrumb divider color in the sidebar
 - `2026-10-15 01:42` — fix missing italic weight token
+- `2026-10-15 01:42` — animation duration update
