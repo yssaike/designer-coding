@@ -5242,3 +5242,4 @@
 - `2026-10-15 01:42` — improve contrast on segmented control
 - `2026-10-15 01:42` — style: adjust radio group icon size
 - `2026-10-15 01:42` — style: tune skeleton outline
+- `2026-10-15 01:42` — add focus token for custom components
