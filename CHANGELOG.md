@@ -5237,3 +5237,4 @@
 - `2026-10-15 01:42` — feat: tune the type scale
 - `2026-10-15 01:42` — style: respect reduced motion in radio group
 - `2026-10-15 01:42` — accent color adjustment
+- `2026-10-15 01:42` — navigation styling fix
