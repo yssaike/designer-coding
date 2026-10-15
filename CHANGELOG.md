@@ -5226,3 +5226,4 @@
 - `2026-10-15 01:42` — grid gap adjustment
 - `2026-10-15 01:42` — feat: add missing radius token for toast
 - `2026-10-15 01:42` — split color tokens into primitives and semantics
+- `2026-10-15 01:42` — resolve dialog font size
