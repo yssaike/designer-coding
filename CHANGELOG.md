@@ -5233,3 +5233,4 @@
 - `2026-10-15 01:42` — fix missing italic weight token
 - `2026-10-15 01:42` — animation duration update
 - `2026-10-15 01:42` — brand font update
+- `2026-10-15 01:42` — update skeleton shimmer timing
