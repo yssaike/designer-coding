@@ -5228,3 +5228,4 @@
 - `2026-10-15 01:42` — split color tokens into primitives and semantics
 - `2026-10-15 01:42` — resolve dialog font size
 - `2026-10-15 01:42` — remove jarring jump in accordion open
+- `2026-10-15 01:42` — document typography token usage
