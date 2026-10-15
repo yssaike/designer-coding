@@ -5243,3 +5243,4 @@
 - `2026-10-15 01:42` — style: adjust radio group icon size
 - `2026-10-15 01:42` — style: tune skeleton outline
 - `2026-10-15 01:42` — add focus token for custom components
+- `2026-10-15 01:42` — tweak table row min-width
