@@ -5235,3 +5235,4 @@
 - `2026-10-15 01:42` — brand font update
 - `2026-10-15 01:42` — update skeleton shimmer timing
 - `2026-10-15 01:42` — feat: tune the type scale
+- `2026-10-15 01:42` — style: respect reduced motion in radio group
