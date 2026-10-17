@@ -5249,3 +5249,4 @@
 - `2026-10-17 13:09` — brand token change
 - `2026-10-17 13:09` — improve touch target size on footer
 - `2026-10-17 13:09` — style: adjust tooltip selected state
+- `2026-10-17 13:09` — meet WCAG AA contrast on progress bar
