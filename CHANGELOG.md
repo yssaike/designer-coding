@@ -5253,3 +5253,4 @@
 - `2026-10-17 13:09` — soften skeleton exit animation
 - `2026-10-17 13:09` — correct drawer focus ring
 - `2026-10-17 13:09` — focus ring update
+- `2026-10-17 13:09` — style: tweak banner transition
