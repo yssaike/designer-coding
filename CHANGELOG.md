@@ -5245,3 +5245,4 @@
 - `2026-10-15 01:42` — add focus token for custom components
 - `2026-10-15 01:42` — tweak table row min-width
 - `2026-10-17 13:09` — soften card hover animation
+- `2026-10-17 13:09` — a11y: meet WCAG AA contrast on segmented control
