@@ -5248,3 +5248,4 @@
 - `2026-10-17 13:09` — a11y: meet WCAG AA contrast on segmented control
 - `2026-10-17 13:09` — brand token change
 - `2026-10-17 13:09` — improve touch target size on footer
+- `2026-10-17 13:09` — style: adjust tooltip selected state
