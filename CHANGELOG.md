@@ -5254,3 +5254,4 @@
 - `2026-10-17 13:09` — correct drawer focus ring
 - `2026-10-17 13:09` — focus ring update
 - `2026-10-17 13:09` — style: tweak banner transition
+- `2026-10-17 13:09` — reconcile brand color with new creative direction
