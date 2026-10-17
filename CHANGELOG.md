@@ -5251,3 +5251,4 @@
 - `2026-10-17 13:09` — style: adjust tooltip selected state
 - `2026-10-17 13:09` — meet WCAG AA contrast on progress bar
 - `2026-10-17 13:09` — soften skeleton exit animation
+- `2026-10-17 13:09` — correct drawer focus ring
