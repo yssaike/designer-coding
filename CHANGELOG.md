@@ -5267,3 +5267,4 @@
 - `2026-10-24 15:02` — correct textarea line height for long content
 - `2026-10-24 15:02` — patch page header transition
 - `2026-10-24 15:02` — add aria label to card
+- `2026-10-24 15:02` — add new surface token for overlay backgrounds
