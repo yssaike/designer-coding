@@ -5258,3 +5258,4 @@
 - `2026-10-17 13:09` — polish list item outline
 - `2026-10-24 15:02` — tune button focus ring in nested layouts
 - `2026-10-24 15:02` — flatten nested token structure for clarity
+- `2026-10-24 15:02` — update token output format to CSS variables
