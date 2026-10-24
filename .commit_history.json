@@ -74,5 +74,17 @@
   "style: adjust radio group icon size": "2026-10-15",
   "style: tune skeleton outline": "2026-10-15",
   "add focus token for custom components": "2026-10-15",
-  "tweak table row min-width": "2026-10-15"
+  "tweak table row min-width": "2026-10-15",
+  "soften card hover animation": "2026-10-17",
+  "a11y: meet WCAG AA contrast on segmented control": "2026-10-17",
+  "brand token change": "2026-10-17",
+  "improve touch target size on footer": "2026-10-17",
+  "style: adjust tooltip selected state": "2026-10-17",
+  "meet WCAG AA contrast on progress bar": "2026-10-17",
+  "soften skeleton exit animation": "2026-10-17",
+  "correct drawer focus ring": "2026-10-17",
+  "focus ring update": "2026-10-17",
+  "style: tweak banner transition": "2026-10-17",
+  "reconcile brand color with new creative direction": "2026-10-17",
+  "polish list item outline": "2026-10-17"
 }
