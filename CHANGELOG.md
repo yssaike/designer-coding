@@ -5265,3 +5265,4 @@
 - `2026-10-24 15:02` — resolve token alias circular references
 - `2026-10-24 15:02` — fix switch outline at tablet widths
 - `2026-10-24 15:02` — correct textarea line height for long content
+- `2026-10-24 15:02` — patch page header transition
