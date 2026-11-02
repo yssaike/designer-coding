@@ -5282,3 +5282,4 @@
 - `2026-11-02 00:40` — soften empty state hover animation
 - `2026-11-02 00:40` — update skeleton selected state on touch devices
 - `2026-11-02 00:40` — ensure touch target meets 44px minimum
+- `2026-11-02 00:40` — adjust accordion elevation
