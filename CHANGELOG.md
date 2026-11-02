@@ -5276,3 +5276,4 @@
 - `2026-11-02 00:40` — document motion token usage
 - `2026-11-02 00:40` — fix keyboard navigation in textarea
 - `2026-11-02 00:40` — add aria label to spinner
+- `2026-11-02 00:40` — update neutral palette to reflect new brand direction
