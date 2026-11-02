@@ -5268,3 +5268,4 @@
 - `2026-10-24 15:02` — patch page header transition
 - `2026-10-24 15:02` — add aria label to card
 - `2026-10-24 15:02` — add new surface token for overlay backgrounds
+- `2026-11-02 00:40` — resolve link padding
