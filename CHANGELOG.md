@@ -5280,3 +5280,4 @@
 - `2026-11-02 00:40` — correct banner active state at small breakpoints
 - `2026-11-02 00:40` — add usage examples to component tokens
 - `2026-11-02 00:40` — soften empty state hover animation
+- `2026-11-02 00:40` — update skeleton selected state on touch devices
