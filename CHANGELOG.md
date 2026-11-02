@@ -5273,3 +5273,4 @@
 - `2026-11-02 00:40` — style: tune footer transition timing
 - `2026-11-02 00:40` — input field refinement
 - `2026-11-02 00:40` — respect reduced motion in divider
+- `2026-11-02 00:40` — document motion token usage
