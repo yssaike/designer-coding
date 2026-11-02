@@ -5284,3 +5284,4 @@
 - `2026-11-02 00:40` — ensure touch target meets 44px minimum
 - `2026-11-02 00:40` — adjust accordion elevation
 - `2026-11-02 00:40` — fix modal placeholder color
+- `2026-11-02 00:40` — style: soften card exit animation
