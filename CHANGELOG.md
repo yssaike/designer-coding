@@ -5285,3 +5285,4 @@
 - `2026-11-02 00:40` — adjust accordion elevation
 - `2026-11-02 00:40` — fix modal placeholder color
 - `2026-11-02 00:40` — style: soften card exit animation
+- `2026-11-02 00:40` — audit spacing tokens for duplicate values
