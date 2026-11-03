@@ -5303,3 +5303,4 @@
 - `2026-11-03 13:05` — fix clipped text in compact variant
 - `2026-11-03 13:05` — color contrast fix
 - `2026-11-03 13:05` — fix content spacing inside card variants
+- `2026-11-03 13:05` — rename typography tokens for consistency
