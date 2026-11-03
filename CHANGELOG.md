@@ -5292,3 +5292,4 @@
 - `2026-11-03 13:05` — align info color with accessibility requirements
 - `2026-11-03 13:05` — tweak modal border radius
 - `2026-11-03 13:05` — style: adjust slider placeholder color in high-contrast mode
+- `2026-11-03 13:05` — tweak snackbar min-width for RTL layouts
