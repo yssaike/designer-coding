@@ -5298,3 +5298,4 @@
 - `2026-11-03 13:05` — soften nav entrance animation
 - `2026-11-03 13:05` — tune slider selected state in the mobile nav
 - `2026-11-03 13:05` — fix icon size inconsistency in nav
+- `2026-11-03 13:05` — normalize popover max-height in dark mode
