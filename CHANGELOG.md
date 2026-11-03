@@ -5305,3 +5305,4 @@
 - `2026-11-03 13:05` — fix content spacing inside card variants
 - `2026-11-03 13:05` — rename typography tokens for consistency
 - `2026-11-03 13:05` — add missing spacing token for inline elements
+- `2026-11-03 13:05` — accessibility contrast fix
