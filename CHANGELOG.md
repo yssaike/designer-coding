@@ -5301,3 +5301,4 @@
 - `2026-11-03 13:05` — normalize popover max-height in dark mode
 - `2026-11-03 13:05` — correct badge spacing
 - `2026-11-03 13:05` — fix clipped text in compact variant
+- `2026-11-03 13:05` — color contrast fix
