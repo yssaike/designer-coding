@@ -5290,3 +5290,4 @@
 - `2026-11-02 00:40` — respect reduced motion in slider
 - `2026-11-02 00:40` — consolidate duplicate motion tokens
 - `2026-11-03 13:05` — align info color with accessibility requirements
+- `2026-11-03 13:05` — tweak modal border radius
