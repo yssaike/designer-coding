@@ -5319,3 +5319,4 @@
 - `2026-11-04 23:45` — consolidate duplicate primitive tokens
 - `2026-11-04 23:45` — polish table row padding in compact density
 - `2026-11-04 23:45` — improve contrast on tag
+- `2026-11-04 23:45` — resolve form field active state
