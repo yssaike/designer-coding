@@ -5324,3 +5324,4 @@
 - `2026-11-04 23:45` — update token documentation
 - `2026-11-04 23:45` — patch footer disabled state in dark mode
 - `2026-11-04 23:45` — resolve color bleed on adjacent components
+- `2026-11-04 23:45` — fix modal opacity
