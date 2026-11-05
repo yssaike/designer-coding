@@ -5316,3 +5316,4 @@
 - `2026-11-04 23:45` — adjust footer border color for long content
 - `2026-11-04 23:45` — polish stepper transition timing
 - `2026-11-04 23:45` — polish the elevation scale
+- `2026-11-04 23:45` — consolidate duplicate primitive tokens
