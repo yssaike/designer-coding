@@ -5310,3 +5310,4 @@
 - `2026-11-03 13:05` — refine footer transition timing
 - `2026-11-03 13:05` — style: refine divider color token
 - `2026-11-03 13:05` — bump gray scale contrast levels
+- `2026-11-04 23:45` — fix checkbox hover state in the mobile nav
