@@ -5312,3 +5312,4 @@
 - `2026-11-03 13:05` — bump gray scale contrast levels
 - `2026-11-04 23:45` — fix checkbox hover state in the mobile nav
 - `2026-11-04 23:45` — disabled state styling
+- `2026-11-04 23:45` — refine slider transition timing
