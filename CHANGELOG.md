@@ -5337,3 +5337,4 @@
 - `2026-11-06 12:16` — correct tag focus ring in modal context
 - `2026-11-06 12:16` — card component update
 - `2026-11-06 12:16` — respect reduced motion in snackbar
+- `2026-11-06 12:16` — normalize radio group font weight in the sidebar
