@@ -5339,3 +5339,4 @@
 - `2026-11-06 12:16` — respect reduced motion in snackbar
 - `2026-11-06 12:16` — normalize radio group font weight in the sidebar
 - `2026-11-06 12:16` — add token decision rationale to comments
+- `2026-11-06 12:16` — sync brand tokens with latest identity refresh
