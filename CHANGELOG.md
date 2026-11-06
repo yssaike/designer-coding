@@ -5334,3 +5334,4 @@
 - `2026-11-06 12:16` — fix tooltip icon size
 - `2026-11-06 12:16` — correct breadcrumb background
 - `2026-11-06 12:16` — aria attribute update
+- `2026-11-06 12:16` — correct tag focus ring in modal context
