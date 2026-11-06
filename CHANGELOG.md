@@ -5342,3 +5342,4 @@
 - `2026-11-06 12:16` — sync brand tokens with latest identity refresh
 - `2026-11-06 12:16` — improve contrast on modal
 - `2026-11-06 12:16` — border radius update
+- `2026-11-06 12:16` — update sidebar outline
