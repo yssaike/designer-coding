@@ -5328,3 +5328,4 @@
 - `2026-11-06 12:16` — add aria label to page header
 - `2026-11-06 12:16` — correct spinner max-height in dark mode
 - `2026-11-06 12:16` — update background color for elevated surfaces
+- `2026-11-06 12:16` — style: normalize page header selected state at small breakpoints
