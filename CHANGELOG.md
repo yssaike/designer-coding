@@ -5336,3 +5336,4 @@
 - `2026-11-06 12:16` — aria attribute update
 - `2026-11-06 12:16` — correct tag focus ring in modal context
 - `2026-11-06 12:16` — card component update
+- `2026-11-06 12:16` — respect reduced motion in snackbar
