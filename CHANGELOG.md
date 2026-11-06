@@ -5330,3 +5330,4 @@
 - `2026-11-06 12:16` — update background color for elevated surfaces
 - `2026-11-06 12:16` — style: normalize page header selected state at small breakpoints
 - `2026-11-06 12:16` — fix broken token transformer
+- `2026-11-06 12:16` — spacing token update
