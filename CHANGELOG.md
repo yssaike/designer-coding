@@ -5345,3 +5345,4 @@
 - `2026-11-06 12:16` — update sidebar outline
 - `2026-11-06 12:16` — fix inline alert padding
 - `2026-11-06 12:16` — patch inconsistent corner radius in form inputs
+- `2026-11-06 12:16` — navigation styling fix
