@@ -5350,3 +5350,4 @@
 - `2026-11-06 12:16` — screen reader label add
 - `2026-11-06 12:16` — polish card shadow
 - `2026-11-06 12:16` — align vertical rhythm tokens with type scale
+- `2026-11-06 12:16` — add missing primitive token for switch
