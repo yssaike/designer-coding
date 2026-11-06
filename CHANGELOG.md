@@ -5332,3 +5332,4 @@
 - `2026-11-06 12:16` — fix broken token transformer
 - `2026-11-06 12:16` — spacing token update
 - `2026-11-06 12:16` — fix tooltip icon size
+- `2026-11-06 12:16` — correct breadcrumb background
