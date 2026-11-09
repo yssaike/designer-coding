@@ -5372,3 +5372,4 @@
 - `2026-11-08 18:34` — dark mode color tweak
 - `2026-11-08 18:34` — update skeleton shimmer timing
 - `2026-11-08 18:34` — export latest tokens from Figma
+- `2026-11-08 18:34` — tweak segmented control focus ring in the mobile nav
