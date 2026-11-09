@@ -5355,3 +5355,4 @@
 - `2026-11-06 12:16` — fix badge spacing in form layouts
 - `2026-11-08 18:34` — patch skeleton padding in dark mode
 - `2026-11-08 18:34` — fix keyboard navigation in snackbar
+- `2026-11-08 18:34` — patch empty state active state
