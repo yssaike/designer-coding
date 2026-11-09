@@ -5366,3 +5366,4 @@
 - `2026-11-08 18:34` — add missing dark mode token variants
 - `2026-11-08 18:34` — soften icon button hover animation
 - `2026-11-08 18:34` — normalize the radius scale
+- `2026-11-08 18:34` — remove deprecated spacing tokens
