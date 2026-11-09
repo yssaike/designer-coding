@@ -5360,3 +5360,4 @@
 - `2026-11-08 18:34` — polish segmented control text color
 - `2026-11-08 18:34` — update table row loading state in the mobile nav
 - `2026-11-08 18:34` — focus indicator update
+- `2026-11-08 18:34` — hover state fix
