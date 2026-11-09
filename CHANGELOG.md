@@ -5358,3 +5358,4 @@
 - `2026-11-08 18:34` — patch empty state active state
 - `2026-11-08 18:34` — rename tokens to match new naming convention
 - `2026-11-08 18:34` — polish segmented control text color
+- `2026-11-08 18:34` — update table row loading state in the mobile nav
