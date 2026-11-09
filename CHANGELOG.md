@@ -5374,3 +5374,4 @@
 - `2026-11-08 18:34` — export latest tokens from Figma
 - `2026-11-08 18:34` — tweak segmented control focus ring in the mobile nav
 - `2026-11-08 18:34` — add responsive token breakpoints
+- `2026-11-08 18:34` — adjust alpha values on overlay tokens
