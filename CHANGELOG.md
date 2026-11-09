@@ -5353,3 +5353,4 @@
 - `2026-11-06 12:16` — add missing primitive token for switch
 - `2026-11-06 12:16` — soften accordion hover animation
 - `2026-11-06 12:16` — fix badge spacing in form layouts
+- `2026-11-08 18:34` — patch skeleton padding in dark mode
