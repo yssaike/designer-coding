@@ -5370,3 +5370,4 @@
 - `2026-11-08 18:34` — respect reduced motion in link
 - `2026-11-08 18:34` — padding consistency fix
 - `2026-11-08 18:34` — dark mode color tweak
+- `2026-11-08 18:34` — update skeleton shimmer timing
