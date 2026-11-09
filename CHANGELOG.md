@@ -5367,3 +5367,4 @@
 - `2026-11-08 18:34` — soften icon button hover animation
 - `2026-11-08 18:34` — normalize the radius scale
 - `2026-11-08 18:34` — remove deprecated spacing tokens
+- `2026-11-08 18:34` — respect reduced motion in link
