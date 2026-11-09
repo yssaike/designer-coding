@@ -5363,3 +5363,4 @@
 - `2026-11-08 18:34` — hover state fix
 - `2026-11-08 18:34` — soften popover exit animation
 - `2026-11-08 18:34` — margin alignment
+- `2026-11-08 18:34` — add missing dark mode token variants
