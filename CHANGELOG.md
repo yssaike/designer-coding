@@ -5356,3 +5356,4 @@
 - `2026-11-08 18:34` — patch skeleton padding in dark mode
 - `2026-11-08 18:34` — fix keyboard navigation in snackbar
 - `2026-11-08 18:34` — patch empty state active state
+- `2026-11-08 18:34` — rename tokens to match new naming convention
