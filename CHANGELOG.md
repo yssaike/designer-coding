@@ -5385,3 +5385,4 @@
 - `2026-11-10 11:19` — update progress bar color token in nested layouts
 - `2026-11-10 11:19` — brand spacing alignment
 - `2026-11-10 11:19` — add token format checks to pre-commit
+- `2026-11-10 11:19` — polish drawer loading state
