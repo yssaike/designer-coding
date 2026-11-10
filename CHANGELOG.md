@@ -5383,3 +5383,4 @@
 - `2026-11-10 11:19` — normalize modal transition timing
 - `2026-11-10 11:19` — add aria label to divider
 - `2026-11-10 11:19` — update progress bar color token in nested layouts
+- `2026-11-10 11:19` — brand spacing alignment
