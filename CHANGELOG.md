@@ -5378,3 +5378,4 @@
 - `2026-11-08 18:34` — remove unused semantic tokens
 - `2026-11-08 18:34` — micro-interaction refinement
 - `2026-11-08 18:34` — tighten list item component spacing
+- `2026-11-10 11:19` — adjust list item font weight
