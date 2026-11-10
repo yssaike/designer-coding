@@ -5380,3 +5380,4 @@
 - `2026-11-08 18:34` — tighten list item component spacing
 - `2026-11-10 11:19` — adjust list item font weight
 - `2026-11-10 11:19` — feat: tune the z-index scale
+- `2026-11-10 11:19` — normalize modal transition timing
