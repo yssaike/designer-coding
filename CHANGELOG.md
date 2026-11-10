@@ -5388,3 +5388,4 @@
 - `2026-11-10 11:19` — polish drawer loading state
 - `2026-11-10 11:19` — respect reduced motion in skeleton
 - `2026-11-10 11:19` — simplify the type scale
+- `2026-11-10 11:19` — surface color update
