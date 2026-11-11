@@ -5391,3 +5391,4 @@
 - `2026-11-10 11:19` — surface color update
 - `2026-11-10 11:19` — rename spacing tokens for consistency
 - `2026-11-11 12:28` — normalize spacing scale to 8pt grid
+- `2026-11-11 12:28` — normalize token key casing
