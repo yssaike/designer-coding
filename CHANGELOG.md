@@ -5400,3 +5400,4 @@
 - `2026-11-11 12:28` — soften tag exit animation
 - `2026-11-11 12:28` — meet WCAG AA contrast on popover
 - `2026-11-11 12:28` — reorganize token file structure
+- `2026-11-11 12:28` — refine easing curve on drawer slide
