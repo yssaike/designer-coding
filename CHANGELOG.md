@@ -5410,3 +5410,4 @@
 - `2026-11-11 12:28` — resolve table row font weight
 - `2026-11-11 12:28` — simplify the radius scale
 - `2026-11-11 12:28` — update empty state border radius
+- `2026-11-11 12:28` — correct list item color token
