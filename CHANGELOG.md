@@ -5405,3 +5405,4 @@
 - `2026-11-11 12:28` — polish empty state selected state
 - `2026-11-11 12:28` — badge design update
 - `2026-11-11 12:28` — respect reduced motion in input
+- `2026-11-11 12:28` — accent color adjustment
