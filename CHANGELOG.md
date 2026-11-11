@@ -5407,3 +5407,4 @@
 - `2026-11-11 12:28` — respect reduced motion in input
 - `2026-11-11 12:28` — accent color adjustment
 - `2026-11-11 12:28` — document semantic token usage
+- `2026-11-11 12:28` — resolve table row font weight
