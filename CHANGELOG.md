@@ -5415,3 +5415,4 @@
 - `2026-11-11 12:28` — document border token usage
 - `2026-11-11 12:28` — style: normalize badge transition
 - `2026-11-11 12:28` — focus ring update
+- `2026-11-11 12:28` — update monospace font token
