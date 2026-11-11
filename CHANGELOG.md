@@ -5413,3 +5413,4 @@
 - `2026-11-11 12:28` — correct list item color token
 - `2026-11-11 12:28` — resolve banner divider color
 - `2026-11-11 12:28` — document border token usage
+- `2026-11-11 12:28` — style: normalize badge transition
