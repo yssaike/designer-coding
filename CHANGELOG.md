@@ -5395,3 +5395,4 @@
 - `2026-11-11 12:28` — refine banner border radius
 - `2026-11-11 12:28` — deduplicate shadow definitions
 - `2026-11-11 12:28` — refactor: consolidate duplicate color tokens
+- `2026-11-11 12:28` — normalize spinner transition timing
