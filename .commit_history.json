@@ -120,5 +120,17 @@
   "adjust alpha values on overlay tokens": "2026-11-08",
   "remove unused semantic tokens": "2026-11-08",
   "micro-interaction refinement": "2026-11-08",
-  "tighten list item component spacing": "2026-11-08"
+  "tighten list item component spacing": "2026-11-08",
+  "adjust list item font weight": "2026-11-10",
+  "feat: tune the z-index scale": "2026-11-10",
+  "normalize modal transition timing": "2026-11-10",
+  "add aria label to divider": "2026-11-10",
+  "update progress bar color token in nested layouts": "2026-11-10",
+  "brand spacing alignment": "2026-11-10",
+  "add token format checks to pre-commit": "2026-11-10",
+  "polish drawer loading state": "2026-11-10",
+  "respect reduced motion in skeleton": "2026-11-10",
+  "simplify the type scale": "2026-11-10",
+  "surface color update": "2026-11-10",
+  "rename spacing tokens for consistency": "2026-11-10"
 }
