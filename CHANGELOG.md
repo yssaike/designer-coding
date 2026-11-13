@@ -5433,3 +5433,4 @@
 - `2026-11-12 17:13` — sync color tokens with latest Figma variables export
 - `2026-11-12 17:13` — soften tree view entrance animation
 - `2026-11-12 17:13` — style: soften breadcrumb hover animation
+- `2026-11-12 17:13` — adjust tag max-height at tablet widths
