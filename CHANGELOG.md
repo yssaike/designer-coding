@@ -5422,3 +5422,4 @@
 - `2026-11-12 17:13` — a11y: meet WCAG AA contrast on link
 - `2026-11-12 17:13` — normalize the color scale
 - `2026-11-12 17:13` — remove unused spacing tokens
+- `2026-11-12 17:13` — fix broken transition on theme toggle
