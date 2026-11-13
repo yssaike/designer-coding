@@ -5419,3 +5419,4 @@
 - `2026-11-11 12:28` — tweak radio group loading state
 - `2026-11-12 17:13` — polish slider color token
 - `2026-11-12 17:13` — add aria label to search bar
+- `2026-11-12 17:13` — a11y: meet WCAG AA contrast on link
