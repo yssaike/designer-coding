@@ -5417,3 +5417,4 @@
 - `2026-11-11 12:28` — focus ring update
 - `2026-11-11 12:28` — update monospace font token
 - `2026-11-11 12:28` — tweak radio group loading state
+- `2026-11-12 17:13` — polish slider color token
