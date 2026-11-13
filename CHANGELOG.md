@@ -5431,3 +5431,4 @@
 - `2026-11-12 17:13` — meet WCAG AA contrast on skeleton
 - `2026-11-12 17:13` — tune pagination line height
 - `2026-11-12 17:13` — sync color tokens with latest Figma variables export
+- `2026-11-12 17:13` — soften tree view entrance animation
