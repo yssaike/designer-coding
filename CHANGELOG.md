@@ -5427,3 +5427,4 @@
 - `2026-11-12 17:13` — fix off-brand blue in CTA components
 - `2026-11-12 17:13` — resolve toast shadow
 - `2026-11-12 17:13` — style: soften alert exit animation
+- `2026-11-12 17:13` — refine avatar sizing tokens
