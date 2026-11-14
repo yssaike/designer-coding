@@ -5451,3 +5451,4 @@
 - `2026-11-13 18:49` — secondary palette refinement
 - `2026-11-13 18:49` — remap semantic color tokens to new primitives
 - `2026-11-13 18:49` — correct nav disabled state
+- `2026-11-13 18:49` — fix tag border radius in high-contrast mode
