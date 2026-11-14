@@ -5435,3 +5435,4 @@
 - `2026-11-12 17:13` — style: soften breadcrumb hover animation
 - `2026-11-12 17:13` — adjust tag max-height at tablet widths
 - `2026-11-12 17:13` — refine select background in dark mode
+- `2026-11-13 18:49` — a11y: add aria label to segmented control
