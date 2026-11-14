@@ -5443,3 +5443,4 @@
 - `2026-11-13 18:49` — add aria label to popover
 - `2026-11-13 18:49` — respect reduced motion in toast
 - `2026-11-13 18:49` — improve token validation script
+- `2026-11-13 18:49` — bump token schema version
