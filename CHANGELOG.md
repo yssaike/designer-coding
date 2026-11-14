@@ -5455,3 +5455,4 @@
 - `2026-11-13 18:49` — update style dictionary config
 - `2026-11-13 18:49` — correct form field shadow
 - `2026-11-13 18:49` — refactor: remove unused radius tokens
+- `2026-11-13 18:49` — resolve stepper background
