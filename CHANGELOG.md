@@ -5440,3 +5440,4 @@
 - `2026-11-13 18:49` — update switch component track tokens
 - `2026-11-13 18:49` — patch icon button font size
 - `2026-11-13 18:49` — fix ghost button hover color
+- `2026-11-13 18:49` — add aria label to popover
