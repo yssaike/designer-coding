@@ -5454,3 +5454,4 @@
 - `2026-11-13 18:49` — fix tag border radius in high-contrast mode
 - `2026-11-13 18:49` — update style dictionary config
 - `2026-11-13 18:49` — correct form field shadow
+- `2026-11-13 18:49` — refactor: remove unused radius tokens
