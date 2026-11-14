@@ -5449,3 +5449,4 @@
 - `2026-11-13 18:49` — improve focus visibility on badge
 - `2026-11-13 18:49` — normalize alert padding in compact density
 - `2026-11-13 18:49` — secondary palette refinement
+- `2026-11-13 18:49` — remap semantic color tokens to new primitives
