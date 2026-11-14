@@ -5445,3 +5445,4 @@
 - `2026-11-13 18:49` — improve token validation script
 - `2026-11-13 18:49` — bump token schema version
 - `2026-11-13 18:49` — button style update
+- `2026-11-13 18:49` — visual regression fix
