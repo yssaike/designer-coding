@@ -5438,3 +5438,4 @@
 - `2026-11-13 18:49` — a11y: add aria label to segmented control
 - `2026-11-13 18:49` — add high-visibility focus token for forced-colors mode
 - `2026-11-13 18:49` — update switch component track tokens
+- `2026-11-13 18:49` — patch icon button font size
