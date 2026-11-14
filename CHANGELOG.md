@@ -5437,3 +5437,4 @@
 - `2026-11-12 17:13` — refine select background in dark mode
 - `2026-11-13 18:49` — a11y: add aria label to segmented control
 - `2026-11-13 18:49` — add high-visibility focus token for forced-colors mode
+- `2026-11-13 18:49` — update switch component track tokens
