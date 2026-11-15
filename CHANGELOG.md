@@ -5457,3 +5457,4 @@
 - `2026-11-13 18:49` — refactor: remove unused radius tokens
 - `2026-11-13 18:49` — resolve stepper background
 - `2026-11-15 14:23` — tidy up token category groupings
+- `2026-11-15 14:23` — fix toast letter spacing
