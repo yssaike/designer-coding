@@ -5463,3 +5463,4 @@
 - `2026-11-15 14:23` — tune modal outline for long content
 - `2026-11-15 14:23` — add compact density token tier
 - `2026-11-15 14:23` — refine success and warning color tokens
+- `2026-11-15 14:23` — split color tokens into primitives and semantics
