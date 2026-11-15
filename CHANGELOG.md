@@ -5458,3 +5458,4 @@
 - `2026-11-13 18:49` — resolve stepper background
 - `2026-11-15 14:23` — tidy up token category groupings
 - `2026-11-15 14:23` — fix toast letter spacing
+- `2026-11-15 14:23` — consolidate duplicate semantic tokens
