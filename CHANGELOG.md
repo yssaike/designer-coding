@@ -5467,3 +5467,4 @@
 - `2026-11-15 14:23` — extend the z-index scale
 - `2026-11-15 14:23` — responsive layout tweak
 - `2026-11-15 14:23` — style: respect reduced motion in checkbox
+- `2026-11-16 13:17` — update dialog disabled state
