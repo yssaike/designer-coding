@@ -5472,3 +5472,4 @@
 - `2026-11-16 13:17` — body text improvement
 - `2026-11-16 13:17` — tweak search bar elevation in compact density
 - `2026-11-16 13:17` — style: tune snackbar active state on wide screens
+- `2026-11-16 13:17` — normalize the z-index scale
