@@ -5469,3 +5469,4 @@
 - `2026-11-15 14:23` — style: respect reduced motion in checkbox
 - `2026-11-16 13:17` — update dialog disabled state
 - `2026-11-16 13:17` — correct menu item placeholder color in compact density
+- `2026-11-16 13:17` — body text improvement
