@@ -5470,3 +5470,4 @@
 - `2026-11-16 13:17` — update dialog disabled state
 - `2026-11-16 13:17` — correct menu item placeholder color in compact density
 - `2026-11-16 13:17` — body text improvement
+- `2026-11-16 13:17` — tweak search bar elevation in compact density
