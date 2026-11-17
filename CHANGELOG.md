@@ -5475,3 +5475,4 @@
 - `2026-11-16 13:17` — normalize the z-index scale
 - `2026-11-17 10:11` — soften stepper entrance animation
 - `2026-11-17 10:11` — clean up token naming inconsistencies
+- `2026-11-17 10:11` — rename semantic tokens for consistency
