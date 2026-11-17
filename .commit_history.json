@@ -197,5 +197,11 @@
   "split color tokens into primitives and semantics": "2026-11-15",
   "extend the z-index scale": "2026-11-15",
   "responsive layout tweak": "2026-11-15",
-  "style: respect reduced motion in checkbox": "2026-11-15"
+  "style: respect reduced motion in checkbox": "2026-11-15",
+  "update dialog disabled state": "2026-11-16",
+  "correct menu item placeholder color in compact density": "2026-11-16",
+  "body text improvement": "2026-11-16",
+  "tweak search bar elevation in compact density": "2026-11-16",
+  "style: tune snackbar active state on wide screens": "2026-11-16",
+  "normalize the z-index scale": "2026-11-16"
 }
